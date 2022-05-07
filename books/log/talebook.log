@@ -1,0 +1,132 @@
+[I 220507 14:20:22 main:124] Init library with [/data/books/library]
+[I 220507 14:20:22 main:125] Init AuthDB  with [sqlite:////data/books/calibre-webserver.db]
+[I 220507 14:20:22 main:126] Init Static  with [/var/www/talebook/webserver/resources]
+[I 220507 14:20:22 main:127] Init HTML    with [/var/www/talebook/webserver/../app/dist]
+[I 220507 14:20:22 main:128] Init Nuxtjs  with [/var/www/talebook/webserver/../app/.env]
+[I 220507 14:20:22 models:41] Bind modles._session()
+[I 220507 14:20:24 main:191] Now, Running...
+[D 220507 14:20:25 selector_events:59] Using selector: EpollSelector
+[I 220507 14:20:42 web:2239] 200 GET /api/index?random=12&recent=12 (112.3.217.155) 1.09ms
+[E 220507 14:21:17 loader:72] saving settings file: /data/books/settings/auto.py
+[I 220507 14:21:17 web:2239] 200 POST /api/admin/install (112.3.217.155) 39.84ms
+[I 220507 14:21:18 autoreload:201] /data/books/settings/auto.py modified; restarting server
+[I 220507 14:21:18 main:124] Init library with [/data/books/library]
+[I 220507 14:21:18 main:125] Init AuthDB  with [sqlite:////data/books/calibre-webserver.db]
+[I 220507 14:21:18 main:126] Init Static  with [/var/www/talebook/webserver/resources]
+[I 220507 14:21:18 main:127] Init HTML    with [/var/www/talebook/webserver/../app/dist]
+[I 220507 14:21:18 main:128] Init Nuxtjs  with [/var/www/talebook/webserver/../app/.env]
+[I 220507 14:21:18 models:41] Bind modles._session()
+[I 220507 14:21:18 main:191] Now, Running...
+[D 220507 14:21:18 selector_events:59] Using selector: EpollSelector
+[D 220507 14:21:22 base:400] [    2 ms] select books from library  (count = 8)
+[D 220507 14:21:22 base:417] [   21 ms] select books from database (count = 8)
+[D 220507 14:21:22 base:400] [    2 ms] select books from library  (count = 10)
+[D 220507 14:21:22 base:417] [    3 ms] select books from database (count = 10)
+[I 220507 14:21:22 web:2239] 200 GET /api/index (112.3.217.155) 27.28ms
+[D 220507 14:21:22 base:400] [    5 ms] select books from library  (count = 12)
+[D 220507 14:21:22 base:417] [    8 ms] select books from database (count = 12)
+[D 220507 14:21:22 base:400] [    5 ms] select books from library  (count = 12)
+[D 220507 14:21:22 base:417] [    7 ms] select books from database (count = 12)
+[I 220507 14:21:22 web:2239] 200 GET /api/index?random=12&recent=12 (112.3.217.155) 19.06ms
+[D 220507 14:21:23 base:218] Query User(None) = None
+[I 220507 14:21:23 web:2239] 200 GET /api/user/info (112.3.217.155) 5.54ms
+[D 220507 14:21:23 base:218] Query User(None) = None
+[I 220507 14:21:23 web:2239] 200 GET /api/user/messages (112.3.217.155) 1.34ms
+[D 220507 14:21:23 base:400] [    4 ms] select books from library  (count = 12)
+[D 220507 14:21:23 base:417] [    7 ms] select books from database (count = 12)
+[D 220507 14:21:23 base:400] [    3 ms] select books from library  (count = 12)
+[D 220507 14:21:23 base:417] [    4 ms] select books from database (count = 12)
+[I 220507 14:21:23 web:2239] 200 GET /api/index?random=12&recent=12 (112.3.217.155) 14.25ms
+[I 220507 14:21:23 web:2239] 200 GET /get/cover/13.jpg?t=1651068550 (112.3.217.155) 4.93ms
+[I 220507 14:21:23 web:2239] 200 GET /get/cover/4.jpg?t=1651068549 (112.3.217.155) 0.80ms
+[I 220507 14:21:23 web:2239] 200 GET /get/cover/8.jpg?t=1651068550 (112.3.217.155) 1.30ms
+[I 220507 14:21:23 web:2239] 200 GET /get/cover/6.jpg?t=1651068550 (112.3.217.155) 1.26ms
+[I 220507 14:21:23 web:2239] 200 GET /get/cover/1.jpg?t=1651068549 (112.3.217.155) 0.68ms
+[I 220507 14:21:23 web:2239] 200 GET /get/cover/2.jpg?t=1651068549 (112.3.217.155) 0.92ms
+[I 220507 14:21:23 web:2239] 200 GET /get/cover/7.jpg?t=1651068550 (112.3.217.155) 0.95ms
+[I 220507 14:21:24 web:2239] 200 GET /get/cover/10.jpg?t=1651068550 (112.3.217.155) 0.85ms
+[I 220507 14:21:24 web:2239] 200 GET /get/cover/12.jpg?t=1651068550 (112.3.217.155) 2.35ms
+[I 220507 14:21:24 web:2239] 200 GET /get/cover/9.jpg?t=1651068550 (112.3.217.155) 1.12ms
+[I 220507 14:21:25 web:2239] 200 GET /get/cover/11.jpg?t=1651068550 (112.3.217.155) 1.29ms
+[I 220507 14:21:26 web:2239] 200 GET /get/cover/3.jpg?t=1651068549 (112.3.217.155) 0.95ms
+[D 220507 14:21:33 base:218] Query User(None) = None
+[I 220507 14:21:33 web:2239] 304 GET /api/user/info (112.3.217.155) 2.65ms
+[I 220507 14:21:48 web:2239] 200 POST /api/user/sign_in (112.3.217.155) 3.09ms
+[D 220507 14:21:55 user:188] PERM = 
+[I 220507 14:21:55 base:235] LOGIN: 112.3.217.155 - 1 - admin
+[I 220507 14:21:55 web:2239] 200 POST /api/user/sign_in (112.3.217.155) 13.75ms
+[D 220507 14:21:55 base:218] Query User(1) = <id=1, username=admin, email=real-wang@qq.com>
+[I 220507 14:21:55 web:2239] 200 GET /api/user/info (112.3.217.155) 4.81ms
+[D 220507 14:21:55 base:218] Query User(1) = <id=1, username=admin, email=real-wang@qq.com>
+[I 220507 14:21:55 web:2239] 304 GET /api/user/messages (112.3.217.155) 5.47ms
+[D 220507 14:21:55 base:400] [    3 ms] select books from library  (count = 12)
+[D 220507 14:21:55 base:417] [    4 ms] select books from database (count = 12)
+[D 220507 14:21:55 base:400] [    2 ms] select books from library  (count = 12)
+[D 220507 14:21:55 base:417] [    4 ms] select books from database (count = 12)
+[I 220507 14:21:55 web:2239] 304 GET /api/index?random=12&recent=12 (112.3.217.155) 11.08ms
+[D 220507 14:22:01 base:218] Query User(1) = <id=1, username=admin, email=real-wang@qq.com>
+[I 220507 14:22:01 web:2239] 200 GET /api/admin/settings (112.3.217.155) 2.27ms
+[D 220507 14:22:18 base:218] Query User(1) = <id=1, username=admin, email=real-wang@qq.com>
+[D 220507 14:22:18 admin:36] num=10, page=0, sort=, desc=false
+[I 220507 14:22:18 web:2239] 200 GET /api/admin/users?page=1&sort=&desc=false&num=10 (112.3.217.155) 19.94ms
+[D 220507 14:22:18 base:218] Query User(1) = <id=1, username=admin, email=real-wang@qq.com>
+[D 220507 14:22:18 admin:36] num=10, page=0, sort=, desc=false
+[I 220507 14:22:18 web:2239] 304 GET /api/admin/users?page=1&sort=&desc=false&num=10 (112.3.217.155) 4.57ms
+[D 220507 14:22:19 base:218] Query User(1) = <id=1, username=admin, email=real-wang@qq.com>
+[D 220507 14:22:19 admin:449] num=100, page=0, sort=id, desc=True
+[D 220507 14:22:19 base:400] [    3 ms] select books from library  (count = 13)
+[D 220507 14:22:19 base:417] [    4 ms] select books from database (count = 13)
+[I 220507 14:22:19 web:2239] 200 GET /api/admin/book/list?page=1&sort=id&desc=true&num=100&search= (112.3.217.155) 8.26ms
+[I 220507 14:22:19 web:2239] 200 GET /get/thumb_60x80/12.jpg?t=1651068550 (112.3.217.155) 56.77ms
+[I 220507 14:22:19 web:2239] 200 GET /get/thumb_60x80/13.jpg?t=1651068550 (112.3.217.155) 10.07ms
+[I 220507 14:22:19 web:2239] 200 GET /get/thumb_60x80/9.jpg?t=1651068550 (112.3.217.155) 13.92ms
+[I 220507 14:22:19 web:2239] 200 GET /get/thumb_60x80/10.jpg?t=1651068550 (112.3.217.155) 15.36ms
+[I 220507 14:22:19 web:2239] 200 GET /get/thumb_60x80/11.jpg?t=1651068550 (112.3.217.155) 25.14ms
+[I 220507 14:22:21 web:2239] 200 GET /get/thumb_60x80/8.jpg?t=1651068550 (112.3.217.155) 6.32ms
+[I 220507 14:22:21 web:2239] 200 GET /get/thumb_60x80/7.jpg?t=1651068550 (112.3.217.155) 7.56ms
+[I 220507 14:22:21 web:2239] 200 GET /get/thumb_60x80/6.jpg?t=1651068550 (112.3.217.155) 2.79ms
+[I 220507 14:22:22 web:2239] 200 GET /get/thumb_60x80/5.jpg?t=1651068550 (112.3.217.155) 4.10ms
+[I 220507 14:22:22 web:2239] 200 GET /get/thumb_60x80/4.jpg?t=1651068549 (112.3.217.155) 6.47ms
+[I 220507 14:22:22 web:2239] 200 GET /get/thumb_60x80/3.jpg?t=1651068549 (112.3.217.155) 16.11ms
+[I 220507 14:22:22 web:2239] 200 GET /get/thumb_60x80/2.jpg?t=1651068549 (112.3.217.155) 3.53ms
+[I 220507 14:22:22 web:2239] 200 GET /get/thumb_60x80/1.jpg?t=1651068549 (112.3.217.155) 3.73ms
+[D 220507 14:22:27 base:218] Query User(1) = <id=1, username=admin, email=real-wang@qq.com>
+[D 220507 14:22:27 scan:269] num=100, page=0, sort=, desc=false
+[I 220507 14:22:27 web:2239] 200 GET /api/admin/scan/list?page=1&sort=&desc=false&num=100 (112.3.217.155) 43.21ms
+[D 220507 14:22:27 base:218] Query User(1) = <id=1, username=admin, email=real-wang@qq.com>
+[D 220507 14:22:27 scan:269] num=100, page=0, sort=, desc=false
+[I 220507 14:22:27 web:2239] 304 GET /api/admin/scan/list?page=1&sort=&desc=false&num=100 (112.3.217.155) 3.36ms
+[D 220507 14:22:34 base:218] Query User(1) = <id=1, username=admin, email=real-wang@qq.com>
+[I 220507 14:22:34 scan:83] ========== start to check files size & name ============
+[I 220507 14:22:34 scan:106] ========== start to check files hash & meta ============
+[I 220507 14:22:34 web:2239] 200 POST /api/admin/scan/run (112.3.217.155) 5.65ms
+[D 220507 14:22:43 base:218] Query User(1) = <id=1, username=admin, email=real-wang@qq.com>
+[D 220507 14:22:43 admin:449] num=100, page=0, sort=id, desc=True
+[D 220507 14:22:43 base:400] [    3 ms] select books from library  (count = 13)
+[D 220507 14:22:43 base:417] [    5 ms] select books from database (count = 13)
+[I 220507 14:22:43 web:2239] 304 GET /api/admin/book/list?page=1&sort=id&desc=true&num=100&search= (112.3.217.155) 8.39ms
+[D 220507 14:22:44 base:218] Query User(1) = <id=1, username=admin, email=real-wang@qq.com>
+[D 220507 14:22:44 scan:269] num=100, page=0, sort=, desc=false
+[I 220507 14:22:44 web:2239] 304 GET /api/admin/scan/list?page=1&sort=&desc=false&num=100 (112.3.217.155) 3.51ms
+[D 220507 14:22:44 base:218] Query User(1) = <id=1, username=admin, email=real-wang@qq.com>
+[D 220507 14:22:44 scan:269] num=100, page=0, sort=, desc=false
+[I 220507 14:22:44 web:2239] 304 GET /api/admin/scan/list?page=1&sort=&desc=false&num=100 (112.3.217.155) 4.58ms
+[D 220507 14:23:02 base:218] Query User(1) = <id=1, username=admin, email=real-wang@qq.com>
+[D 220507 14:23:02 admin:449] num=100, page=0, sort=id, desc=True
+[D 220507 14:23:02 base:400] [    3 ms] select books from library  (count = 13)
+[D 220507 14:23:02 base:417] [    4 ms] select books from database (count = 13)
+[I 220507 14:23:02 web:2239] 304 GET /api/admin/book/list?page=1&sort=id&desc=true&num=100&search= (112.3.217.155) 7.77ms
+[D 220507 14:23:04 base:218] Query User(1) = <id=1, username=admin, email=real-wang@qq.com>
+[D 220507 14:23:04 scan:269] num=100, page=0, sort=, desc=false
+[I 220507 14:23:04 web:2239] 304 GET /api/admin/scan/list?page=1&sort=&desc=false&num=100 (112.3.217.155) 4.42ms
+[D 220507 14:23:04 base:218] Query User(1) = <id=1, username=admin, email=real-wang@qq.com>
+[D 220507 14:23:04 scan:269] num=100, page=0, sort=, desc=false
+[I 220507 14:23:04 web:2239] 304 GET /api/admin/scan/list?page=1&sort=&desc=false&num=100 (112.3.217.155) 3.40ms
+[I 220507 14:26:52 main:124] Init library with [/data/books/library]
+[I 220507 14:26:52 main:125] Init AuthDB  with [sqlite:////data/books/calibre-webserver.db]
+[I 220507 14:26:52 main:126] Init Static  with [/var/www/talebook/webserver/resources]
+[I 220507 14:26:52 main:127] Init HTML    with [/var/www/talebook/webserver/../app/dist]
+[I 220507 14:26:52 main:128] Init Nuxtjs  with [/var/www/talebook/webserver/../app/.env]
+[I 220507 14:26:52 models:41] Bind modles._session()
+[I 220507 14:26:52 main:191] Now, Running...
+[D 220507 14:26:53 selector_events:59] Using selector: EpollSelector
