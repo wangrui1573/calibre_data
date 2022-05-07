@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e6549b2-a92a-4376-a252-8315df1e0cb3</dc:identifier>
+        <dc:title>漫长的告别（读客熊猫君出品，村上春树的人生之书！村上反复阅读、亲自翻译本书，在日本掀起阅读热潮！说一声再见，就是死去一点点。）</dc:title>
+        <dc:creator opf:file-as="雷蒙德·钱德勒" opf:role="aut">雷蒙德·钱德勒</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-29T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">41ee5881-2b3c-4b02-baac-2e8ff9d16365</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;雷蒙德·钱德勒&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:41:10.854114+00:00"/>
+        <meta name="calibre:title_sort" content="漫长的告别（读客熊猫君出品，村上春树的人生之书！村上反复阅读、亲自翻译本书，在日本掀起阅读热潮！说一声再见，就是死去一点点。）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

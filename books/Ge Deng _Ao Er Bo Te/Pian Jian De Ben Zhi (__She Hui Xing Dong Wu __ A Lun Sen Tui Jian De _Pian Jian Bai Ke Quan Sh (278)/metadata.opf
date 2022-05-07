@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">278</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28055574-0daa-4dc0-9955-bd3cd2e42ff5</dc:identifier>
+        <dc:title>偏见的本质（《社会性动物》阿伦森推荐的“偏见百科全书”，社会心理学入门必读，打破偏见从了解偏见开始！） (智慧宫系列)</dc:title>
+        <dc:creator opf:file-as="戈登·奥尔波特" opf:role="aut">戈登·奥尔波特</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-06T16:00:00+00:00</dc:date>
+        <dc:publisher>北京：九州出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787510893506</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;戈登·奥尔波特&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:59:00.480838+00:00"/>
+        <meta name="calibre:title_sort" content="偏见的本质（《社会性动物》阿伦森推荐的“偏见百科全书”，社会心理学入门必读，打破偏见从了解偏见开始！） (智慧宫系列)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

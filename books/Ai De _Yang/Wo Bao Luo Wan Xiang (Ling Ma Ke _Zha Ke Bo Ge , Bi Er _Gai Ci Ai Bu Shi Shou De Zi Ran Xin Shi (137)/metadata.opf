@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">137</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb6b22c8-c184-4489-88ee-9f06567bc1dc</dc:identifier>
+        <dc:title>我包罗万象（令马克·扎克伯格、比尔·盖茨爱不释手的自然新史，微生物视野下的生命图景全纪录，让你重新认识世界与自己。）</dc:title>
+        <dc:creator opf:file-as="埃德·扬" opf:role="aut">埃德·扬</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-30T16:00:00+00:00</dc:date>
+        <dc:publisher>北京：北京联合出版公</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787559629210</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">2771cd39-9c93-43f9-bc05-40b22c0bc748</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;埃德·扬&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:50:37.821935+00:00"/>
+        <meta name="calibre:title_sort" content="我包罗万象（令马克·扎克伯格、比尔·盖茨爱不释手的自然新史，微生物视野下的生命图景全纪录，让你重新认识世界与自己。）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

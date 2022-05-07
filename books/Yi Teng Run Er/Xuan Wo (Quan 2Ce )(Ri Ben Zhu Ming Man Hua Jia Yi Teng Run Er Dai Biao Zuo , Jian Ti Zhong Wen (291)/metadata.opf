@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">291</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fe415f03-c961-4dfd-907b-bfad6cd1af6a</dc:identifier>
+        <dc:title>旋涡（全2册）（日本著名漫画家伊藤润二代表作， 简体中文版首次出版。一部让你看过后不敢直视水波纹的奇书。旋涡是什么？感官刺激、怪诞离奇、至死不渝的爱情、压抑又温暖，一层一层，毁灭又再生，让人着迷，人性终究能否展示黑暗的力量？）</dc:title>
+        <dc:creator opf:file-as="伊藤润二" opf:role="aut">伊藤润二</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-30T16:00:00+00:00</dc:date>
+        <dc:publisher>新星出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787513340601</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;伊藤润二&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:59:39.150292+00:00"/>
+        <meta name="calibre:title_sort" content="旋涡（全2册）（日本著名漫画家伊藤润二代表作， 简体中文版首次出版。一部让你看过后不敢直视水波纹的奇书。旋涡是什么？感官刺激、怪诞离奇、至死不渝的爱情、压抑又温暖，一层一层，毁灭又再生，让人着迷，人性终究能否展示黑暗的力量？）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

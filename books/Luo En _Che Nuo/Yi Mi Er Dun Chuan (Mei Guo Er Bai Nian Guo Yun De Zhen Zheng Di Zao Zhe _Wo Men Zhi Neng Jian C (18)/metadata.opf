@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e180589f-d0a6-4b79-850d-fa5130689c27</dc:identifier>
+        <dc:title>汉密尔顿传(美国二百年国运的真正缔造者：我们只能坚持美国优先政策)</dc:title>
+        <dc:creator opf:file-as="罗恩·彻诺" opf:role="aut">罗恩·彻诺</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-30T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">b041c7cc-035f-49b7-ada8-6195585cafc1</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;罗恩·彻诺&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:39:35.712458+00:00"/>
+        <meta name="calibre:title_sort" content="汉密尔顿传(美国二百年国运的真正缔造者：我们只能坚持美国优先政策)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

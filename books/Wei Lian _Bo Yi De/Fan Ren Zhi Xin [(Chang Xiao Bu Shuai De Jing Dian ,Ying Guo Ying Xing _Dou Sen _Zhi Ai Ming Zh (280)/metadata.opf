@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">280</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef0a54ad-f11d-4a24-8cf8-153ff37e0dd0</dc:identifier>
+        <dc:title>凡人之心【畅销不衰的经典，英国影星“抖森”至爱名著，布克奖、国际都柏林文学奖提名作品，同名改编剧集获英国“奥斯卡”奖，大西洋月刊年度好书，卫报“死前必读的1000本书”，和麦克尤恩、巴恩斯齐名的英国国民作家，“被英国当代文学图景低看了的”实力派小说家威廉·博伊德核心代表作首次译介】浦睿文化出品</dc:title>
+        <dc:creator opf:file-as="威廉·博伊德" opf:role="aut">威廉·博伊德</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-20T16:00:00+00:00</dc:date>
+        <dc:publisher>湖南文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787540498016</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;威廉·博伊德&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:59:06.562791+00:00"/>
+        <meta name="calibre:title_sort" content="凡人之心【畅销不衰的经典，英国影星“抖森”至爱名著，布克奖、国际都柏林文学奖提名作品，同名改编剧集获英国“奥斯卡”奖，大西洋月刊年度好书，卫报“死前必读的1000本书”，和麦克尤恩、巴恩斯齐名的英国国民作家，“被英国当代文学图景低看了的”实力派小说家威廉·博伊德核心代表作首次译介】浦睿文化出品"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

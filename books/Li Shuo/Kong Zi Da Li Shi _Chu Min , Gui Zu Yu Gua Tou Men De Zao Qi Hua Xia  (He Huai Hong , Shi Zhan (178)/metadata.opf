@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">178</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">308c385a-c6e1-4154-b424-757884547c97</dc:identifier>
+        <dc:title>孔子大历史：初民、贵族与寡头们的早期华夏 (何怀宏、施展、韩巍鼎力推荐！领略孔子时代的社会风貌，探讨古代贵族政治的走向与出路)</dc:title>
+        <dc:creator opf:file-as="李硕" opf:role="aut">李硕</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-31T16:00:00+00:00</dc:date>
+        <dc:publisher>上海人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">e19ded5a-a903-4038-b50f-74145e72f3fd</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;李硕&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:53:15.817001+00:00"/>
+        <meta name="calibre:title_sort" content="孔子大历史：初民、贵族与寡头们的早期华夏 (何怀宏、施展、韩巍鼎力推荐！领略孔子时代的社会风貌，探讨古代贵族政治的走向与出路)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

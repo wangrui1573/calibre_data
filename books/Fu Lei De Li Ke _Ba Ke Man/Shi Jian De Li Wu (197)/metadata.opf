@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">197</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">70002e52-1be8-4e23-8a22-8fa1a54de215</dc:identifier>
+        <dc:title>时间的礼物</dc:title>
+        <dc:creator opf:file-as="弗雷德里克·巴克曼" opf:role="aut">弗雷德里克·巴克曼</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-30T16:00:00+00:00</dc:date>
+        <dc:publisher>天津人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787201142821</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">357d2d36-96e1-44f1-86f2-5d7af07714f6</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;弗雷德里克·巴克曼&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:54:30.216924+00:00"/>
+        <meta name="calibre:title_sort" content="时间的礼物"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

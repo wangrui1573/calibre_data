@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">269</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3eeb284b-4c3e-4870-8b14-189e770d8639</dc:identifier>
+        <dc:title>岂不怀归：三和青年调查（“潜伏”深圳三和人才市场，国内首部“三和大神”纪实。李培林、李银河、梁鸿、熊培云诚挚推荐。）</dc:title>
+        <dc:creator opf:file-as="田丰 &amp; 林凯玄" opf:role="aut">田丰</dc:creator>
+        <dc:creator opf:file-as="田丰 &amp; 林凯玄" opf:role="aut">林凯玄</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-29T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B08FB2TN6K</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;田丰&quot;: &quot;&quot;, &quot;林凯玄&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:58:32.827044+00:00"/>
+        <meta name="calibre:title_sort" content="岂不怀归：三和青年调查（“潜伏”深圳三和人才市场，国内首部“三和大神”纪实。李培林、李银河、梁鸿、熊培云诚挚推荐。）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

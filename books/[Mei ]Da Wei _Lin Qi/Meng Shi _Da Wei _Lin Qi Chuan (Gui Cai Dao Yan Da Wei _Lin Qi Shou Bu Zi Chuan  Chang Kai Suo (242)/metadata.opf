@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">242</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">354daa07-bd5f-4b78-afeb-552e7f0694ba</dc:identifier>
+        <dc:title>梦室：大卫·林奇传（鬼才导演大卫·林奇首部自传 敞开所有，回应一切 请君入“梦” 理想国出品）</dc:title>
+        <dc:creator opf:file-as="[美]大卫·林奇 &amp; [美]克里斯汀·麦肯纳" opf:role="aut">[美]大卫·林奇</dc:creator>
+        <dc:creator opf:file-as="[美]大卫·林奇 &amp; [美]克里斯汀·麦肯纳" opf:role="aut">[美]克里斯汀·麦肯纳</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-31T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B08HGJGN6M</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;[美]大卫·林奇&quot;: &quot;&quot;, &quot;[美]克里斯汀·麦肯纳&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:57:13.659890+00:00"/>
+        <meta name="calibre:title_sort" content="梦室：大卫·林奇传（鬼才导演大卫·林奇首部自传 敞开所有，回应一切 请君入“梦” 理想国出品）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

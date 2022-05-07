@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">331</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa6471fe-e88b-4e8e-8c4b-2ce836c17004</dc:identifier>
+        <dc:title>低智商犯罪【《长夜难明》作者紫金陈最新力作！推理与喜剧的完美融合！一部别具魅力的类型小说！】</dc:title>
+        <dc:creator opf:file-as="紫金陈" opf:role="aut">紫金陈</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-31T16:00:00+00:00</dc:date>
+        <dc:publisher>中国友谊出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">04d08a25-675d-460b-9c23-391cba2c8651</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;紫金陈&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T05:01:47.159700+00:00"/>
+        <meta name="calibre:title_sort" content="低智商犯罪【《长夜难明》作者紫金陈最新力作！推理与喜剧的完美融合！一部别具魅力的类型小说！】"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

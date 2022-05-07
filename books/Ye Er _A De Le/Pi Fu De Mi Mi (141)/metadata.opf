@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">141</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">910b372c-f57e-415f-930c-8cbfca8a2e2f</dc:identifier>
+        <dc:title>皮肤的秘密</dc:title>
+        <dc:creator opf:file-as="耶尔·阿德勒" opf:role="aut">耶尔·阿德勒</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-31T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">3f263122-2a8c-413c-bc8b-68690e2da246</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;耶尔·阿德勒&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:50:55.902860+00:00"/>
+        <meta name="calibre:title_sort" content="皮肤的秘密"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">239</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5134418b-46d8-4af4-bc30-3107271772f6</dc:identifier>
+        <dc:title>秋园</dc:title>
+        <dc:creator opf:file-as="杨本芬" opf:role="aut">杨本芬</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-31T16:00:00+00:00</dc:date>
+        <dc:publisher>北京联合出版公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">82f3f599-44a7-4907-907c-1f18db41739d</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;杨本芬&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:57:03.888260+00:00"/>
+        <meta name="calibre:title_sort" content="秋园"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

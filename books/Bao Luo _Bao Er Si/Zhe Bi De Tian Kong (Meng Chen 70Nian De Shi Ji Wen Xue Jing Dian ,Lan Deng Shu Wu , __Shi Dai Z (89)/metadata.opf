@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">89</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2c849538-0a8c-48c2-8902-2ce5475d6b16</dc:identifier>
+        <dc:title>遮蔽的天空（蒙尘70年的世纪文学经典，兰登书屋、《时代周刊》百大英语小说）</dc:title>
+        <dc:creator opf:file-as="保罗·鲍尔斯" opf:role="aut">保罗·鲍尔斯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-29T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">a16fee85-944b-45a3-a6ae-a2c91aca0d4e</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>lcsh: Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;保罗·鲍尔斯&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:43:12.710666+00:00"/>
+        <meta name="calibre:title_sort" content="遮蔽的天空（蒙尘70年的世纪文学经典，兰登书屋、《时代周刊》百大英语小说）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

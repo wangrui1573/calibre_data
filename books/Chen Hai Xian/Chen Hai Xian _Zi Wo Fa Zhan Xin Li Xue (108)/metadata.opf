@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">108</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">339ebe7f-355a-492d-88ed-05f3d440d853</dc:identifier>
+        <dc:title>陈海贤：自我发展心理学</dc:title>
+        <dc:creator opf:file-as="陈海贤" opf:role="aut">陈海贤</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">b30613d1-e9db-4839-9636-a71de625de6a</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;陈海贤&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:48:37.255438+00:00"/>
+        <meta name="calibre:title_sort" content="陈海贤：自我发展心理学"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

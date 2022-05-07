@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">333</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8fbe38c-bbf3-43b9-a1d9-3aaf2aba5d4a</dc:identifier>
+        <dc:title>扫鼠岭</dc:title>
+        <dc:creator opf:file-as="呼延云" opf:role="aut">呼延云</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-01T16:00:00+00:00</dc:date>
+        <dc:publisher>新星出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787513340625</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;呼延云&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T05:01:52.780349+00:00"/>
+        <meta name="calibre:title_sort" content="扫鼠岭"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

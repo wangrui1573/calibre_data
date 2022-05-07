@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">209</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0842dedb-3ae8-4737-be10-7c73a7be1806</dc:identifier>
+        <dc:title>镇魂</dc:title>
+        <dc:creator opf:file-as="priest" opf:role="aut">Priest</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">eddfeb30-c497-4a29-a780-391734f9f968</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Priest&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:55:15.612497+00:00"/>
+        <meta name="calibre:title_sort" content="镇魂"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

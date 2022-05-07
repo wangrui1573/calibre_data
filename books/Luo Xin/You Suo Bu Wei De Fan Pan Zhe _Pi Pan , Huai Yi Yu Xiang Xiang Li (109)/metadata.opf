@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">109</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6076c6fe-aaaf-4eed-acb8-3144592a1853</dc:identifier>
+        <dc:title>有所不为的反叛者：批判、怀疑与想象力</dc:title>
+        <dc:creator opf:file-as="罗新" opf:role="aut">罗新</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-07T16:00:00+00:00</dc:date>
+        <dc:publisher>上海三联书店</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787542666468</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">e16c1ffd-0b48-4115-8e6a-7d5a3c042d3b</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;罗新&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:48:41.132009+00:00"/>
+        <meta name="calibre:title_sort" content="有所不为的反叛者：批判、怀疑与想象力"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

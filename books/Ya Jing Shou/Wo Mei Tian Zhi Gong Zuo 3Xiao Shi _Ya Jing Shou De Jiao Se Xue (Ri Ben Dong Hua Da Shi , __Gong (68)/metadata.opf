@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">68</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3b3f49bc-4580-4e2f-bd1e-54600e01f0cb</dc:identifier>
+        <dc:title>我每天只工作3小时：押井守的角色学（日本动画大师、《攻壳机动队》导演押井守教你从电影中体会职场法则、工作之道。）</dc:title>
+        <dc:creator opf:file-as="押井守" opf:role="aut">押井守</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-30T16:00:00+00:00</dc:date>
+        <dc:publisher>成都：四川人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787220108099</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">9211e3dc-a643-4d3a-8c47-a149e26e1ead</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;押井守&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:42:10.146916+00:00"/>
+        <meta name="calibre:title_sort" content="我每天只工作3小时：押井守的角色学（日本动画大师、《攻壳机动队》导演押井守教你从电影中体会职场法则、工作之道。）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">337</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">06802a36-bf4d-48ab-9dcf-00e0064a75fe</dc:identifier>
+        <dc:title>诡计博物馆</dc:title>
+        <dc:creator opf:file-as="大山诚一郎" opf:role="aut">大山诚一郎</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-22T16:00:00+00:00</dc:date>
+        <dc:publisher>上海文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-7-5321-7609-0</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>推理</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;大山诚一郎&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T05:02:03.536806+00:00"/>
+        <meta name="calibre:title_sort" content="诡计博物馆"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

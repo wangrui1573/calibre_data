@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">296</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b92682dd-d8e0-4912-bed5-cff98c32bbcc</dc:identifier>
+        <dc:title>坟场之书（读客熊猫君出品。坟场是一个充满了爱的地方，充满了对生者无限的眷恋和爱。狂揽20项国际大奖的奇幻经典！插图版）</dc:title>
+        <dc:creator opf:file-as="尼尔·盖曼" opf:role="aut">尼尔·盖曼</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-14T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">d418cc1a-ead0-455c-9ab4-f76106f72fa6</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;尼尔·盖曼&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:59:58.921898+00:00"/>
+        <meta name="calibre:title_sort" content="坟场之书（读客熊猫君出品。坟场是一个充满了爱的地方，充满了对生者无限的眷恋和爱。狂揽20项国际大奖的奇幻经典！插图版）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">135</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4228f85-902b-4c0a-aff5-71f92de01f8e</dc:identifier>
+        <dc:title>世界边缘的秘密：科学对生命的惊人回答</dc:title>
+        <dc:creator opf:file-as="光子" opf:role="aut">光子</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-30T16:00:00+00:00</dc:date>
+        <dc:publisher>中信出版集团</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787521705485</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">498305f8-15b2-453b-b44a-4cfa623f697f</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;光子&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:50:27.834097+00:00"/>
+        <meta name="calibre:title_sort" content="世界边缘的秘密：科学对生命的惊人回答"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

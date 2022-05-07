@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">147</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4bb72cbf-11be-4e00-9b84-d7209c654e2e</dc:identifier>
+        <dc:title>黑暗中飘香的谎言</dc:title>
+        <dc:creator opf:file-as="下村敦史" opf:role="aut">下村敦史</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-31T16:00:00+00:00</dc:date>
+        <dc:publisher>湖南文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787540492892</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">cf4f8267-0d18-45bb-b9fe-1aee881dc58b</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;下村敦史&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:51:18.266748+00:00"/>
+        <meta name="calibre:title_sort" content="黑暗中飘香的谎言"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

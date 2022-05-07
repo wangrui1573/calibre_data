@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">342</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c92a7af-d38f-4a4c-8b3d-febeb076cf28</dc:identifier>
+        <dc:title>大图景：论生命的起源、意义和宇宙本身（一场宇宙的奇妙发现之旅，了解宇宙的整体图景，思考宇宙与人的未来。卡洛·罗韦利推荐）</dc:title>
+        <dc:creator opf:file-as="肖恩·卡罗尔" opf:role="aut">肖恩·卡罗尔</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-05T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">a66568c3-8dcf-414e-82cd-29df7a406ba8</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;肖恩·卡罗尔&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T05:02:17.946593+00:00"/>
+        <meta name="calibre:title_sort" content="大图景：论生命的起源、意义和宇宙本身（一场宇宙的奇妙发现之旅，了解宇宙的整体图景，思考宇宙与人的未来。卡洛·罗韦利推荐）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

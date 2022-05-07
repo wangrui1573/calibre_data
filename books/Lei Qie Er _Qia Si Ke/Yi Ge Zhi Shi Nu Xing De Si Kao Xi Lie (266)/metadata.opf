@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">266</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d2eba62-e4f0-492c-9c11-d88e9ec4b74b</dc:identifier>
+        <dc:title>一个知识女性的思考系列</dc:title>
+        <dc:creator opf:file-as="蕾切尔·卡斯克" opf:role="aut">蕾切尔·卡斯克</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-13T16:00:00+00:00</dc:date>
+        <dc:publisher>中信出版集团</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787521714128</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;蕾切尔·卡斯克&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:58:24.018357+00:00"/>
+        <meta name="calibre:title_sort" content="一个知识女性的思考系列"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

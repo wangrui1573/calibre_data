@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">205</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3e9202fe-210f-4b3e-bb99-cb00c6d3c2ed</dc:identifier>
+        <dc:title>全能侦探社</dc:title>
+        <dc:creator opf:file-as="道格拉斯•亚当斯 (Douglas Adams)" opf:role="aut">道格拉斯•亚当斯 (Douglas Adams)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-31T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">7d18fd45-1f36-469a-b354-c63bc1141450</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;道格拉斯•亚当斯 (Douglas Adams)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:55:00.661100+00:00"/>
+        <meta name="calibre:title_sort" content="全能侦探社"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

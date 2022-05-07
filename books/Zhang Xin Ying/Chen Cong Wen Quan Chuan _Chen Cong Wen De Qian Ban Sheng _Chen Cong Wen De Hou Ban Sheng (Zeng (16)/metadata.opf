@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d318c60a-bc05-4b75-b42a-8c94be255747</dc:identifier>
+        <dc:title>沈从文全传：沈从文的前半生+沈从文的后半生（增订版全二册）</dc:title>
+        <dc:creator opf:file-as="张新颖" opf:role="aut">张新颖</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-13T16:00:00+00:00</dc:date>
+        <dc:publisher>上海三联书店</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000VZ3GF1</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;张新颖&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:39:29.918708+00:00"/>
+        <meta name="calibre:title_sort" content="沈从文全传：沈从文的前半生+沈从文的后半生（增订版全二册）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

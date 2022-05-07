@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">215</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a02bc9c-7e07-4a50-9ff6-1fb1e51f8c5e</dc:identifier>
+        <dc:title>人生海海（何必在意一时沉浮。浑身是“谜”的上校，带你解密人性的荒唐与高尚！离奇的故事包藏着令人叹息的人生况味。）</dc:title>
+        <dc:creator opf:file-as="麦家" opf:role="aut">麦家</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-31T22:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">01af922d-ee36-46a5-9b9b-777f856e9f18</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;麦家&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:55:38.624090+00:00"/>
+        <meta name="calibre:title_sort" content="人生海海（何必在意一时沉浮。浑身是“谜”的上校，带你解密人性的荒唐与高尚！离奇的故事包藏着令人叹息的人生况味。）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

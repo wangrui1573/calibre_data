@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">441</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b344a3d-38bb-40e0-8340-f9720967577a</dc:identifier>
+        <dc:title>绑架游戏</dc:title>
+        <dc:creator opf:file-as="[日]东野圭吾,赵平,郑悦(译)" opf:role="aut">[日]东野圭吾,赵平,郑悦(译)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-28T16:00:00+00:00</dc:date>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">f6f9ebed-c26f-4bd1-bac8-d2182acca649</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;[日]东野圭吾,赵平,郑悦(译)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-29T13:26:26.631297+00:00"/>
+        <meta name="calibre:title_sort" content="绑架游戏"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

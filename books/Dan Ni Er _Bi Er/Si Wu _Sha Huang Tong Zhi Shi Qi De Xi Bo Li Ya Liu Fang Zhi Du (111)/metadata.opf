@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">111</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07cb5b64-3e8d-4dfb-bfdd-5a4c28567cd9</dc:identifier>
+        <dc:title>死屋：沙皇统治时期的西伯利亚流放制度</dc:title>
+        <dc:creator opf:file-as="丹尼尔·比尔" opf:role="aut">丹尼尔·比尔</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-31T16:00:00+00:00</dc:date>
+        <dc:publisher>成都：四川文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787541153624</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">e6f55a12-32a0-45e6-951b-f0a2fb0143ba</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;丹尼尔·比尔&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:48:48.904405+00:00"/>
+        <meta name="calibre:title_sort" content="死屋：沙皇统治时期的西伯利亚流放制度"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

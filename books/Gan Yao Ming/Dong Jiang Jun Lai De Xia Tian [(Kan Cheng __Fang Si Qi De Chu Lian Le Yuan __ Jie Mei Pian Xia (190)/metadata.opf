@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">190</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29cbfab6-ce58-4bee-a284-a17f8f54321b</dc:identifier>
+        <dc:title>冬将军来的夏天【堪称《房思琪的初恋乐园》姐妹篇小说！ 诺贝尔文学奖得主莫言盛赞 著名作家梁鸿、周嘉宁、王占黑鼎力推荐！2019年最值得期待的华语文学力作！】</dc:title>
+        <dc:creator opf:file-as="甘耀明" opf:role="aut">甘耀明</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-31T16:00:00+00:00</dc:date>
+        <dc:publisher>贵州人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">daafed9a-1be1-4c4b-83e6-442a4290169d</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;甘耀明&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:54:03.430506+00:00"/>
+        <meta name="calibre:title_sort" content="冬将军来的夏天【堪称《房思琪的初恋乐园》姐妹篇小说！ 诺贝尔文学奖得主莫言盛赞 著名作家梁鸿、周嘉宁、王占黑鼎力推荐！2019年最值得期待的华语文学力作！】"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

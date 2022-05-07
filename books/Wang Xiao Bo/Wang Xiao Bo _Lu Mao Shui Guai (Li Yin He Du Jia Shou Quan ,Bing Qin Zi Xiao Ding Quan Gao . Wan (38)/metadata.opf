@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">80ce9742-d847-4b27-9e4b-d76a3154f245</dc:identifier>
+        <dc:title>王小波：绿毛水怪（李银河独家授权，并亲自校订全稿。王小波、李银河定情之作！“从《绿毛水怪》开始，他拥有我，我拥有他。”）</dc:title>
+        <dc:creator opf:file-as="王小波" opf:role="aut">王小波</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-30T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07FDN56S5</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;王小波&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:40:34.097798+00:00"/>
+        <meta name="calibre:title_sort" content="王小波：绿毛水怪（李银河独家授权，并亲自校订全稿。王小波、李银河定情之作！“从《绿毛水怪》开始，他拥有我，我拥有他。”）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

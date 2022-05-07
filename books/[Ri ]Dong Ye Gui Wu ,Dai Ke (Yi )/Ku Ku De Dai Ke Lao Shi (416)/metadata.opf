@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">416</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8bd2fac5-4244-4aff-ac06-aa94171914e9</dc:identifier>
+        <dc:title>酷酷的代课老师</dc:title>
+        <dc:creator opf:file-as="[日]东野圭吾,代珂(译)" opf:role="aut">[日]东野圭吾,代珂(译)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-15T09:32:17+00:00</dc:date>
+        <dc:description>东野圭吾专门写给小学生的推理小说。 阅读推理小说是训练青少年缜密思维的最佳途径。
+——————————————————————————————————————————
+我是小学代课老师。学校不把我当回事，学生也知道我干不长久。
+我并不喜欢当老师，成为推理小说家才是我的 理想。我不指望学生喜欢我 ，也不想说大道理，但在认真教课方面绝不含糊。没办法，我为人就是这么耿直。
+说来也怪，每次都有学生舍不得我离开，说我是个好老师，还有人会哭鼻子。
+这次我来到了一文字小学的五年级二班，没想到第二天就出大事了！于是我顺便破了案，带着疑惑离开可不是我的风格。
+此外，《酷酷的代课老师》一书还收录了以小学生为主角的《找出纵火犯》《来自幽灵的电话》两则短篇。
+——————————————————————————————————————————
+故事充满童趣，不矫情不奶油，既酷劲十足，又积极温暖。
+揭示了社会上的一些父母和老师只管喂饱孩子，却对孩子成为什么样的人不闻不问的现象。
+呼吁家长和老师要在了解现实的基础上，更诚实地和孩子们谈论理想。
+日本著名文艺评论家细谷正充评论：“少年题材和硬汉派的关系其实就像水和油，然后为了让孩子们能够理解现实，男主人公的设定是十分有必要的。不管是大人还是孩子，我都希望大家来看这本书。”</dc:description>
+        <dc:publisher>南海出版公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">dffe2e2f-294d-402a-8346-458e88b3a43f</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787544278164</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;[日]东野圭吾,代珂(译)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-29T13:24:53+00:00"/>
+        <meta name="calibre:title_sort" content="酷酷的代课老师"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

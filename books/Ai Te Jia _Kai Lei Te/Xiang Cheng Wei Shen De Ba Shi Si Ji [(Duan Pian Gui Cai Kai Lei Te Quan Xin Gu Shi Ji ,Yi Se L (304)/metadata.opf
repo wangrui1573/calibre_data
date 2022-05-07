@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">304</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bbc9e0f7-d4cd-417c-af1e-5f278380cb1c</dc:identifier>
+        <dc:title>想成为神的巴士司机【短篇鬼才凯雷特全新故事集，以色列最高文学奖萨皮尔奖获奖作品，全美犹太人图书奖获奖作品《泰晤士报》《金融时报》纽约公共图书馆“年度好书”】</dc:title>
+        <dc:creator opf:file-as="埃特加·凯雷特" opf:role="aut">埃特加·凯雷特</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-31T16:00:00+00:00</dc:date>
+        <dc:publisher>湖南文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787540495626</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">527bc8ba-be2b-409d-8546-e46fc59bb877</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;埃特加·凯雷特&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T05:00:23.619744+00:00"/>
+        <meta name="calibre:title_sort" content="想成为神的巴士司机【短篇鬼才凯雷特全新故事集，以色列最高文学奖萨皮尔奖获奖作品，全美犹太人图书奖获奖作品《泰晤士报》《金融时报》纽约公共图书馆“年度好书”】"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

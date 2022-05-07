@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">263</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bfba69ec-c058-4daa-8d5b-f2ff54d41d46</dc:identifier>
+        <dc:title>春山：王维的盛唐与寂灭</dc:title>
+        <dc:creator opf:file-as="何大草" opf:role="aut">何大草</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-31T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">1c1e9155-6231-48d6-8678-51ccd1a97aea</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;何大草&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:58:15.232752+00:00"/>
+        <meta name="calibre:title_sort" content="春山：王维的盛唐与寂灭"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">134</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dbedfa86-fcc6-4ca6-9d30-844dddd297bf</dc:identifier>
+        <dc:title>闯入者</dc:title>
+        <dc:creator opf:file-as="胡学文" opf:role="aut">胡学文</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-28T16:00:00+00:00</dc:date>
+        <dc:publisher>百花文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787530671665</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">91675dff-a8ae-496d-97f2-e2027c2b51de</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;胡学文&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:50:23.344194+00:00"/>
+        <meta name="calibre:title_sort" content="闯入者"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">185</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">95c0095e-f33f-49f7-8cd8-542a7e600e62</dc:identifier>
+        <dc:title>饮食的迷思：关于营养、健康和遗传的科学真相（拒绝盲目跟风，活出自己的健康）</dc:title>
+        <dc:creator opf:file-as="蒂姆·斯佩克特" opf:role="aut">蒂姆·斯佩克特</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-22T16:00:00+00:00</dc:date>
+        <dc:publisher>广西师范大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787559813442</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">47348457-9cc3-41d8-8f8d-480f70c41717</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;蒂姆·斯佩克特&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:53:42.958179+00:00"/>
+        <meta name="calibre:title_sort" content="饮食的迷思：关于营养、健康和遗传的科学真相（拒绝盲目跟风，活出自己的健康）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

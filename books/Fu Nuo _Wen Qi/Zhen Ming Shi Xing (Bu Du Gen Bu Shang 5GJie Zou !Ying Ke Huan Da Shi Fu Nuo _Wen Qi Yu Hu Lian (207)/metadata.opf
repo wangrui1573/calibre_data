@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">207</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">422d36bc-59a4-4a4c-9d62-690b2327d7ad</dc:identifier>
+        <dc:title>真名实姓（不读跟不上5G节奏！硬科幻大师弗诺·文奇与互联网“大触”间的巅峰对话，刘慈欣公开盛赞：科幻小说魅力的完美体现！） (未读·文艺家)</dc:title>
+        <dc:creator opf:file-as="弗诺·文奇 &amp; 等" opf:role="aut">弗诺·文奇</dc:creator>
+        <dc:creator opf:file-as="弗诺·文奇 &amp; 等" opf:role="aut">等</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-31T16:00:00+00:00</dc:date>
+        <dc:publisher>未读·文艺家</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07T5DM859</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;弗诺·文奇&quot;: &quot;&quot;, &quot;等&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:55:07.960471+00:00"/>
+        <meta name="calibre:title_sort" content="真名实姓（不读跟不上5G节奏！硬科幻大师弗诺·文奇与互联网“大触”间的巅峰对话，刘慈欣公开盛赞：科幻小说魅力的完美体现！） (未读·文艺家)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

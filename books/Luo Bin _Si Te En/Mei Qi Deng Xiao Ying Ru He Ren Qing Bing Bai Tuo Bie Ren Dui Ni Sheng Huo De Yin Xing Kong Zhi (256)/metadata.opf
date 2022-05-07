@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">256</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1fb61d5a-5501-4f9b-a572-6f9f79a1160d</dc:identifier>
+        <dc:title>煤气灯效应如何认清并摆脱别人对你生活的隐性控制煤气灯操纵的本质是双方共同打造的一种关系。它表现为情感虐待、情感操纵、PUA…… 心理学界知名作者和国际媒体力荐</dc:title>
+        <dc:creator opf:file-as="罗宾·斯特恩" opf:role="aut">罗宾·斯特恩</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-05T16:00:00+00:00</dc:date>
+        <dc:publisher>中信出版集团</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787521714289</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;罗宾·斯特恩&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:57:54.530448+00:00"/>
+        <meta name="calibre:title_sort" content="煤气灯效应如何认清并摆脱别人对你生活的隐性控制煤气灯操纵的本质是双方共同打造的一种关系。它表现为情感虐待、情感操纵、PUA…… 心理学界知名作者和国际媒体力荐"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

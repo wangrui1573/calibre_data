@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">216</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">464b0334-805a-48aa-923e-6d47bb0bdce3</dc:identifier>
+        <dc:title>喜鹊谋杀案（美国亚马逊、《纽约时报》年度最佳图书，史无前例横扫日本五大推理榜单，独特的书中书、案中案，双重谜题带来双倍战栗！）</dc:title>
+        <dc:creator opf:file-as="安东尼·霍洛维茨" opf:role="aut">安东尼·霍洛维茨</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-08T16:00:00+00:00</dc:date>
+        <dc:publisher>新星出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787513335782</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07S8VZ8HL</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;安东尼·霍洛维茨&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:55:42.316126+00:00"/>
+        <meta name="calibre:title_sort" content="喜鹊谋杀案（美国亚马逊、《纽约时报》年度最佳图书，史无前例横扫日本五大推理榜单，独特的书中书、案中案，双重谜题带来双倍战栗！）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

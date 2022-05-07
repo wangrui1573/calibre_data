@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8bf4abba-877f-41e2-926b-2caaca90f7c5</dc:identifier>
+        <dc:title>20世纪简史：从无线电到柏林墙（一次熟悉又陌生的百年全球之旅）</dc:title>
+        <dc:creator opf:file-as="Blainey）, 杰弗里•布莱内（Geoffrey" opf:role="aut">杰弗里•布莱内（Geoffrey Blainey）</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-31T16:00:00+00:00</dc:date>
+        <dc:publisher>上海三联书店</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787542662859</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">90e2cd32-ed81-4102-a064-65cd878f345e</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;杰弗里•布莱内（Geoffrey Blainey）&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:39:11.215645+00:00"/>
+        <meta name="calibre:title_sort" content="20世纪简史：从无线电到柏林墙（一次熟悉又陌生的百年全球之旅）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

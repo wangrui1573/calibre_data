@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">88</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d2e2d30-b27a-4cf7-b87d-b46b2a7112c5</dc:identifier>
+        <dc:title>基因传</dc:title>
+        <dc:creator opf:file-as="悉达多·穆克吉" opf:role="aut">悉达多·穆克吉</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-31T16:00:00+00:00</dc:date>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508682426</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;悉达多·穆克吉&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:43:09.612745+00:00"/>
+        <meta name="calibre:title_sort" content="基因传"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

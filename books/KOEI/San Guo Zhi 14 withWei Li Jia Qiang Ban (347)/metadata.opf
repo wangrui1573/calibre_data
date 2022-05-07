@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">347</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">79df1862-850e-4250-b24e-072799254ab8</dc:identifier>
+        <dc:title>三国志14 with威力加强版</dc:title>
+        <dc:creator opf:file-as="未知" opf:role="aut">KOEI</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h2 style="line-height: 30px; font-family: 'PingFang SC','Hiragino Sans GB','Microsoft YaHei'"&gt;&lt;span style="color: #000000"&gt;编辑的话&lt;/span&gt;&lt;/h2&gt;
+&lt;p style="line-height: 24px; font-family: 'PingFang SC','Microsoft YaHei','微软雅黑','SimSun','宋体','Arial','STHeiti','华文黑体','Helvetica','Tahoma','Arial sans-serif'; font-size: 14px"&gt;&lt;span style="color: #262626"&gt;重回三国的“名战场”。&lt;/span&gt;&lt;/p&gt;
+&lt;h2 style="line-height: 30px; font-family: 'PingFang SC','Hiragino Sans GB','Microsoft YaHei'"&gt;&lt;span style="color: #000000"&gt;关于游戏&lt;/span&gt;&lt;/h2&gt;
+&lt;p style="line-height: 24px; font-family: 'PingFang SC','Microsoft YaHei','微软雅黑','SimSun','宋体','Arial','STHeiti','华文黑体','Helvetica','Tahoma','Arial sans-serif'; font-size: 14px"&gt;&lt;span style="color: #262626"&gt;《三国志14 with威力加强版》是《三国志14》与威力加强版的合集，但不包含季票内容。本次威力加强版新追加了“地利”要素、异民族都市、欧亚诸国贸易和「称霸战记」模式等内容。还增加了多个全新个性、专用战法、特定地形的新建筑物，可回顾游戏中行动的“年表”等。&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>/volume1/RDM_3.5T/Games/NS/（2020）12月10号【XCI】三国志14威力加强版套装+12DLC 中文整合版</dc:publisher>
+        <dc:language>zh</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;KOEI&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="NS"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-12-27T05:25:24.228849+00:00"/>
+        <meta name="calibre:title_sort" content="三国志14 with威力加强版"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

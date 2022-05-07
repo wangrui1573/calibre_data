@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">424</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d84243a6-edb4-42f4-9d2a-8d950749827e</dc:identifier>
+        <dc:title>幻夜</dc:title>
+        <dc:creator opf:file-as="[日]东野圭吾,李炜(译)" opf:role="aut">[日]东野圭吾,李炜(译)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-31T16:00:00+00:00</dc:date>
+        <dc:publisher>南海出版公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">0d50fd56-c042-47a4-81fb-c730d595a4a3</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;[日]东野圭吾,李炜(译)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-29T13:25:20.880861+00:00"/>
+        <meta name="calibre:title_sort" content="幻夜"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

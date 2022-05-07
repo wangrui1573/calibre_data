@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">100</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65fff6c2-ffae-4fd9-8c57-94a2e1b431c0</dc:identifier>
+        <dc:title>回答不了(感动千万读者，天才漫画家匡扶摇首部作品集)</dc:title>
+        <dc:creator opf:file-as="匡扶" opf:role="aut">匡扶</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-30T16:00:00+00:00</dc:date>
+        <dc:publisher>浙江文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">6b322ce9-6c0f-4c35-9b66-2a949ec9eb66</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;匡扶&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:43:56.984233+00:00"/>
+        <meta name="calibre:title_sort" content="回答不了(感动千万读者，天才漫画家匡扶摇首部作品集)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">340</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a07c347e-81a3-458e-8c65-ec6bfcd969d3</dc:identifier>
+        <dc:title>人体简史（你的身体30亿岁了！《万物简史》作者比尔·布莱森重磅新书！一部从头讲到脚、从里讲到外、从30亿年前讲到今天的人体百科全书！）</dc:title>
+        <dc:creator opf:file-as="比尔·布莱森" opf:role="aut">比尔·布莱森</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-30T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">caf6b0e4-b7d9-4afe-93ae-6064c6503d0e</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>lcsh: Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;比尔·布莱森&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T05:02:12.070837+00:00"/>
+        <meta name="calibre:title_sort" content="人体简史（你的身体30亿岁了！《万物简史》作者比尔·布莱森重磅新书！一部从头讲到脚、从里讲到外、从30亿年前讲到今天的人体百科全书！）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

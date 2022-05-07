@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">82</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3133ab30-802a-4e6e-8a9d-107d668b8f55</dc:identifier>
+        <dc:title>哲学·科学·常识</dc:title>
+        <dc:creator opf:file-as="陈嘉映" opf:role="aut">陈嘉映</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-31T16:00:00+00:00</dc:date>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508671079</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">f943e7b8-e06c-4d30-a62a-2f5b7af77bc8</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;陈嘉映&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:42:50.630157+00:00"/>
+        <meta name="calibre:title_sort" content="哲学·科学·常识"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

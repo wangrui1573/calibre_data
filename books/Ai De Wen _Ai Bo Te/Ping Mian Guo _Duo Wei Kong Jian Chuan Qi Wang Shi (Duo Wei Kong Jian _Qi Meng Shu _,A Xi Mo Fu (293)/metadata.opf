@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">293</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bc13321c-f187-4e0b-85ed-d2dc98b058bf</dc:identifier>
+        <dc:title>平面国：多维空间传奇往事（多维空间“启蒙书”，阿西莫夫称它是理解维度的绝佳途径。剑桥天才献给世界的脑洞神作，早于《三体》100年谈“降维”的神学家）(果麦经典)</dc:title>
+        <dc:creator opf:file-as="埃德温·艾勃特" opf:role="aut">埃德温·艾勃特</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-31T16:00:00+00:00</dc:date>
+        <dc:publisher>上海文化出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B08H58KBDF</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787553520643</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;埃德温·艾勃特&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:59:49.539742+00:00"/>
+        <meta name="calibre:title_sort" content="平面国：多维空间传奇往事（多维空间“启蒙书”，阿西莫夫称它是理解维度的绝佳途径。剑桥天才献给世界的脑洞神作，早于《三体》100年谈“降维”的神学家）(果麦经典)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

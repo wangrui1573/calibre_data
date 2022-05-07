@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">300</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a73b5df1-3850-4536-95e7-0e2da6566d77</dc:identifier>
+        <dc:title>德米安：埃米尔·辛克莱年少时的故事（我所想望的，无非是试着依我自发的本性去生活。为何如此之难？豆瓣现象级高分作品《悉达多》译者姜乙全新译作）(果麦经典)</dc:title>
+        <dc:creator opf:file-as="赫尔曼·黑塞" opf:role="aut">赫尔曼·黑塞</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-30T16:00:00+00:00</dc:date>
+        <dc:publisher>天津人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0891ZS7FM</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787201159096</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;赫尔曼·黑塞&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T05:00:11.385831+00:00"/>
+        <meta name="calibre:title_sort" content="德米安：埃米尔·辛克莱年少时的故事（我所想望的，无非是试着依我自发的本性去生活。为何如此之难？豆瓣现象级高分作品《悉达多》译者姜乙全新译作）(果麦经典)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

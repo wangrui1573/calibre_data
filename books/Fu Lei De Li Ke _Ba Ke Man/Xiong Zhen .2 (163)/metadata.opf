@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">163</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5fe5d69-a620-4738-94af-3730db5831eb</dc:identifier>
+        <dc:title>熊镇.2</dc:title>
+        <dc:creator opf:file-as="弗雷德里克·巴克曼" opf:role="aut">弗雷德里克·巴克曼</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-31T16:00:00+00:00</dc:date>
+        <dc:publisher>四川文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">ecc8ebd6-a2ac-495b-8d26-3ea0b16c93f1</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;弗雷德里克·巴克曼&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:52:20.143180+00:00"/>
+        <meta name="calibre:title_sort" content="熊镇.2"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

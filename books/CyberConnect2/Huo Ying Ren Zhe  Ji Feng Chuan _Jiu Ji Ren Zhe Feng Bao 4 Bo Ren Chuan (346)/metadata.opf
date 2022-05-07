@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">346</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a343f5a1-ce64-49bf-a0dd-21fa02f2d1d0</dc:identifier>
+        <dc:title>火影忍者 疾风传：究极忍者风暴4</dc:title>
+        <dc:creator opf:file-as="未知" opf:role="aut">CyberConnect2</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h2 style="line-height: 30px; background-color: #fafafa; font-family: 'PingFang SC','Hiragino Sans GB','Microsoft YaHei'"&gt;&lt;span style="color: #000000"&gt;关于游戏&lt;/span&gt;&lt;/h2&gt;
+&lt;p style="line-height: 24px; background-color: #fafafa; font-family: 'PingFang SC','Microsoft YaHei','微软雅黑','SimSun','宋体','Arial','STHeiti','华文黑体','Helvetica','Tahoma','Arial sans-serif'; font-size: 14px"&gt;&lt;span style="color: #262626; background-color: #fafafa"&gt;游戏改编自著名的日本长篇漫画《火影忍者》，玩家在游戏中可以扮演喜欢的角色，今次的4代将完全重现漫画中的大魄力忍大战场面，并且可操作角色也达到了一个惊人的数量，光鸣人一名角色就有数个形态，而且玩家还可以为喜欢的角色换上心仪的服装，CC2再次体现出了自己驾驭大场面的能力，大魄力的战斗场面不管从画面上，还是从气势上，都会让玩家和系列粉丝合不上嘴。&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>/volume1/RDM_3.5T/Games/NS/[XCI] 火影忍者4/huoying.xci</dc:publisher>
+        <dc:language>zh</dc:language>
+        <dc:subject>NS</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;CyberConnect2&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T05:22:25.260816+00:00"/>
+        <meta name="calibre:title_sort" content="火影忍者 疾风传：究极忍者风暴4"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

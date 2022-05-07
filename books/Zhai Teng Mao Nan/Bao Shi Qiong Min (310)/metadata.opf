@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">310</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f15bb11c-f864-4683-b498-abf987975795</dc:identifier>
+        <dc:title>饱食穷民</dc:title>
+        <dc:creator opf:file-as="斋藤茂男" opf:role="aut">斋藤茂男</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-31T16:00:00+00:00</dc:date>
+        <dc:publisher>浙江人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">099f01d0-e7ac-4ec0-8347-f6518de3f35e</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;斋藤茂男&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T05:00:42.389837+00:00"/>
+        <meta name="calibre:title_sort" content="饱食穷民"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

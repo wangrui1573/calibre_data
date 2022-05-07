@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">341</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d2a68f4a-6ddd-438b-a244-21d65581bec6</dc:identifier>
+        <dc:title>给仰望者的天文朝圣之旅（科普版《瓦尔登湖》！美国30年经典科学美文首度引进，值得在夜深时一读再读！） (未读·探索家)</dc:title>
+        <dc:creator opf:file-as="切特·雷莫" opf:role="aut">切特·雷莫</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-30T16:00:00+00:00</dc:date>
+        <dc:publisher>未读·探索家</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">2859466f-c53d-40c9-bdd3-a93c3a9634a1</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;切特·雷莫&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T05:02:15.155358+00:00"/>
+        <meta name="calibre:title_sort" content="给仰望者的天文朝圣之旅（科普版《瓦尔登湖》！美国30年经典科学美文首度引进，值得在夜深时一读再读！） (未读·探索家)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

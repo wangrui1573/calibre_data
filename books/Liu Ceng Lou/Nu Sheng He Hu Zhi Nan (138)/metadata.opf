@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">138</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6edf3b29-cccc-468d-91c3-cc66a68d49af</dc:identifier>
+        <dc:title>女生呵护指南</dc:title>
+        <dc:creator opf:file-as="六层楼" opf:role="aut">六层楼</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-01T10:23:03+00:00</dc:date>
+        <dc:description>从“大姨妈”的初次拜访开始，女生就和这位“亲戚”有了扯不断的关系。从小女孩逐渐成长为魅力女性的过程中，除了欣喜和向往，随之而来的还有迷茫、敏感、难言和不安。因为，她们不得不开始面对只有女性才会面对的那些事儿──月经、白带、炎症、妇科疾病、怀孕…… 这本书既是女生的私密宝典，帮助女生解决有关女性生理、妇科疾病、安全防护等的问题，也是了解和关爱女生的大百科，让你懂得如何呵护女生。轻松、幽默、贴心而又科学、严谨的内容会陪女生度过痛苦和迷茫的时刻，给予女生温暖的呵护。</dc:description>
+        <dc:publisher>浙江科学技术出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">34462719</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787534187049</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">7cce656a-fe02-4b6f-817b-9bd1f65b76c1</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>科普</dc:subject>
+        <dc:subject>女性</dc:subject>
+        <dc:subject>健康</dc:subject>
+        <dc:subject>六层楼</dc:subject>
+        <dc:subject>医学</dc:subject>
+        <dc:subject>生活</dc:subject>
+        <dc:subject>好书，值得一读</dc:subject>
+        <dc:subject>0.医学</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;六层楼&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:50:41.597563+00:00"/>
+        <meta name="calibre:title_sort" content="女生呵护指南"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

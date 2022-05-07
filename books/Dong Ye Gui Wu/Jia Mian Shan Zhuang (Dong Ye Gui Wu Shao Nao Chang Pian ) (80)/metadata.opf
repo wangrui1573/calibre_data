@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">80</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a161cf0a-46f4-475e-ad92-e5a0c10b227d</dc:identifier>
+        <dc:title>假面山庄（东野圭吾烧脑长篇）</dc:title>
+        <dc:creator opf:file-as="东野圭吾" opf:role="aut">东野圭吾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-20T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p style="margin: 0px; padding: 0px; list-style-type: none; border: 0px; color: rgb(101, 101, 101); font-family: 'Hiragino Sans GB', Verdana, Simsun; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;《假面山庄》是东野圭吾的长篇小说，中文简体初次出版，日文版销量超60万册。东野圭吾说：“《假面山庄》是我的自信之作。我在构思时萌生出一个很妙的主意，于是写作一气呵成。”像《假面山庄》这样烧脑的长篇推理小说好久不见了！阅读时每当以为已经接近真相，翻到下一页却发现又吃了一惊。只有看到结尾，才会明白书名的真正含义。同时《假面山庄》又不仅仅是一本推理小说。读完后才能领悟深埋心底的那份巨大的爱。或许正是因为这样丰富的阅读体验，日本推理作家协会奖得主折原一，将《假面山庄》列入他心中东野圭吾作品的前三名。&lt;/p&gt;&lt;p style="margin: 0px; padding: 0px; list-style-type: none; border: 0px; color: rgb(101, 101, 101); font-family: 'Hiragino Sans GB', Verdana, Simsun; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;和往年夏天一样，森崎夫妇邀请亲友到山庄避暑。不料，平静在第二天凌晨被打破。两个持枪的男人闯入山庄，将在场八人劫持。众人不断设法自救：利用极短的外出时间写下求救信号，用定时器控制电闸造成短路……却都因有人暗地捣鬼而失败。第三天早上，一名人质被发现倒在血泊中，而凶手不可能是绑匪。众人意识到，比绑匪更可怕的人就在他们当中。&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>北京十月文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">6f2f9932-fbbd-4ff7-80ca-1b7dd02dceb0</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>日系推理</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;东野圭吾&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:42:44.679396+00:00"/>
+        <meta name="calibre:title_sort" content="假面山庄（东野圭吾烧脑长篇）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

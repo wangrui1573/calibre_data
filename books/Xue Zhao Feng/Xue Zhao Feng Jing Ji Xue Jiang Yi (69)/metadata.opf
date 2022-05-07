@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">69</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f2af874-29ff-4b06-af4c-e1209933806a</dc:identifier>
+        <dc:title>薛兆丰经济学讲义</dc:title>
+        <dc:creator opf:file-as="薛兆丰" opf:role="aut">薛兆丰</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-31T16:00:00+00:00</dc:date>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508685519</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;薛兆丰&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:42:13.154202+00:00"/>
+        <meta name="calibre:title_sort" content="薛兆丰经济学讲义"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">249</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">50f8cb84-5b44-448b-a34f-3850e631c680</dc:identifier>
+        <dc:title>致命流感：百年治疗史【审视人类抗击流感的历史和疑问，探索治愈流感的未来线路图】（方寸系列）</dc:title>
+        <dc:creator opf:file-as="杰里米•布朗" opf:role="aut">杰里米•布朗</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-31T16:00:00+00:00</dc:date>
+        <dc:publisher>社会科学文献出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B084VHWW6L</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;杰里米•布朗&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:57:34.113602+00:00"/>
+        <meta name="calibre:title_sort" content="致命流感：百年治疗史【审视人类抗击流感的历史和疑问，探索治愈流感的未来线路图】（方寸系列）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

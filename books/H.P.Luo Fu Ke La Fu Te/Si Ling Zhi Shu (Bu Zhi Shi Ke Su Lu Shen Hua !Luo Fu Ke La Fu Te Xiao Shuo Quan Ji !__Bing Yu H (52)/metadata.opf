@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37b123da-f6f2-43b6-a296-f1825aeba158</dc:identifier>
+        <dc:title>死灵之书（不只是克苏鲁神话！洛夫克拉夫特小说全集！《冰与火之歌》《普罗米修斯》《水形物语》《魔兽世界》的灵感来源！）</dc:title>
+        <dc:creator opf:file-as="H.P.洛夫克拉夫特" opf:role="aut">H.P.洛夫克拉夫特</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-30T16:00:00+00:00</dc:date>
+        <dc:publisher>北京时代华文书局</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">603eab2a-45b8-4b07-9f37-3a0271e2cfec</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;H.P.洛夫克拉夫特&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:41:20.890440+00:00"/>
+        <meta name="calibre:title_sort" content="死灵之书（不只是克苏鲁神话！洛夫克拉夫特小说全集！《冰与火之歌》《普罗米修斯》《水形物语》《魔兽世界》的灵感来源！）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

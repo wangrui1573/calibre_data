@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4cbcb7a5-2a24-433c-81d4-6bb1784f640a</dc:identifier>
+        <dc:title>如父如子（戛纳电影节评审团奖原著小说，日本电影大师是枝裕和的真情流露，贯通千万家庭的温情物语！） (博集外国文学书榜系列)</dc:title>
+        <dc:creator opf:file-as="是枝裕和 &amp; 佐野晶" opf:role="aut">是枝裕和</dc:creator>
+        <dc:creator opf:file-as="是枝裕和 &amp; 佐野晶" opf:role="aut">佐野晶</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-28T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">399b7d92-4839-4a03-95f2-de5453310ede</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;是枝裕和&quot;: &quot;&quot;, &quot;佐野晶&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:39:47.438043+00:00"/>
+        <meta name="calibre:title_sort" content="如父如子（戛纳电影节评审团奖原著小说，日本电影大师是枝裕和的真情流露，贯通千万家庭的温情物语！） (博集外国文学书榜系列)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

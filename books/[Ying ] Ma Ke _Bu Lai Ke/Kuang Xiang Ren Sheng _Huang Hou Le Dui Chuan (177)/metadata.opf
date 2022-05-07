@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">177</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c6e33986-1830-47fc-9dfc-a06eb26e2c55</dc:identifier>
+        <dc:title>狂想人生：皇后樂隊傳</dc:title>
+        <dc:creator opf:file-as="[英] 馬克·布萊克" opf:role="aut">[英] 馬克·布萊克</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-31T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;font face="新細明體, sans-serif" size="2"&gt;Is This the Real Life?: The Untold Story of Queen&lt;/font&gt;&lt;div&gt;&lt;font face="新細明體, sans-serif" size="2"&gt;by Mark Blake&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>北京聯合出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787559630780</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">57fdee08-c92f-49dc-9d6a-ee8acf645b52</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;[英] 馬克·布萊克&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:53:11.964906+00:00"/>
+        <meta name="calibre:title_sort" content="狂想人生：皇后樂隊傳"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

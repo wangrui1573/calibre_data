@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">194</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">629b7f3d-fb4b-4f67-b683-d0b04fcad39f</dc:identifier>
+        <dc:title>一起连环绑架案的新闻</dc:title>
+        <dc:creator opf:file-as="加西亚·马尔克斯" opf:role="aut">加西亚·马尔克斯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-01T16:00:00+00:00</dc:date>
+        <dc:publisher>XJDCN</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">4ce8eedc-7e5a-4f8a-ad67-42e86a1c2d96</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;加西亚·马尔克斯&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:54:18.482393+00:00"/>
+        <meta name="calibre:title_sort" content="一起连环绑架案的新闻"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

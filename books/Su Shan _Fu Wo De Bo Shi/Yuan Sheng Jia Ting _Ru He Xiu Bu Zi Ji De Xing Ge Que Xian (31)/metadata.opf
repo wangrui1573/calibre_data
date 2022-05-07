@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9fb54ea0-fcb4-49dd-993a-26e920f6e8fb</dc:identifier>
+        <dc:title>原生家庭:如何修补自己的性格缺陷</dc:title>
+        <dc:creator opf:file-as="苏珊·福沃德博士 &amp; 克雷格•巴克" opf:role="aut">苏珊·福沃德博士</dc:creator>
+        <dc:creator opf:file-as="苏珊·福沃德博士 &amp; 克雷格•巴克" opf:role="aut">克雷格•巴克</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-30T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07CYNNGL7</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;苏珊·福沃德博士&quot;: &quot;&quot;, &quot;克雷格•巴克&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:40:13.398917+00:00"/>
+        <meta name="calibre:title_sort" content="原生家庭:如何修补自己的性格缺陷"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

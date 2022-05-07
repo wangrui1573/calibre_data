@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">265</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f0e4945-2be3-4e0d-9d35-e2413228dbb5</dc:identifier>
+        <dc:title>大山里的小诗人（央视网纪录片引爆弹幕刷屏！王耀庆献声，鲁豫落泪。诗歌也许不能改变留守儿童的命运，但它能改变一个孩子。）</dc:title>
+        <dc:creator opf:file-as="的孩子们, “是光”" opf:role="aut">“是光” 的孩子们</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-30T16:00:00+00:00</dc:date>
+        <dc:publisher>江苏凤凰文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B088623Y5V</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787559446824</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>小力盘</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;“是光” 的孩子们&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:58:20.940449+00:00"/>
+        <meta name="calibre:title_sort" content="大山里的小诗人（央视网纪录片引爆弹幕刷屏！王耀庆献声，鲁豫落泪。诗歌也许不能改变留守儿童的命运，但它能改变一个孩子。）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

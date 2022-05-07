@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">214</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0bd79219-c364-4f58-9a47-156ef4b20e5a</dc:identifier>
+        <dc:title>The Diary of a Bookseller</dc:title>
+        <dc:creator opf:file-as="Bythell, Shaun" opf:role="aut">Bythell, Shaun</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-27T22:00:00+00:00</dc:date>
+        <dc:publisher>Profile Books</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01N134AZG</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Bythell, Shaun&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:55:34.805105+00:00"/>
+        <meta name="calibre:title_sort" content="Diary of a Bookseller, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

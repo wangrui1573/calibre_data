@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">273</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c51537a-54b2-434c-b977-58413c59191c</dc:identifier>
+        <dc:title>巴别塔（读客熊猫君出品。我要世界都听见我的声音，我曾被压抑，但绝不沉默。）</dc:title>
+        <dc:creator opf:file-as="A.S.拜厄特" opf:role="aut">A.S.拜厄特</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-19T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">52ac231b-aeb2-41ee-acd8-cb2d4cfd7a0a</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>lcsh: Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A.S.拜厄特&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:58:44.658320+00:00"/>
+        <meta name="calibre:title_sort" content="巴别塔（读客熊猫君出品。我要世界都听见我的声音，我曾被压抑，但绝不沉默。）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

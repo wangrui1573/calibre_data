@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">98</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7b1edf6f-6c5b-4a9d-b050-86c6546d5c3b</dc:identifier>
+        <dc:title>巴菲特致股东的信：投资者和公司高管教程（原书第4版） (华章经典·金融投资)</dc:title>
+        <dc:creator opf:file-as="沃伦E.巴菲特 &amp; 编, 劳伦斯A.坎宁安" opf:role="aut">沃伦E.巴菲特</dc:creator>
+        <dc:creator opf:file-as="沃伦E.巴菲特 &amp; 编, 劳伦斯A.坎宁安" opf:role="aut">劳伦斯A.坎宁安 编</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-28T16:00:00+00:00</dc:date>
+        <dc:publisher>北京华章图文信息有限公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07BF7YJJ9</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;沃伦E.巴菲特&quot;: &quot;&quot;, &quot;劳伦斯A.坎宁安 编&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:43:51.648434+00:00"/>
+        <meta name="calibre:title_sort" content="巴菲特致股东的信：投资者和公司高管教程（原书第4版） (华章经典·金融投资)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

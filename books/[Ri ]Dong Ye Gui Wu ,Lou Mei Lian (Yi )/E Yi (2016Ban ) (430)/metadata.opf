@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">430</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d675e8e-5dd4-4b20-9cf4-b2f2e097c8ba</dc:identifier>
+        <dc:title>恶意(2016版)</dc:title>
+        <dc:creator opf:file-as="[日]东野圭吾,娄美莲(译)" opf:role="aut">[日]东野圭吾,娄美莲(译)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-31T16:00:00+00:00</dc:date>
+        <dc:publisher>南海出版公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">d3f74f64-e769-42c8-935c-3f6f64275a51</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;[日]东野圭吾,娄美莲(译)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-29T13:25:42+00:00"/>
+        <meta name="calibre:title_sort" content="恶意(2016版)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

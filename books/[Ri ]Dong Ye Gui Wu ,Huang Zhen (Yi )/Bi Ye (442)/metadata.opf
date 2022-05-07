@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">442</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7376be17-94f6-4e02-8ae5-67425eb66bf7</dc:identifier>
+        <dc:title>毕业</dc:title>
+        <dc:creator opf:file-as="[日]东野圭吾,黄真(译)" opf:role="aut">[日]东野圭吾,黄真(译)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-06-30T16:00:00+00:00</dc:date>
+        <dc:publisher>南海出版公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">3e912b67-1f5f-448a-947c-29dedaaa656f</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;[日]东野圭吾,黄真(译)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-29T13:26:30+00:00"/>
+        <meta name="calibre:title_sort" content="毕业"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

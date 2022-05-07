@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a69126e-186c-43dc-9c41-35719735aef9</dc:identifier>
+        <dc:title>渡神纪 芬尼斯崛起</dc:title>
+        <dc:creator opf:file-as="UBISOFT" opf:role="aut">UBISOFT</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&#13;
+&lt;p style="font-family: 'PingFang SC','Microsoft YaHei','微软雅黑','SimSun','宋体','Arial','STHeiti','华文黑体','Helvetica','Tahoma','Arial sans-serif'; font-size: 12px;"&gt;&lt;span style="color: #414141; background-color: #fafafa;"&gt;本作由打造了《刺客信条 奥德赛》的育碧魁北克工作室负责开发。本作为开放世界，以希腊神话为主题。堤丰偷走天神的力量之后，玩家将化身拥有双翅的半神芬尼斯，掌握众神权能，打败神话怪兽，拯救家园，为众神恢复力量。本作最初公布时的名字为《Gods &amp;amp; Monsters》。&lt;/span&gt;&lt;/p&gt;&#13;
+&lt;/div&gt;</dc:description>
+        <dc:language>zh</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;UBISOFT&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:03:59+00:00"/>
+        <meta name="calibre:title_sort" content="Immortals Fenyx Rising"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

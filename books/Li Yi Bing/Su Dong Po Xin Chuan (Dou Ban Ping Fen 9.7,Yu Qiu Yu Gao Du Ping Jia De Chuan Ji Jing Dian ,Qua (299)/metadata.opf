@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">299</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e31fe11f-ed08-41bd-982f-1e8eb7bc3c31</dc:identifier>
+        <dc:title>苏东坡新传（豆瓣评分9.7，余秋雨高度评价的传记经典，全新增订版。人生为何不快乐，只因未读苏东坡！）</dc:title>
+        <dc:creator opf:file-as="李一冰" opf:role="aut">李一冰</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-05T16:00:00+00:00</dc:date>
+        <dc:publisher>成都：四川人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787220118043</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;李一冰&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T05:00:08.169409+00:00"/>
+        <meta name="calibre:title_sort" content="苏东坡新传（豆瓣评分9.7，余秋雨高度评价的传记经典，全新增订版。人生为何不快乐，只因未读苏东坡！）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

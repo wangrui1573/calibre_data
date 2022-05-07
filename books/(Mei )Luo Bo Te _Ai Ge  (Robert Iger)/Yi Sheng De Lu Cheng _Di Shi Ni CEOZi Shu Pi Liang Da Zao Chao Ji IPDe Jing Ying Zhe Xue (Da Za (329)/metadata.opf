@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">329</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bcc9d6f8-a68f-4982-a877-2773edee5e01</dc:identifier>
+        <dc:title>一生的旅程：迪士尼CEO自述批量打造超级IP的经营哲学（打造超级IP的秘诀就是对自己残忍，对消费者真诚！）</dc:title>
+        <dc:creator opf:file-as="（美）罗伯特·艾格 (Robert Iger) &amp; 乔尔·洛弗尔(Joel Lovell)" opf:role="aut">（美）罗伯特·艾格 (Robert Iger)</dc:creator>
+        <dc:creator opf:file-as="（美）罗伯特·艾格 (Robert Iger) &amp; 乔尔·洛弗尔(Joel Lovell)" opf:role="aut">乔尔·洛弗尔(Joel Lovell)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-29T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">60e036d5-11c4-4ac3-9b95-7d90ebebe3cc</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>lcsh: Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;（美）罗伯特·艾格 (Robert Iger)&quot;: &quot;&quot;, &quot;乔尔·洛弗尔(Joel Lovell)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T05:01:41.349308+00:00"/>
+        <meta name="calibre:title_sort" content="一生的旅程：迪士尼CEO自述批量打造超级IP的经营哲学（打造超级IP的秘诀就是对自己残忍，对消费者真诚！）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

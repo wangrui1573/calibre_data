@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">332</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c71ddd35-5e68-48f6-aad5-340bf7ce3a73</dc:identifier>
+        <dc:title>鼠之夜</dc:title>
+        <dc:creator opf:file-as="连城三纪彦" opf:role="aut">连城三纪彦</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-17T16:00:00+00:00</dc:date>
+        <dc:publisher>新星出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787513340267</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;连城三纪彦&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T05:01:49.810320+00:00"/>
+        <meta name="calibre:title_sort" content="鼠之夜"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

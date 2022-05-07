@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">176</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90744b75-2814-4ae4-a529-be9181b331e6</dc:identifier>
+        <dc:title>曾国藩传</dc:title>
+        <dc:creator opf:file-as="张宏杰" opf:role="aut">张宏杰</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-31T16:00:00+00:00</dc:date>
+        <dc:publisher>民主与建设出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">86a32aa0-26fb-45af-a62d-f8deee6617b2</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;张宏杰&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:53:08.015560+00:00"/>
+        <meta name="calibre:title_sort" content="曾国藩传"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

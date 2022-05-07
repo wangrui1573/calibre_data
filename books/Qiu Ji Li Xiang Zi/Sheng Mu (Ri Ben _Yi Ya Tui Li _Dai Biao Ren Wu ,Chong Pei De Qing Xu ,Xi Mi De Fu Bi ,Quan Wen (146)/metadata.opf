@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">146</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64967149-55b2-4a15-8f52-c31e17561476</dc:identifier>
+        <dc:title>圣母（日本“抑压推理”代表人物，充沛的情绪，细密的伏笔，全文后20页，改变整个故事！）</dc:title>
+        <dc:creator opf:file-as="秋吉理香子" opf:role="aut">秋吉理香子</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-25T16:00:00+00:00</dc:date>
+        <dc:publisher>新星出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787513334723</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">42df42d9-2e97-4e0c-a977-505a0487ea54</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;秋吉理香子&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:51:15.104148+00:00"/>
+        <meta name="calibre:title_sort" content="圣母（日本“抑压推理”代表人物，充沛的情绪，细密的伏笔，全文后20页，改变整个故事！）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

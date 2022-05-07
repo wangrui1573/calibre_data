@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">210</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bdf5feed-2b27-464f-944f-6d7be93be6e5</dc:identifier>
+        <dc:title>时间的秩序(全球现象级畅销科学读物《七堂极简物理课》作者全新力作，《时代周刊》2018十大非虚构好书，“奇异博士”本尼迪克特·康伯巴奇（卷福）倾情朗读，用诗意语言探索时间的本质 )</dc:title>
+        <dc:creator opf:file-as="卡洛·罗韦利" opf:role="aut">卡洛·罗韦利</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-31T16:00:00+00:00</dc:date>
+        <dc:publisher>湖南科学技术出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07VSDG7S1</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787571001636</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;卡洛·罗韦利&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:55:19.051333+00:00"/>
+        <meta name="calibre:title_sort" content="时间的秩序(全球现象级畅销科学读物《七堂极简物理课》作者全新力作，《时代周刊》2018十大非虚构好书，“奇异博士”本尼迪克特·康伯巴奇（卷福）倾情朗读，用诗意语言探索时间的本质 )"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

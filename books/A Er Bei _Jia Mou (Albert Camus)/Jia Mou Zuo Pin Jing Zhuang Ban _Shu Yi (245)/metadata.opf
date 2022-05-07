@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">245</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb355b17-2b06-45e9-b50e-df7f61ac7a8a</dc:identifier>
+        <dc:title>加缪作品精装版：鼠疫</dc:title>
+        <dc:creator opf:file-as="阿尔贝·加缪(Albert Camus)" opf:role="aut">阿尔贝·加缪(Albert Camus)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-07-31T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00F84FVOS</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;阿尔贝·加缪(Albert Camus)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:57:22.566142+00:00"/>
+        <meta name="calibre:title_sort" content="加缪作品精装版：鼠疫"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

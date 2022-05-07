@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">396</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f687209-651b-4d56-8ea6-da641beae715</dc:identifier>
+        <dc:title>我的晃荡的青春</dc:title>
+        <dc:creator opf:file-as="[日]东野圭吾,代珂(译)" opf:role="aut">[日]东野圭吾,代珂(译)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-01T01:19:50.456000+00:00</dc:date>
+        <dc:description>我把青少年时期所有快乐的部分写成了《我的晃荡的青春》。——东野圭吾
+推理大师东野圭吾真诚讲述成长经历
+这不是优等生的制胜秘笈，更不是成功逆袭的人生传奇
+这是一个普通生的青春手记
+----------------------------------------------------------------------------------------------------------
+他是一个从小学“晃荡”到大学毕业的平凡孩子。
+小学时，他痛恨读书，没看完过一本小说；
+初中时，他进了远近闻名的坏学校，唯一的愿望是能四肢健全地毕业；
+高中时，他整日痴迷李小龙，“远大理想”是能考上录取线最低的大学；
+高考落榜进复读班后，他依然是全校最没心没肺的快乐学生。
+他在一个普通家庭长大，上的全是普通的学校，十几年间，没有进过特长班，没有请过补习老师。
+正是这段“晃荡”的青春岁月，让他在充分自由的环境下成长，养成他笑对挫折的勇气与胸怀，保全了让他受用一生的所有天分。
+如今，他已连续多年当选日本“年度最受欢迎作家”，被媒体誉为“百年一遇的推理大师”。
+他叫东野圭吾。
+这本书讲述了他从小学到大学这一人生关键时期的真实经历。</dc:description>
+        <dc:publisher>南海出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544278867</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">df826f0f-55ee-488a-9dab-1187dbad1231</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;[日]东野圭吾,代珂(译)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-29T13:12:25.774206+00:00"/>
+        <meta name="calibre:title_sort" content="我的晃荡的青春"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

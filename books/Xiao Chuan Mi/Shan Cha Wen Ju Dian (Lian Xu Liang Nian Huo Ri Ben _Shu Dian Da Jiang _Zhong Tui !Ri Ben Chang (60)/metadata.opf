@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">60</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a9b8e469-735d-4019-8509-63fa3023eeeb</dc:identifier>
+        <dc:title>山茶文具店（连续两年获日本“书店大奖”重推！日本畅销作家小川糸备受好评暖心之作，掀起“书信时代”怀旧风潮！） (博集外国文学书榜系列)</dc:title>
+        <dc:creator opf:file-as="小川糸" opf:role="aut">小川糸</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-28T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">a4565b99-5bff-4d16-9a04-1cbc6f50e93c</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;小川糸&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:41:43.949877+00:00"/>
+        <meta name="calibre:title_sort" content="山茶文具店（连续两年获日本“书店大奖”重推！日本畅销作家小川糸备受好评暖心之作，掀起“书信时代”怀旧风潮！） (博集外国文学书榜系列)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

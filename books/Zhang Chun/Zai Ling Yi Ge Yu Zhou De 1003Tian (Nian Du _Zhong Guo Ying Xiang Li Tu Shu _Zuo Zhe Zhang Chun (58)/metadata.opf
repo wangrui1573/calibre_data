@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">58</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">12edfe34-f57c-4474-9ca7-de0b145189ec</dc:identifier>
+        <dc:title>在另一个宇宙的1003天（年度“中国影响力图书”作者张春，继《一生里的某一刻》后全新作品。真实记录与抑郁症同行的日子。）</dc:title>
+        <dc:creator opf:file-as="张春" opf:role="aut">张春</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-31T16:00:00+00:00</dc:date>
+        <dc:publisher>北京联合出版公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">c26d9707-65b3-45a3-80ed-99965bc7c00c</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;张春&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:41:38.339465+00:00"/>
+        <meta name="calibre:title_sort" content="在另一个宇宙的1003天（年度“中国影响力图书”作者张春，继《一生里的某一刻》后全新作品。真实记录与抑郁症同行的日子。）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

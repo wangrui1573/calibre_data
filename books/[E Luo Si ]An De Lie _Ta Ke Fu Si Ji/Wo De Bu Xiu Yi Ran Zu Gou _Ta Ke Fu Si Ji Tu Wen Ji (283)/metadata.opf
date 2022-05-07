@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">283</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d8ba588-8446-4af0-8686-f14b15abaaf0</dc:identifier>
+        <dc:title>我的不朽已然足够：塔可夫斯基图文集</dc:title>
+        <dc:creator opf:file-as="[俄罗斯]安德烈·塔可夫斯基 &amp; 仝欣" opf:role="aut">[俄罗斯]安德烈·塔可夫斯基</dc:creator>
+        <dc:creator opf:file-as="[俄罗斯]安德烈·塔可夫斯基 &amp; 仝欣" opf:role="aut">仝欣</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-08T16:00:00+00:00</dc:date>
+        <dc:publisher>民主与建设出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787513927901</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;[俄罗斯]安德烈·塔可夫斯基&quot;: &quot;&quot;, &quot;仝欣&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:59:15.226482+00:00"/>
+        <meta name="calibre:title_sort" content="我的不朽已然足够：塔可夫斯基图文集"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

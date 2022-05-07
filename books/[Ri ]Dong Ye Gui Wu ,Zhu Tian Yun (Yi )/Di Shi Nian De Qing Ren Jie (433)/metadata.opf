@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">433</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18d85dad-e0ab-4361-b19f-cac0c4326ecf</dc:identifier>
+        <dc:title>第十年的情人节</dc:title>
+        <dc:creator opf:file-as="[日]东野圭吾,朱田云(译)" opf:role="aut">[日]东野圭吾,朱田云(译)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-06T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">a839855d-cf25-405e-89d8-6ef9569354bd</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;[日]东野圭吾,朱田云(译)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-29T13:25:55+00:00"/>
+        <meta name="calibre:title_sort" content="第十年的情人节"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

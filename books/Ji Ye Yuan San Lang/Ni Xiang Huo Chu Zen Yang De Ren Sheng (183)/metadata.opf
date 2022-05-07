@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">183</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc567f86-4817-42b2-a20c-d3a669ca710c</dc:identifier>
+        <dc:title>你想活出怎样的人生</dc:title>
+        <dc:creator opf:file-as="吉野源三郎" opf:role="aut">吉野源三郎</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-30T16:06:06+00:00</dc:date>
+        <dc:publisher>南海出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789861342184</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">ba0d9992-695f-487b-92ba-5a087b22229e</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;吉野源三郎&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:53:34.736547+00:00"/>
+        <meta name="calibre:title_sort" content="你想活出怎样的人生"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">93bc8322-3ee9-47b3-af09-833f4342d0bf</dc:identifier>
+        <dc:title>横道世之介（《怒》《同栖生活》作者吉田修一 令人爆哭爆笑的青春缅怀大作）</dc:title>
+        <dc:creator opf:file-as="(日)吉田修一" opf:role="aut">(日)吉田修一</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-31T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07F3X3NMW</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;(日)吉田修一&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:40:39.669155+00:00"/>
+        <meta name="calibre:title_sort" content="横道世之介（《怒》《同栖生活》作者吉田修一 令人爆哭爆笑的青春缅怀大作）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

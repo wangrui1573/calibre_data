@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">67</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fe8d70b7-7d25-4677-9818-a4d184d01ddc</dc:identifier>
+        <dc:title>镖人(轰动日本的中国漫画！漫画大师高桥留美子、藤泽亨，知名作家马伯庸鼎力推荐！)</dc:title>
+        <dc:creator opf:file-as="许先哲" opf:role="aut">许先哲</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-14T16:00:00+00:00</dc:date>
+        <dc:publisher>SDKCN</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07BXKFXKH</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;许先哲&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:42:04.320562+00:00"/>
+        <meta name="calibre:title_sort" content="镖人(轰动日本的中国漫画！漫画大师高桥留美子、藤泽亨，知名作家马伯庸鼎力推荐！)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

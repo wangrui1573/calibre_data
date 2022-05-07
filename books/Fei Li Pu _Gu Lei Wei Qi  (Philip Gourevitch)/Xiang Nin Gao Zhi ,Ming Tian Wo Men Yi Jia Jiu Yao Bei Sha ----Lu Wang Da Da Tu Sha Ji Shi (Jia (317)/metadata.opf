@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">317</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">42979c23-c914-4500-bff4-1c34cc5d3aa9</dc:identifier>
+        <dc:title>向您告知，明天我们一家就要被杀——卢旺达大屠杀纪事（将卢旺达大屠杀带回人们视线的第一手记录，一场并非久远、惨烈异常、不应忽视的历史悲剧，见证一个个危难与离散的时刻，以及人类历史的黑暗一页，揭露种族灭绝背后的扭曲神话、政治操纵和国际社会的无所作为）</dc:title>
+        <dc:creator opf:file-as="Gourevitch）, 菲利普•古雷维奇 （Philip" opf:role="aut">菲利普•古雷维奇 （Philip Gourevitch）</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-14T16:00:00+00:00</dc:date>
+        <dc:publisher>南京大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">1a669e08-e29a-488a-9af4-d6cd603bf613</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;菲利普•古雷维奇 （Philip Gourevitch）&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T05:01:03.612568+00:00"/>
+        <meta name="calibre:title_sort" content="向您告知，明天我们一家就要被杀——卢旺达大屠杀纪事（将卢旺达大屠杀带回人们视线的第一手记录，一场并非久远、惨烈异常、不应忽视的历史悲剧，见证一个个危难与离散的时刻，以及人类历史的黑暗一页，揭露种族灭绝背后的扭曲神话、政治操纵和国际社会的无所作为）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

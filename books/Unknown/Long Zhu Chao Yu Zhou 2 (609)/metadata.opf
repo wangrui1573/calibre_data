@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">609</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bc77e40f-8e5b-4b7a-bf19-493705aca55f</dc:identifier>
+        <dc:title>龙珠超宇宙2</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>/volume4/RDM_12T/02.Games/NS/NS龙珠超宇宙2游戏本体+1.09.1升级补丁+9DLC（NSP格式）</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>NS</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="SWITCH"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2021-11-16T01:14:09+00:00"/>
+        <meta name="calibre:title_sort" content="龙珠超宇宙2"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

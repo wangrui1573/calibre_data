@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">192</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11d69482-4e99-46c2-b909-a29e5cf23a96</dc:identifier>
+        <dc:title>绝对笑喷之弃业医生日志（丁香园鼎力推荐！半年狂销100万册，英国亚马逊瘫痪3小时！ 6年221篇男妇科大夫私密日记，段子手医生感动33国读者！）</dc:title>
+        <dc:creator opf:file-as="亚当·凯" opf:role="aut">亚当·凯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-31T16:00:00+00:00</dc:date>
+        <dc:publisher>北京时代华文书局</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07TBZ84GQ</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;亚当·凯&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:54:11.219827+00:00"/>
+        <meta name="calibre:title_sort" content="绝对笑喷之弃业医生日志（丁香园鼎力推荐！半年狂销100万册，英国亚马逊瘫痪3小时！ 6年221篇男妇科大夫私密日记，段子手医生感动33国读者！）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

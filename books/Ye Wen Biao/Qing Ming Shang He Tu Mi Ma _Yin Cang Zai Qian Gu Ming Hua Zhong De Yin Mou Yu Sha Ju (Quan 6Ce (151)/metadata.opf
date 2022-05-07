@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">151</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">39218648-4ab9-4f7c-9663-fac36fe462bd</dc:identifier>
+        <dc:title>清明上河图密码：隐藏在千古名画中的阴谋与杀局（全6册）（清明系列大结局！千古迷局，终极揭秘！附作者独家寄语！全画824个人物逐一复活！读客熊猫君出品）</dc:title>
+        <dc:creator opf:file-as="冶文彪" opf:role="aut">冶文彪</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-29T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">06c24346-4dc2-4020-845a-87327c12fdb2</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;冶文彪&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:51:33.622632+00:00"/>
+        <meta name="calibre:title_sort" content="清明上河图密码：隐藏在千古名画中的阴谋与杀局（全6册）（清明系列大结局！千古迷局，终极揭秘！附作者独家寄语！全画824个人物逐一复活！读客熊猫君出品）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

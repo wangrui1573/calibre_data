@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">203</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">31a2278f-0381-401c-b7be-3a6222573896</dc:identifier>
+        <dc:title>事实（读客熊猫君出品。比尔•盖茨送给全美大学生的毕业礼物。用数据思考，避免情绪化决策！颠覆思维方式的神作。）</dc:title>
+        <dc:creator opf:file-as="汉斯·罗斯林 &amp; 欧拉·罗斯林 &amp; 安娜·罗斯林·罗朗德" opf:role="aut">汉斯·罗斯林</dc:creator>
+        <dc:creator opf:file-as="汉斯·罗斯林 &amp; 欧拉·罗斯林 &amp; 安娜·罗斯林·罗朗德" opf:role="aut">欧拉·罗斯林</dc:creator>
+        <dc:creator opf:file-as="汉斯·罗斯林 &amp; 欧拉·罗斯林 &amp; 安娜·罗斯林·罗朗德" opf:role="aut">安娜·罗斯林·罗朗德</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-22T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">5e849da3-34f2-4198-a7b2-9e06c827aabd</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>lcsh: Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;汉斯·罗斯林&quot;: &quot;&quot;, &quot;欧拉·罗斯林&quot;: &quot;&quot;, &quot;安娜·罗斯林·罗朗德&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:54:52.328132+00:00"/>
+        <meta name="calibre:title_sort" content="事实（读客熊猫君出品。比尔•盖茨送给全美大学生的毕业礼物。用数据思考，避免情绪化决策！颠覆思维方式的神作。）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">136</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">199f8e34-c2d6-4859-8f90-2e042792f351</dc:identifier>
+        <dc:title>为什么</dc:title>
+        <dc:creator opf:file-as="朱迪亚·珀尔 &amp; 达纳·麦肯齐" opf:role="aut">朱迪亚·珀尔</dc:creator>
+        <dc:creator opf:file-as="朱迪亚·珀尔 &amp; 达纳·麦肯齐" opf:role="aut">达纳·麦肯齐</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-30T16:00:00+00:00</dc:date>
+        <dc:publisher>中信出版集团</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">df07e754-354d-4b55-8df1-9fe5051fef19</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787521705072</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;朱迪亚·珀尔&quot;: &quot;&quot;, &quot;达纳·麦肯齐&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:50:33.634852+00:00"/>
+        <meta name="calibre:title_sort" content="为什么"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
