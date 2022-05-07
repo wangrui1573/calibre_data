@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">227</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ce64da3-02f3-4c4c-9e49-cfb8ae1df60f</dc:identifier>
+        <dc:title>云游（理解新晋诺贝尔文学奖得主奥尔加·托卡尔丘克的必读之作，以“星群”的方式书写旅行与洞察、知觉与哲思！）</dc:title>
+        <dc:creator opf:file-as="奥尔加·托卡尔丘克" opf:role="aut">奥尔加·托卡尔丘克</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-27T16:00:00+00:00</dc:date>
+        <dc:publisher>成都：四川人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787220116827</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;奥尔加·托卡尔丘克&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:56:28.266963+00:00"/>
+        <meta name="calibre:title_sort" content="云游（理解新晋诺贝尔文学奖得主奥尔加·托卡尔丘克的必读之作，以“星群”的方式书写旅行与洞察、知觉与哲思！）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

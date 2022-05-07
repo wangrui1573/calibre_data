@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">255</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1357ef17-db32-40c4-9f79-f643f2b77caf</dc:identifier>
+        <dc:title>找不到工作的一年：续横道世之介【电影《横道世之介》吉田修一原著续集。这个傻傻的、有点丧的男人，满足了我对好人的一切幻想】</dc:title>
+        <dc:creator opf:file-as="吉田修一" opf:role="aut">吉田修一</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-30T16:00:00+00:00</dc:date>
+        <dc:publisher>上海人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">740b5e17-3662-4c08-a8a8-9866ea1ce20e</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;吉田修一&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:57:51.503288+00:00"/>
+        <meta name="calibre:title_sort" content="找不到工作的一年：续横道世之介【电影《横道世之介》吉田修一原著续集。这个傻傻的、有点丧的男人，满足了我对好人的一切幻想】"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

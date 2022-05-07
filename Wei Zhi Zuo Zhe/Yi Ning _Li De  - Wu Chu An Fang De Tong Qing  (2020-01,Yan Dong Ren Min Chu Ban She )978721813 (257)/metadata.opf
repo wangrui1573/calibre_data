@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">257</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47824ec1-15c6-4a0a-8639-e00ad45253a8</dc:identifier>
+        <dc:title>汉宁·里德 - 无处安放的同情 (2020-01,广东人民出版社)9787218138893</dc:title>
+        <dc:creator opf:file-as="未知作者" opf:role="aut">未知作者</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">958f1606-126b-4d2a-8354-5b8e846b314f</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;未知作者&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:57:57.336151+00:00"/>
+        <meta name="calibre:title_sort" content="汉宁·里德 - 无处安放的同情 (2020-01,广东人民出版社)9787218138893"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

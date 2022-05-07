@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">218</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">be0563ea-7d16-4c5e-8d07-b25bccad7a92</dc:identifier>
+        <dc:title>小津安二郎剧本集（与黑泽明齐名的日本电影黄金时代巨匠，小津安二郎电影代表作剧本，一幅尽显日本风情百态的文学图景 ）</dc:title>
+        <dc:creator opf:file-as="小津安二郎" opf:role="aut">小津安二郎</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-31T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">f50835d3-f8ec-4cc6-8172-9ef09ac4a215</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;小津安二郎&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:56:02.216630+00:00"/>
+        <meta name="calibre:title_sort" content="小津安二郎剧本集（与黑泽明齐名的日本电影黄金时代巨匠，小津安二郎电影代表作剧本，一幅尽显日本风情百态的文学图景 ）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

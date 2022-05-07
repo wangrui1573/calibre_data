@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">77</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a266b390-6208-4ab9-b13d-57e5b0b88e9b</dc:identifier>
+        <dc:title>清明上河图密码5：隐藏在千古名画中的阴谋与杀局（全画824个人物逐一复活！超过20种推理诡计，多达80件悬案奇案！附作者给电子书读者独家寄语以及手写预告！）</dc:title>
+        <dc:creator opf:file-as="冶文彪" opf:role="aut">冶文彪</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-29T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07CVC1F2Q</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>lcsh: Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;冶文彪&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:42:36.096445+00:00"/>
+        <meta name="calibre:title_sort" content="清明上河图密码5：隐藏在千古名画中的阴谋与杀局（全画824个人物逐一复活！超过20种推理诡计，多达80件悬案奇案！附作者给电子书读者独家寄语以及手写预告！）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

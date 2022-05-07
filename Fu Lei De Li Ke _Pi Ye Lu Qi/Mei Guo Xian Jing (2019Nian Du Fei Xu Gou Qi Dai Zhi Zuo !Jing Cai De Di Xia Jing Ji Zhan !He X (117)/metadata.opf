@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">117</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">63f952c6-3b74-460c-b941-af4f1ffbdcfa</dc:identifier>
+        <dc:title>美国陷阱（2019年度非虚构期待之作！精彩的地下经济战！核心亲历者出狱后勇敢亲述，犹如“纸牌屋”+“肖申克的救赎”！）</dc:title>
+        <dc:creator opf:file-as="弗雷德里克·皮耶鲁齐 &amp; 马修·阿伦" opf:role="aut">弗雷德里克·皮耶鲁齐</dc:creator>
+        <dc:creator opf:file-as="弗雷德里克·皮耶鲁齐 &amp; 马修·阿伦" opf:role="aut">马修·阿伦</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-31T16:00:00+00:00</dc:date>
+        <dc:publisher>中信出版集团</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787521702415</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07QJX179Q</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;弗雷德里克·皮耶鲁齐&quot;: &quot;&quot;, &quot;马修·阿伦&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:49:12.223950+00:00"/>
+        <meta name="calibre:title_sort" content="美国陷阱（2019年度非虚构期待之作！精彩的地下经济战！核心亲历者出狱后勇敢亲述，犹如“纸牌屋”+“肖申克的救赎”！）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

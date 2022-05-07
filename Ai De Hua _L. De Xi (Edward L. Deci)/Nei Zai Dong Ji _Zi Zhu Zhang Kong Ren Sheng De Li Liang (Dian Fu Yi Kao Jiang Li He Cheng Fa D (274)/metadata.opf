@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">274</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2137665c-3fd6-4e5a-b74a-a4f897c47bfd</dc:identifier>
+        <dc:title>内在动机：自主掌控人生的力量（颠覆依靠奖励和惩罚的激励方式，在焦虑和重压之下重新发现真正自我）</dc:title>
+        <dc:creator opf:file-as="德西, 爱德华·L. &amp; 理查德·弗拉斯特(Richard Flaste)" opf:role="aut">爱德华·L. 德西(Edward L. Deci)</dc:creator>
+        <dc:creator opf:file-as="德西, 爱德华·L. &amp; 理查德·弗拉斯特(Richard Flaste)" opf:role="aut">理查德·弗拉斯特(Richard Flaste)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-31T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">f42df983-a787-4924-a714-7726efa7e434</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;爱德华·L. 德西(Edward L. Deci)&quot;: &quot;&quot;, &quot;理查德·弗拉斯特(Richard Flaste)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:58:47.690373+00:00"/>
+        <meta name="calibre:title_sort" content="内在动机：自主掌控人生的力量（颠覆依靠奖励和惩罚的激励方式，在焦虑和重压之下重新发现真正自我）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

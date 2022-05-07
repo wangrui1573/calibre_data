@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">247</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f649089-cbed-47d8-b10a-b153b88a5c2a</dc:identifier>
+        <dc:title>大流感——最致命瘟疫的史诗（比尔·盖茨、张文宏、樊登推荐！面对病毒，没有人是一座孤岛；假如全球性大流感再度来袭，我们如何应对？） (哲人石珍藏版)</dc:title>
+        <dc:creator opf:file-as="约翰·M·巴里" opf:role="aut">约翰·M·巴里</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-31T16:00:00+00:00</dc:date>
+        <dc:publisher>上海科技教育出版社有限公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B089ZXZPJV</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;约翰·M·巴里&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:57:28.114197+00:00"/>
+        <meta name="calibre:title_sort" content="大流感——最致命瘟疫的史诗（比尔·盖茨、张文宏、樊登推荐！面对病毒，没有人是一座孤岛；假如全球性大流感再度来袭，我们如何应对？） (哲人石珍藏版)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

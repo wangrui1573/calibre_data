@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">251</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d86c0dd-8b9c-4724-b6d2-b7b122688ce5</dc:identifier>
+        <dc:title>伟大的孤独</dc:title>
+        <dc:creator opf:file-as="克莉丝汀·汉娜" opf:role="aut">克莉丝汀·汉娜</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-19T16:00:00+00:00</dc:date>
+        <dc:publisher>浙江教育出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">40750c86-36bc-43e2-b0dc-148b1910f1e0</dc:identifier>
+        <dc:language>zh</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;克莉丝汀·汉娜&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:57:40.113640+00:00"/>
+        <meta name="calibre:title_sort" content="伟大的孤独"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

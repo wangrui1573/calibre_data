@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">160</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">27acc6a4-98ad-4832-8337-41b7d08d6b92</dc:identifier>
+        <dc:title>风之影四部曲</dc:title>
+        <dc:creator opf:file-as="卡洛斯·鲁依兹·萨丰" opf:role="aut">卡洛斯·鲁依兹·萨丰</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-31T16:00:00+00:00</dc:date>
+        <dc:publisher>上海文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">68f26539-f78b-4f39-aaf8-11f44b5e2af9</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;卡洛斯·鲁依兹·萨丰&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:52:08.724095+00:00"/>
+        <meta name="calibre:title_sort" content="风之影四部曲"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

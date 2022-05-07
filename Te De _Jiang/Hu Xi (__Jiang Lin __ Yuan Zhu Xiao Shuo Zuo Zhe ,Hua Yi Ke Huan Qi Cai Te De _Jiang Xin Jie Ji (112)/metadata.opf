@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">112</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">441ac584-5c00-4d12-94bc-93590d8f0211</dc:identifier>
+        <dc:title>呼吸（《降临》原著小说作者，华裔科幻奇才特德•姜新结集。9个短篇，9集《黑镜》，奥巴马诚挚推荐） (译林幻系列)</dc:title>
+        <dc:creator opf:file-as="特德•姜" opf:role="aut">特德•姜</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-30T16:00:00+00:00</dc:date>
+        <dc:publisher>译林出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544779319</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">392b42d1-fb7f-4055-8fef-297f0537f6f9</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;特德•姜&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:48:53.075848+00:00"/>
+        <meta name="calibre:title_sort" content="呼吸（《降临》原著小说作者，华裔科幻奇才特德•姜新结集。9个短篇，9集《黑镜》，奥巴马诚挚推荐） (译林幻系列)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

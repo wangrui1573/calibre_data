@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">301</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6cac3526-102f-471b-b8c8-1a0a88ccf1ed</dc:identifier>
+        <dc:title>消失的13级台阶（荣获日本推理小说至高荣誉江户川乱步奖！是否值得为一场痛快的复仇，陪葬掉自己的人生？）</dc:title>
+        <dc:creator opf:file-as="高野和明" opf:role="aut">高野和明</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-07T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">5d9f0490-662e-420d-a7d1-2531ed2eef1c</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;高野和明&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T05:00:14.797430+00:00"/>
+        <meta name="calibre:title_sort" content="消失的13级台阶（荣获日本推理小说至高荣誉江户川乱步奖！是否值得为一场痛快的复仇，陪葬掉自己的人生？）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

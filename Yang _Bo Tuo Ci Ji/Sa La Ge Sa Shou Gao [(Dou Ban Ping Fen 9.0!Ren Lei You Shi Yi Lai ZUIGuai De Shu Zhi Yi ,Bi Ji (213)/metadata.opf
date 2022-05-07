@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">213</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48ba70f2-f37c-4f72-8e01-c320c22fad18</dc:identifier>
+        <dc:title>萨拉戈萨手稿【豆瓣评分9.0！人类有史以来ZUI怪的书之一，比肩《一千零一夜》《十日谈》的史诗巨著！普希金、卡尔维诺、马丁·斯科塞斯诚挚推荐！】</dc:title>
+        <dc:creator opf:file-as="扬·波托茨基" opf:role="aut">扬·波托茨基</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-31T16:00:00+00:00</dc:date>
+        <dc:publisher>湖南文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787540494155</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">ca72a2bd-aa87-4410-a436-3236a34e68a8</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;扬·波托茨基&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:55:31.149374+00:00"/>
+        <meta name="calibre:title_sort" content="萨拉戈萨手稿【豆瓣评分9.0！人类有史以来ZUI怪的书之一，比肩《一千零一夜》《十日谈》的史诗巨著！普希金、卡尔维诺、马丁·斯科塞斯诚挚推荐！】"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

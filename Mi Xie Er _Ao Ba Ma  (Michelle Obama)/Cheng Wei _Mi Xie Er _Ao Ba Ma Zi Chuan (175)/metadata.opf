@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">175</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">91f789ce-697d-4ba4-94f9-3f5aed44d4ca</dc:identifier>
+        <dc:title>成为：米歇尔·奥巴马自传</dc:title>
+        <dc:creator opf:file-as="米歇尔·奥巴马 (Michelle Obama)" opf:role="aut">米歇尔·奥巴马 (Michelle Obama)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-15T16:00:00+00:00</dc:date>
+        <dc:publisher>企鹅兰登电子书</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07MGH4F4T</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;米歇尔·奥巴马 (Michelle Obama)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:53:04.027977+00:00"/>
+        <meta name="calibre:title_sort" content="成为：米歇尔·奥巴马自传"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

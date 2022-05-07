@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">140</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa58b90c-97fc-436d-8db1-d41867030144</dc:identifier>
+        <dc:title>这里是中国</dc:title>
+        <dc:creator opf:file-as="星球研究所 &amp; 中国青藏高原研究会" opf:role="aut">星球研究所</dc:creator>
+        <dc:creator opf:file-as="星球研究所 &amp; 中国青藏高原研究会" opf:role="aut">中国青藏高原研究会</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-31T16:00:00+00:00</dc:date>
+        <dc:publisher>中信出版集团</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787521701579</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">a377380a-6b8d-48db-9316-a794b02170e2</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;星球研究所&quot;: &quot;&quot;, &quot;中国青藏高原研究会&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:50:48.270517+00:00"/>
+        <meta name="calibre:title_sort" content="这里是中国"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

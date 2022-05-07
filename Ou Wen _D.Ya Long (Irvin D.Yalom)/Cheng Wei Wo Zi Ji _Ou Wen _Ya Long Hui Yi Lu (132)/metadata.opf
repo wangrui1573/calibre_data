@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">132</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0643f6c-ee76-4224-9a94-c10cb12e7617</dc:identifier>
+        <dc:title>成为我自己：欧文·亚隆回忆录</dc:title>
+        <dc:creator opf:file-as="D.Yalom）, 欧文·D.亚隆（Irvin" opf:role="aut">欧文·D.亚隆（Irvin D.Yalom）</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-30T16:00:00+00:00</dc:date>
+        <dc:publisher>北京华章图文信息有限公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07SYNT233</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;欧文·D.亚隆（Irvin D.Yalom）&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:50:15.158368+00:00"/>
+        <meta name="calibre:title_sort" content="成为我自己：欧文·亚隆回忆录"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

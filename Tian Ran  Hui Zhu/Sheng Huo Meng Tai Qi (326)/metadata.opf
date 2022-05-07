@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">326</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68300ea1-493d-4e2a-8523-a4addc891bcb</dc:identifier>
+        <dc:title>生活蒙太奇</dc:title>
+        <dc:creator opf:file-as="绘著, 天然" opf:role="aut">天然 绘著</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>湖南文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ZYID">0</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787540496647</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;天然 绘著&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T05:01:30.826243+00:00"/>
+        <meta name="calibre:title_sort" content="生活蒙太奇"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

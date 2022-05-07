@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">286</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54bca1e1-b7fc-4ba5-83ae-45f40e55858c</dc:identifier>
+        <dc:title>朴赞郁的蒙太奇</dc:title>
+        <dc:creator opf:file-as="朴赞郁" opf:role="aut">朴赞郁</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-31T16:00:00+00:00</dc:date>
+        <dc:publisher>四川文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">f4609a1f-96f5-46d9-b8be-0c66d13ea0cb</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>2020更新</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;朴赞郁&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:59:23.841876+00:00"/>
+        <meta name="calibre:title_sort" content="朴赞郁的蒙太奇"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

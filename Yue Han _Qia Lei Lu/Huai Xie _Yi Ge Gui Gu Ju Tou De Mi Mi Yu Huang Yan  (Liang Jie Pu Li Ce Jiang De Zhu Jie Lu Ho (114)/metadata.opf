@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">114</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e4b125a-22f5-498c-a631-f1be0d61beb7</dc:identifier>
+        <dc:title>坏血：一个硅谷巨头的秘密与谎言 (两届普利策奖得主揭露轰动世界的旷世骗局)</dc:title>
+        <dc:creator opf:file-as="约翰·卡雷鲁" opf:role="aut">约翰·卡雷鲁</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-31T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07Q9YPVY8</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;约翰·卡雷鲁&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:49:00.546558+00:00"/>
+        <meta name="calibre:title_sort" content="坏血：一个硅谷巨头的秘密与谎言 (两届普利策奖得主揭露轰动世界的旷世骗局)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

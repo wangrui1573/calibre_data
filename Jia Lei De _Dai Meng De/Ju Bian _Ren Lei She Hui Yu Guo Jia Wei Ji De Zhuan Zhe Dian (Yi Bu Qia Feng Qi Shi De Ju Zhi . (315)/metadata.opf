@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">315</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0fe03d6f-8c7d-4742-9b12-0159821bef6c</dc:identifier>
+        <dc:title>剧变：人类社会与国家危机的转折点(一部恰逢其时的巨制。普利策奖得主《枪炮、病钢铁》作者新书，探讨危机应对的解决方案。)</dc:title>
+        <dc:creator opf:file-as="贾雷德·戴蒙德" opf:role="aut">贾雷德·戴蒙德</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-19T16:00:00+00:00</dc:date>
+        <dc:publisher>中信出版集团</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787521712032</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;贾雷德·戴蒙德&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T05:00:57.061959+00:00"/>
+        <meta name="calibre:title_sort" content="剧变：人类社会与国家危机的转折点(一部恰逢其时的巨制。普利策奖得主《枪炮、病钢铁》作者新书，探讨危机应对的解决方案。)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

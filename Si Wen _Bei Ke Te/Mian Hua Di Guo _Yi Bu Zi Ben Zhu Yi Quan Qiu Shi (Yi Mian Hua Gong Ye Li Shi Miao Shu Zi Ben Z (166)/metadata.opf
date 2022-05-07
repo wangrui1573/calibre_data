@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">166</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54d4129a-f1d5-44b8-b692-19778d21f5cb</dc:identifier>
+        <dc:title>棉花帝国：一部资本主义全球史（以棉花工业历史描述资本主义全球化进程，用“战争资本主义”概念颠覆“自由资本主义”的神话。）</dc:title>
+        <dc:creator opf:file-as="斯文·贝克特" opf:role="aut">斯文·贝克特</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-04T16:00:00+00:00</dc:date>
+        <dc:publisher>北京：民主与建设出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787513923927</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">c35b392c-fc36-4883-bc09-35a550a7c60e</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;斯文·贝克特&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:52:31.326083+00:00"/>
+        <meta name="calibre:title_sort" content="棉花帝国：一部资本主义全球史（以棉花工业历史描述资本主义全球化进程，用“战争资本主义”概念颠覆“自由资本主义”的神话。）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

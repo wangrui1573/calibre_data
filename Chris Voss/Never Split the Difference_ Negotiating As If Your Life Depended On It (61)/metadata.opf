@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">61</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">46490c4f-eefd-49c5-acb4-10b6b8971e8d</dc:identifier>
+        <dc:title>Never Split the Difference: Negotiating As If Your Life Depended On It</dc:title>
+        <dc:creator opf:file-as="Voss, Chris &amp; Raz, Tahl" opf:role="aut">Chris Voss</dc:creator>
+        <dc:creator opf:file-as="Voss, Chris &amp; Raz, Tahl" opf:role="aut">Tahl Raz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-17T07:00:00+00:00</dc:date>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">5600937f-f3fc-4ac6-b312-e75c5df11a5a</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Chris Voss&quot;: &quot;&quot;, &quot;Tahl Raz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:41:46.733863+00:00"/>
+        <meta name="calibre:title_sort" content="Never Split the Difference: Negotiating As If Your Life Depended On It"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

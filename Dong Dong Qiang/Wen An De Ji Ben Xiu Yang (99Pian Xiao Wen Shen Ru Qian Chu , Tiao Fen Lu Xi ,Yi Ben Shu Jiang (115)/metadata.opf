@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">115</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54a94fe5-c984-4d8e-bf26-d9dca615e2ca</dc:identifier>
+        <dc:title>文案的基本修养（99篇小文深入浅出、条分缕析，一本书讲透广告创意与文案之道）</dc:title>
+        <dc:creator opf:file-as="东东枪" opf:role="aut">东东枪</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-31T16:00:00+00:00</dc:date>
+        <dc:publisher>中信出版集团</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787521710342</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">53a7d81a-70b0-43d3-9081-7045aad24421</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;东东枪&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:49:04.265979+00:00"/>
+        <meta name="calibre:title_sort" content="文案的基本修养（99篇小文深入浅出、条分缕析，一本书讲透广告创意与文案之道）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

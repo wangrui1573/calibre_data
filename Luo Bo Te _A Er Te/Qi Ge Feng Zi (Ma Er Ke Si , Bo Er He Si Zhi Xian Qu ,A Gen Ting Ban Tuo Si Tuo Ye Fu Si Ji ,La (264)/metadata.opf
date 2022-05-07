@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">264</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4856198-c13e-4421-a200-faa2fc60ea23</dc:identifier>
+        <dc:title>七个疯子（马尔克斯、博尔赫斯之先驱，阿根廷版陀思妥耶夫斯基，拉美现代小说之父罗伯特·阿尔特代表作）</dc:title>
+        <dc:creator opf:file-as="罗伯特·阿尔特" opf:role="aut">罗伯特·阿尔特</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-31T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">c66fec00-f991-43df-b996-6f4996e75f5c</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;罗伯特·阿尔特&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:58:18.196497+00:00"/>
+        <meta name="calibre:title_sort" content="七个疯子（马尔克斯、博尔赫斯之先驱，阿根廷版陀思妥耶夫斯基，拉美现代小说之父罗伯特·阿尔特代表作）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

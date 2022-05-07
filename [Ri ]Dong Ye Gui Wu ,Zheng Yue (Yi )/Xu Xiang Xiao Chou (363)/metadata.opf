@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">363</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f5569497-15b0-417c-b9a4-7f2d1dace55b</dc:identifier>
+        <dc:title>虚像小丑</dc:title>
+        <dc:creator opf:file-as="[日]东野圭吾,郑悦(译)" opf:role="aut">[日]东野圭吾,郑悦(译)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-11T16:00:00+00:00</dc:date>
+        <dc:description>""</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532764228</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">42c4f31d-92b4-4a2c-904f-4630d1647db2</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;[日]东野圭吾,郑悦(译)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-29T13:10:32.625444+00:00"/>
+        <meta name="calibre:title_sort" content="虚像小丑"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

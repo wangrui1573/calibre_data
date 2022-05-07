@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">246</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ddf640be-4747-4b56-a4d6-90d9bd38efdb</dc:identifier>
+        <dc:title>血疫:埃博拉的故事 (译文纪实)</dc:title>
+        <dc:creator opf:file-as="（美）理查德•普雷斯顿" opf:role="aut">（美）理查德•普雷斯顿</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-10T16:00:00+00:00</dc:date>
+        <dc:description>文明与病毒之间，只隔了一个航班的距离。 来自热带雨林的危险病毒，可在24小时内乘飞机抵达地球上的任何城市。航空线路连接了全世界的所有城市，构成网络。 埃博拉已经进入网络，开始环球旅行。 卡尔•约翰逊，埃博拉病毒的发现者之一，他在病毒探索史上是个大人物，发现并命名了地球上好几种最危险的病原体。 “大自然并不平静，我很高兴，”他这么说，“但在今天这样的日子里，咱们就当大自然很平静好了。所有怪物和猛兽都有平静的时刻。” “扎伊尔当时发生了什么？”我问。 “我们抵达金沙萨的时候，那儿根本就是个疯人院，”他说，“我们知道那里的情况很糟糕，我们知道我们在和某种新病毒打交道。我们不知道它能不能像流感那样，通过空气中的悬浮液滴传播。假如埃博拉能轻易通过空气传播，今天的世界恐怕就大不一样了。” “会怎么样？” “人类会少很多。假如一种病毒与呼吸系统密切相关，那么你想控制住它就非常困难了。我心里想，假如埃博拉具备高致死率，又能通过液滴传播，那么全世界就不存在安全的地方了。与其在伦敦歌剧院被传染，还不如去爆发中心工作呢。” “你担心那会是一次威胁整个人类的危机吗？” 他盯着我。“这话什么意思？” “意思是一种能抹平人类的病毒。” “唔，我想有这个可能性——当然到现在还没有出现。我并不担心那个。更有可能的是这种病毒有能力按比例减少人口。比方说百分之三十。百分之九十。” “人类被杀死十分之九？你不担心？” 他脸上闪过一丝神秘的沉思表情。“假如一种病毒能减少一个物种的密度，那么这种病毒也许还是有用的。” 这就是大自然。仔细想一想，从河流到海洋，大自然充满了杀手。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532771493</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;（美）理查德•普雷斯顿&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:57:25.369962+00:00"/>
+        <meta name="calibre:title_sort" content="血疫:埃博拉的故事 (译文纪实)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

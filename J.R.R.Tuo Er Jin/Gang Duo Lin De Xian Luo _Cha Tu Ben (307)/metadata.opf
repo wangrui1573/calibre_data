@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">307</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c63046e8-f148-4b2f-95e1-cfe1234e95ce</dc:identifier>
+        <dc:title>刚多林的陷落：插图本</dc:title>
+        <dc:creator opf:file-as="J.R.R.托尔金" opf:role="aut">J.R.R.托尔金</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-30T16:00:00+00:00</dc:date>
+        <dc:publisher>上海人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">9154c3e7-45b9-487a-95b3-f68d1d498029</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>书聚EBOOKG.COM</dc:subject>
+        <dc:subject>一博书库ebookcn.com</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J.R.R.托尔金&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T05:00:33.393521+00:00"/>
+        <meta name="calibre:title_sort" content="刚多林的陷落：插图本"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

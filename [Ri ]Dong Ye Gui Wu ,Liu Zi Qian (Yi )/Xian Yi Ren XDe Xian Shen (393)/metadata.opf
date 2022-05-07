@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">393</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f5c9a35-bd1e-4e12-ace5-b1bbdc02281f</dc:identifier>
+        <dc:title>嫌疑人X的献身</dc:title>
+        <dc:creator opf:file-as="[日]东野圭吾,刘子倩(译)" opf:role="aut">[日]东野圭吾,刘子倩(译)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-31T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">c9192ae8-851f-49b2-9a75-1b49668da073</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;[日]东野圭吾,刘子倩(译)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-29T13:12:14.027347+00:00"/>
+        <meta name="calibre:title_sort" content="嫌疑人X的献身"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">277</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">31648bd7-64e8-46bc-99c2-89320afa39ce</dc:identifier>
+        <dc:title>日本世相系列（套装共2册）：妻子们的思秋期+饱食穷民（日本泡沫经济时代的真实记录，她们支撑着社会的繁荣，却不得不直面内外的虚空。他们身处丰饶之中，却饥饿致死。影响日本战后的非虚构系列代表作，畅销日本多年。） (被岩波书店评为“了解现代的100册非虚构作品”之一)</dc:title>
+        <dc:creator opf:file-as="斋藤茂男" opf:role="aut">斋藤茂男</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-31T16:00:00+00:00</dc:date>
+        <dc:publisher>浙江人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B084H6Y6VK</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;斋藤茂男&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:58:57.490263+00:00"/>
+        <meta name="calibre:title_sort" content="日本世相系列（套装共2册）：妻子们的思秋期+饱食穷民（日本泡沫经济时代的真实记录，她们支撑着社会的繁荣，却不得不直面内外的虚空。他们身处丰饶之中，却饥饿致死。影响日本战后的非虚构系列代表作，畅销日本多年。） (被岩波书店评为“了解现代的100册非虚构作品”之一)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

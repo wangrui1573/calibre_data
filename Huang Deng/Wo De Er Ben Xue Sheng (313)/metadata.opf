@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">313</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ae63691-2fb0-4c05-9aca-3c27e92f4ac0</dc:identifier>
+        <dc:title>我的二本学生</dc:title>
+        <dc:creator opf:file-as="黄灯" opf:role="aut">黄灯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h2 style="background-color: #ffffff"&gt;&lt;span style="color: #007722"&gt;内容简介&lt;/span&gt;&lt;/h2&gt;
+&lt;p style="background-color: #ffffff" id="link-report"&gt;&lt;span style="font-family: 'Helvetica'; font-size: 13px; color: #111111"&gt;作&lt;/span&gt;&lt;span style="font-family: 'Helvetica'; font-size: 13px; color: #111111"&gt;者黄灯在一所二本院校从教,长期的课堂教学以及课后的师生交流，使她成为这群学生成长变化的见证者。《我的二本学生》相当于她的教学札记，这里面有她15年一线教学经验的分享，对4500个学生的长期观察和长达10年的跟踪走访，也有两届班主任工作的总结思考，更有近100名学生的现身说法，是黄灯向读者描摹一群年轻人生活剪影的尝试。&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-size: 13px; font-family: 'Helvetica'"&gt;&lt;span style="color: #111111"&gt;截至2020年6月，全国有3005所高等学府，其中本科院校1258所，人们熟知的985和211院校只占100多席，二本及以下学生面目是有点模糊的。为了让读者真切了解二本学生这一群体的社会性现实，在书中，黄灯做了跨越时间的、空间的、地域文化的差异性对比，借以考察时代变化、生源地、家庭流动情况对学生就业去向和人生目标设定的影响。&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-size: 13px; font-family: 'Helvetica'"&gt;&lt;span style="color: #111111"&gt;书中最真切动人的，是一个个具体学生的采访日志。在这些用学生名字命名的章节中，访谈个体向读者倾吐着他们对于高考的回望、对于城市生活的生疏、对于毕业的迷茫以及就业的慌张。在这些倾诉中，你将了解他们彼此之间的社交距离、他们和这个社会的认识过程；他们与父母兄妹之间交流的阻畅、与故园乡土的亲疏；他们对于网络文学和游戏的认识、对于新媒体时代的适应和迷失；他们对于考公务员和考研之间的权衡，对于安稳和漂泊的抉择。还有他们对自己人生还有父母、乃至国家责任的担当与跋涉。这每一个被当事人讲述出来的故事，都带着看得见的呼吸、烟尘、脚步还有凝视。在这些极为细致和具体的生命切片中，我们看到的已经不再是二本学生，而是八五后、九零后这一批年轻人，他们所有人。他们所遇到的困惑和难题，并没有将他们彼此区分很开，反而，成为他们共享的课题。&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">908a9f48-b3e4-43e6-b59b-edc77d577e1d</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;黄灯&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T05:00:51.048391+00:00"/>
+        <meta name="calibre:title_sort" content="我的二本学生"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">230</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">430ed711-883d-48c3-9e1c-c710f37027fb</dc:identifier>
+        <dc:title>鞋带【上海译文出品！意大利版《婚姻故事》，暴露婚姻生活压抑和疼痛，直击生活痛点，那不勒斯四部曲译者最新译作】</dc:title>
+        <dc:creator opf:file-as="多梅尼科·斯塔尔诺内(Domenico Starnone)" opf:role="aut">多梅尼科·斯塔尔诺内(Domenico Starnone)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-31T16:00:00+00:00</dc:date>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">97a40e08-766a-4e4b-9eb3-9fa9c5d26b1d</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;多梅尼科·斯塔尔诺内(Domenico Starnone)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:56:37.436446+00:00"/>
+        <meta name="calibre:title_sort" content="鞋带【上海译文出品！意大利版《婚姻故事》，暴露婚姻生活压抑和疼痛，直击生活痛点，那不勒斯四部曲译者最新译作】"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

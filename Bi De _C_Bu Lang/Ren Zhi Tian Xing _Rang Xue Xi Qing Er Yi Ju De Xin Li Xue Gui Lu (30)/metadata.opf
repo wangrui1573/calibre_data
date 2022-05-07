@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a9e4b296-781e-4d24-82b8-ad9b5fc19577</dc:identifier>
+        <dc:title>认知天性：让学习轻而易举的心理学规律</dc:title>
+        <dc:creator opf:file-as="彼得·C·布朗 &amp; 亨利·L·罗迪格三世 &amp; 马克·A·麦克丹尼尔" opf:role="aut">彼得·C·布朗</dc:creator>
+        <dc:creator opf:file-as="彼得·C·布朗 &amp; 亨利·L·罗迪格三世 &amp; 马克·A·麦克丹尼尔" opf:role="aut">亨利·L·罗迪格三世</dc:creator>
+        <dc:creator opf:file-as="彼得·C·布朗 &amp; 亨利·L·罗迪格三世 &amp; 马克·A·麦克丹尼尔" opf:role="aut">马克·A·麦克丹尼尔</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-31T16:00:00+00:00</dc:date>
+        <dc:publisher>中信出版集团</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508694672</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">df398a5a-2577-4a6f-9df5-1f683ec5e122</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;彼得·C·布朗&quot;: &quot;&quot;, &quot;亨利·L·罗迪格三世&quot;: &quot;&quot;, &quot;马克·A·麦克丹尼尔&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:40:10.120110+00:00"/>
+        <meta name="calibre:title_sort" content="认知天性：让学习轻而易举的心理学规律"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

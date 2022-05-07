@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">187</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b95aedd4-b57c-4536-b422-e5e0fae77320</dc:identifier>
+        <dc:title>聊天记录【精准捕捉当代年轻人现状：在危急关头，我们都必须一次又一次地决定，我们究竟要爱谁。】</dc:title>
+        <dc:creator opf:file-as="萨莉·鲁尼(Sally Rooney)" opf:role="aut">萨莉·鲁尼(Sally Rooney)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-31T16:00:00+00:00</dc:date>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">0359b1ec-5284-4fb4-952d-b2787d7b6566</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;萨莉·鲁尼(Sally Rooney)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:53:50.502307+00:00"/>
+        <meta name="calibre:title_sort" content="聊天记录【精准捕捉当代年轻人现状：在危急关头，我们都必须一次又一次地决定，我们究竟要爱谁。】"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

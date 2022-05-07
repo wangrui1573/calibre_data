@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">180</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0da714fc-18f8-48d7-8e8e-6b7981f57cb1</dc:identifier>
+        <dc:title>魔术师时代：哲学的黄金十年（1919—1929）</dc:title>
+        <dc:creator opf:file-as="[德]沃尔夫拉姆·艾伦伯格" opf:role="aut">[德]沃尔夫拉姆·艾伦伯格</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-31T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">2fef2295-c45c-45d0-adac-c8fd194beb1b</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;[德]沃尔夫拉姆·艾伦伯格&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:53:23.856366+00:00"/>
+        <meta name="calibre:title_sort" content="魔术师时代：哲学的黄金十年（1919—1929）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

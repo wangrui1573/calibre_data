@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">302</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd8bd695-5163-4818-be5d-2abfd45ec645</dc:identifier>
+        <dc:title>蛤蟆先生去看心理医生</dc:title>
+        <dc:creator opf:file-as="（英）罗伯特•戴博德" opf:role="aut">（英）罗伯特•戴博德</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-31T16:00:00+00:00</dc:date>
+        <dc:publisher>天津人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">881be52d-a7fb-479b-b993-7d49d2d4d3a3</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;（英）罗伯特•戴博德&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T05:00:17.583059+00:00"/>
+        <meta name="calibre:title_sort" content="蛤蟆先生去看心理医生"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

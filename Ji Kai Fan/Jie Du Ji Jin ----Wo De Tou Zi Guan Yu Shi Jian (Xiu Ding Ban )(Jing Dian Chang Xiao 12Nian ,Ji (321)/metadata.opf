@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">321</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">342b97a1-614f-4c6d-ac09-636d5bfc85bf</dc:identifier>
+        <dc:title>解读基金——我的投资观与实践（修订版）（经典畅销12年，基金投资必读书）</dc:title>
+        <dc:creator opf:file-as="季凯帆" opf:role="aut">季凯帆</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-30T16:00:00+00:00</dc:date>
+        <dc:publisher>中国经济出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07ZYFCH6P</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;季凯帆&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T05:01:15.438099+00:00"/>
+        <meta name="calibre:title_sort" content="解读基金——我的投资观与实践（修订版）（经典畅销12年，基金投资必读书）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

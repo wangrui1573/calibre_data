@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">164</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32628c38-f56f-4cdc-b9bb-42bcd02645ee</dc:identifier>
+        <dc:title>战时灯火</dc:title>
+        <dc:creator opf:file-as="迈克尔·翁达杰" opf:role="aut">迈克尔·翁达杰</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-24T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">22ed5a3e-3d17-4171-8e7e-4f09d0dd2a74</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>lcsh: Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;迈克尔·翁达杰&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:52:23.631443+00:00"/>
+        <meta name="calibre:title_sort" content="战时灯火"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

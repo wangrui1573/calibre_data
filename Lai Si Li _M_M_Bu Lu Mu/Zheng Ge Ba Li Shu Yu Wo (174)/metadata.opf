@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">174</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">66e43571-094c-425d-81f5-03a86d03d551</dc:identifier>
+        <dc:title>整个巴黎属于我</dc:title>
+        <dc:creator opf:file-as="莱斯利·M·M·布鲁姆" opf:role="aut">莱斯利·M·M·布鲁姆</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-31T16:00:00+00:00</dc:date>
+        <dc:publisher>中信出版集团</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508691206</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">d856f4c7-b5de-428a-a0ed-7c8f11bb8188</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;莱斯利·M·M·布鲁姆&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:53:00.187965+00:00"/>
+        <meta name="calibre:title_sort" content="整个巴黎属于我"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

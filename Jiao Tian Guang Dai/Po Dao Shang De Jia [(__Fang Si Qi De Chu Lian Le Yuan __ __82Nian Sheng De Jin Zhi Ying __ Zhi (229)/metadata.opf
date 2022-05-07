@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">229</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5733180-e747-49a8-9a9a-baca89495956</dc:identifier>
+        <dc:title>坡道上的家【《房思琪的初恋乐园》《82年生的金智英》之后，又一部女性发声力作！深刻揭露丧偶式育儿困局！我是妈妈，是女儿，是妻子，可是我也想做自己！】</dc:title>
+        <dc:creator opf:file-as="角田光代" opf:role="aut">角田光代</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-01T16:00:00+00:00</dc:date>
+        <dc:publisher>浙江人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">9cec6ccd-f1e2-4dc1-9830-1bde3c4fc757</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;角田光代&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:56:34.451070+00:00"/>
+        <meta name="calibre:title_sort" content="坡道上的家【《房思琪的初恋乐园》《82年生的金智英》之后，又一部女性发声力作！深刻揭露丧偶式育儿困局！我是妈妈，是女儿，是妻子，可是我也想做自己！】"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

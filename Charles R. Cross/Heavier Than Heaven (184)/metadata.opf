@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">184</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04009905-ba29-4e0e-8aab-f7a43b9c5c63</dc:identifier>
+        <dc:title>Heavier Than Heaven</dc:title>
+        <dc:creator opf:file-as="Cross, Charles R." opf:role="aut">Charles R. Cross</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;This is the first in-depth biography of the troubled genius Kurt Cobain. Based on exclusive access to Cobains unpublished diaries, more than 400 interviews, four years of research, and a wealth of documentation, Heavier Than Heaven traces Cobains life from his early days in a double-wide trailer outside of Aberdeen, Washington, to his rise to fame, fortune, and the adulation of a generation.</dc:description>
+        <dc:publisher>Hyperion</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">7f75c1ba-ab6f-451e-abeb-e84e1f0640fc</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Charles R. Cross&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:53:38.544666+00:00"/>
+        <meta name="calibre:title_sort" content="Heavier Than Heaven"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

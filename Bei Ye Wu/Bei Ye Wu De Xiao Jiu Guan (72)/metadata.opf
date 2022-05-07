@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">72</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">95d6c26d-bbab-4bb5-957a-4757726dcde4</dc:identifier>
+        <dc:title>北野武的小酒馆</dc:title>
+        <dc:creator opf:file-as="北野武" opf:role="aut">北野武</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-31T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">e9a5a7e1-7471-476a-8dd4-d1880f31039d</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;北野武&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:42:21.724579+00:00"/>
+        <meta name="calibre:title_sort" content="北野武的小酒馆"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

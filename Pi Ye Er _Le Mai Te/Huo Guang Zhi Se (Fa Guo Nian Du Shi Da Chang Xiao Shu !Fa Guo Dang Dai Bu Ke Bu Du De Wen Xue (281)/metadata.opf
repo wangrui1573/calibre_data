@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">281</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e011e30-fb56-4ae5-8538-49350ef61775</dc:identifier>
+        <dc:title>火光之色（法国年度十大畅销书！法国当代不可不读的文学大师重磅新作）</dc:title>
+        <dc:creator opf:file-as="皮耶尔·勒迈特" opf:role="aut">皮耶尔·勒迈特</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-09T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">15a175dc-c060-4652-9812-05d6dde94036</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>lcsh: Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;皮耶尔·勒迈特&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:59:09.406695+00:00"/>
+        <meta name="calibre:title_sort" content="火光之色（法国年度十大畅销书！法国当代不可不读的文学大师重磅新作）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

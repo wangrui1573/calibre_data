@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">157</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e83d59b0-19ec-4f45-a401-c94086479115</dc:identifier>
+        <dc:title>追寻记忆的痕迹：新心智科学的开创历程（诺贝尔奖得主埃里克•坎德尔自传，果壳网副总编吴欧、中科院院士蒲慕明倾情推荐。）</dc:title>
+        <dc:creator opf:file-as="埃里克·坎德尔" opf:role="aut">埃里克·坎德尔</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-09T16:00:00+00:00</dc:date>
+        <dc:publisher>北京：中国友谊出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787505747012</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">f6694401-3b9b-44d8-b1a2-0a0bc666c464</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;埃里克·坎德尔&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:51:56.459995+00:00"/>
+        <meta name="calibre:title_sort" content="追寻记忆的痕迹：新心智科学的开创历程（诺贝尔奖得主埃里克•坎德尔自传，果壳网副总编吴欧、中科院院士蒲慕明倾情推荐。）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

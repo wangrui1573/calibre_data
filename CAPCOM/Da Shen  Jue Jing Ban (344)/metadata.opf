@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">344</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e890eb46-6b7a-47b6-be76-761918fcf718</dc:identifier>
+        <dc:title>大神 绝景版</dc:title>
+        <dc:creator opf:role="aut">CAPCOM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h2 style="line-height: 30px" id="gf_sb_move"&gt;&lt;strong style="font-family: 'PingFang SC','Hiragino Sans GB','Microsoft YaHei'; font-size: x-large; color: #000000"&gt;编&lt;/strong&gt;&lt;strong style="font-family: 'PingFang SC','Hiragino Sans GB','Microsoft YaHei'; font-size: x-large; color: #000000"&gt;辑的话&lt;/strong&gt;&lt;/h2&gt;
+&lt;p style="line-height: 24px; font-family: 'PingFang SC','Microsoft YaHei','微软雅黑','SimSun','宋体','Arial','STHeiti','华文黑体','Helvetica','Tahoma','Arial sans-serif'; font-size: 14px"&gt;&lt;span style="color: #262626"&gt;四叶草的荣光，如同天照大神一样闪耀。&lt;/span&gt;&lt;/p&gt;
+&lt;h2 style="line-height: 30px; font-family: 'PingFang SC','Hiragino Sans GB','Microsoft YaHei'"&gt;&lt;span style="color: #000000"&gt;关于游戏&lt;/span&gt;&lt;/h2&gt;
+&lt;p style="line-height: 24px; font-family: 'PingFang SC','Microsoft YaHei','微软雅黑','SimSun','宋体','Arial','STHeiti','华文黑体','Helvetica','Tahoma','Arial sans-serif'; font-size: 14px"&gt;&lt;span style="color: #262626"&gt;本作是2006年发售的PS2名作《大神》的高清复刻版，游戏以日本本土的神话传说为背景，并将日本神话体系中的最高神祗天照幻化为一匹白狼。“笔神之力”是本作对的最大特色，笔神数量多达13名，通过画笔来使用各位笔神的能力，不但能帮助战斗，还可以让枯萎的树木重新绽放、净化被污染的区域等。&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>/volume1/RDM_3.5T/Games/NS/大神 绝景版 XXGAME.NET修复汉化版</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>NS</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;CAPCOM&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="NS"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-12-27T05:11:42.264058+00:00"/>
+        <meta name="calibre:title_sort" content="大神 绝景版"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

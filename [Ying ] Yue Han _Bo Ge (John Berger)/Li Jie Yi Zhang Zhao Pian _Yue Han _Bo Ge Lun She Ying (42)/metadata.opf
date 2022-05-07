@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8b613cf7-35a2-495b-bf9a-69f5ee565b24</dc:identifier>
+        <dc:title>理解一张照片：约翰·伯格论摄影</dc:title>
+        <dc:creator opf:file-as="Berger）, 约翰·伯格（John &amp; Dyer）, 杰夫·戴尔（Geoff" opf:role="aut">[英] 约翰·伯格（John Berger）</dc:creator>
+        <dc:creator opf:file-as="Berger）, 约翰·伯格（John &amp; Dyer）, 杰夫·戴尔（Geoff" opf:role="aut">[英]杰夫·戴尔（Geoff Dyer）</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-18T16:00:00+00:00</dc:date>
+        <dc:publisher>中国美术学院出版社</dc:publisher>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;[英] 约翰·伯格（John Berger）&quot;: &quot;&quot;, &quot;[英]杰夫·戴尔（Geoff Dyer）&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:40:45.785141+00:00"/>
+        <meta name="calibre:title_sort" content="理解一张照片：约翰·伯格论摄影"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

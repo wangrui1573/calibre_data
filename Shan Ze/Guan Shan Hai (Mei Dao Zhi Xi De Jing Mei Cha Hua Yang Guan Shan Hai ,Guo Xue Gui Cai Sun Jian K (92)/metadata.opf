@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">92</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">215893bc-f318-41e1-81dc-a19b5fa1a2b0</dc:identifier>
+        <dc:title>观山海（美到窒息的精美插画仰观山海，国学鬼才孙见坤精研解读！彰显中华文明与审美！）</dc:title>
+        <dc:creator opf:file-as="杉泽" opf:role="aut">杉泽</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-28T16:00:00+00:00</dc:date>
+        <dc:publisher>湖南文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">a1890aed-3787-4689-9d9f-7a4384b7a764</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;杉泽&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:43:31.417367+00:00"/>
+        <meta name="calibre:title_sort" content="观山海（美到窒息的精美插画仰观山海，国学鬼才孙见坤精研解读！彰显中华文明与审美！）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

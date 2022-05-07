@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">268</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34368137-983e-4594-8fc3-1eb0dbd7f3a7</dc:identifier>
+        <dc:title>猴杯（时报文学奖、开卷十大好书得奖作品，马华文学超重量级作家张贵兴代表作，以狂野暴虐的文字谱成一首魔幻现实传奇史诗！） (后浪·华语文学)</dc:title>
+        <dc:creator opf:file-as="张贵兴" opf:role="aut">张贵兴</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-15T16:00:00+00:00</dc:date>
+        <dc:publisher>成都：四川人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787220118234</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;张贵兴&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:58:30.068851+00:00"/>
+        <meta name="calibre:title_sort" content="猴杯（时报文学奖、开卷十大好书得奖作品，马华文学超重量级作家张贵兴代表作，以狂野暴虐的文字谱成一首魔幻现实传奇史诗！） (后浪·华语文学)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

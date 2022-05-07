@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">130</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">14cc66f3-6c34-414c-8636-602c62b7fd54</dc:identifier>
+        <dc:title>拔蒲歌</dc:title>
+        <dc:creator opf:file-as="沈书枝" opf:role="aut">沈书枝</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-27T16:00:00+00:00</dc:date>
+        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">1ee8648c-6261-4d42-9fa5-5247168f8d12</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;沈书枝&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:50:06.379250+00:00"/>
+        <meta name="calibre:title_sort" content="拔蒲歌"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

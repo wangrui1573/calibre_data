@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">224</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">23cad804-aa22-4be4-99fa-53d9d0743eaf</dc:identifier>
+        <dc:title>夜晚的潜水艇（90后陈春成首部短篇小说集 阿乙、贾行家、陆庆屹、东东枪、史航 激赏推荐 理想国出品）</dc:title>
+        <dc:creator opf:file-as="陈春成" opf:role="aut">陈春成</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-31T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B08NJ4NFLQ</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;陈春成&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:56:19.754055+00:00"/>
+        <meta name="calibre:title_sort" content="夜晚的潜水艇（90后陈春成首部短篇小说集 阿乙、贾行家、陆庆屹、东东枪、史航 激赏推荐 理想国出品）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

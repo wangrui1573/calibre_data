@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">78</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf3f775e-1c38-43b3-b1f7-9df414c73327</dc:identifier>
+        <dc:title>默读（《大英雄时代》《有匪》后大神级作家Priest口碑爆品 史上备受瞩目的罪案小说——人气逆天程度，没有之一！）</dc:title>
+        <dc:creator opf:file-as="Priest" opf:role="aut">Priest</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-31T16:00:00+00:00</dc:date>
+        <dc:publisher>百花洲文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">ebe2067d-1da0-4404-aa7f-b63491b715f9</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Priest&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:42:38.900513+00:00"/>
+        <meta name="calibre:title_sort" content="默读（《大英雄时代》《有匪》后大神级作家Priest口碑爆品 史上备受瞩目的罪案小说——人气逆天程度，没有之一！）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

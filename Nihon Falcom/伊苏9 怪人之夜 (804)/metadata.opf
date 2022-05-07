@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">804</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e42ca278-0ee6-4d40-9e81-bde05db19d4b</dc:identifier>
+        <dc:title>伊苏9 怪人之夜</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>/volume4/RDM_12T/02.Games/PC/20220325—伊苏9 怪人之夜</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>PC</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="PC"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2022-04-01T06:55:28+00:00"/>
+        <meta name="calibre:title_sort" content="伊苏9 怪人之夜"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

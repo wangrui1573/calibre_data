@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">261</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">183bf084-b7e4-4715-a70d-9eb7b96179ce</dc:identifier>
+        <dc:title>我将独自前行【第158届芥川奖获奖作品！日本上市2个月畅销50万册！小说开启了日本"玄冬"文学之新气象！展现身处老境之下的人生思索！】</dc:title>
+        <dc:creator opf:file-as="若竹千佐子著 &amp; 杜海玲译" opf:role="aut">若竹千佐子著</dc:creator>
+        <dc:creator opf:file-as="若竹千佐子著 &amp; 杜海玲译" opf:role="aut">杜海玲译</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-31T16:00:00+00:00</dc:date>
+        <dc:publisher>北京联合出版公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">9745b2e0-6fdb-47c6-b7c9-e4460f9c7e7d</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;若竹千佐子著&quot;: &quot;&quot;, &quot;杜海玲译&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:58:09.042755+00:00"/>
+        <meta name="calibre:title_sort" content="我将独自前行【第158届芥川奖获奖作品！日本上市2个月畅销50万册！小说开启了日本&quot;玄冬&quot;文学之新气象！展现身处老境之下的人生思索！】"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">290</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4956b922-02b6-47ba-ae06-73c0d31fe843</dc:identifier>
+        <dc:title>理想国译丛038 第三帝国三部曲 1：第三帝国的到来（上下册 一部关于希特勒和纳粹德国伟大的鸿篇巨制 一部研究二战德国的经典之作 理想国出品）</dc:title>
+        <dc:creator opf:file-as="理查德·J.埃文斯" opf:role="aut">理查德·J.埃文斯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-31T16:00:00+00:00</dc:date>
+        <dc:publisher>九州出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787510886768</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;理查德·J.埃文斯&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:59:36.004885+00:00"/>
+        <meta name="calibre:title_sort" content="理想国译丛038 第三帝国三部曲 1：第三帝国的到来（上下册 一部关于希特勒和纳粹德国伟大的鸿篇巨制 一部研究二战德国的经典之作 理想国出品）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

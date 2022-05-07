@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">142</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ffa6053f-ae3f-4267-8700-674329bf5c95</dc:identifier>
+        <dc:title>网内人（获岛田庄司、王家卫盛赞，《周刊文春》2018年度推理小说&amp;海外推理双冠军得主 理想国出品）</dc:title>
+        <dc:creator opf:file-as="陈浩基" opf:role="aut">陈浩基</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-15T16:00:00+00:00</dc:date>
+        <dc:publisher>九州出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787510881145</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">2be587d2-9326-472b-a905-fc79dc64f11f</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;陈浩基&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:50:59.651569+00:00"/>
+        <meta name="calibre:title_sort" content="网内人（获岛田庄司、王家卫盛赞，《周刊文春》2018年度推理小说&amp;海外推理双冠军得主 理想国出品）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

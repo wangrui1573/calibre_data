@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e96957ea-df0d-4001-98dc-bf9e0a0327fc</dc:identifier>
+        <dc:title>八月炮火（精彩无比的一战经典之作） (理想国译丛)</dc:title>
+        <dc:creator opf:file-as="等, 著者：巴巴拉·塔奇曼 译者：张岱云" opf:role="aut">著者：[美]巴巴拉·塔奇曼 译者：张岱云 等</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-08T16:00:00+00:00</dc:date>
+        <dc:publisher>上海三联书店</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787542663764</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">7b716d87-1008-467d-85e4-c174260dee27</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;著者：[美]巴巴拉·塔奇曼 译者：张岱云 等&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:40:36.988632+00:00"/>
+        <meta name="calibre:title_sort" content="八月炮火（精彩无比的一战经典之作） (理想国译丛)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

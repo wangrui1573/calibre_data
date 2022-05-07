@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">234</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2438bfd7-1d3d-4fda-8951-77d1fd897dba</dc:identifier>
+        <dc:title>流溪</dc:title>
+        <dc:creator opf:file-as="林棹" opf:role="aut">林棹</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>理想国 | 上海三联书店</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">1fdd26a9-9c36-4e5f-b8dc-2e29b166421b</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>宝珀理想国文学作品</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;林棹&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:56:49.376562+00:00"/>
+        <meta name="calibre:title_sort" content="流溪"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">150</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ab6cb58-b71c-47ca-a9b9-701506612b7e</dc:identifier>
+        <dc:title>乌金的牙齿（王家卫推荐，台湾金马奖得主万玛才旦短篇小说集,“我渴望以自己的方式讲述故乡故事，一个更真实的被风刮过的故乡）</dc:title>
+        <dc:creator opf:file-as="万玛才旦" opf:role="aut">万玛才旦</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-31T16:00:00+00:00</dc:date>
+        <dc:publisher>中信出版集团</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787521702996</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">7dd23afe-71f4-43ee-bbce-f07031b2fcfa</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;万玛才旦&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:51:29.435057+00:00"/>
+        <meta name="calibre:title_sort" content="乌金的牙齿（王家卫推荐，台湾金马奖得主万玛才旦短篇小说集,“我渴望以自己的方式讲述故乡故事，一个更真实的被风刮过的故乡）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

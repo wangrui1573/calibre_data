@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">288</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">abaa4469-99d9-4f0d-a59c-ea79ec9beba9</dc:identifier>
+        <dc:title>知晓我姓名【《华盛顿邮报》《纽约书评》《时代》年度好书，美国国家书评人协会奖自传大奖，希拉里、拜登、崔娃激赏推荐，华裔女孩冲破禁锢改变美国司法。从受害者走向胜利者，重塑女性的价值和力量】</dc:title>
+        <dc:creator opf:file-as="香奈儿·米勒" opf:role="aut">香奈儿·米勒</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-30T16:00:00+00:00</dc:date>
+        <dc:publisher>上海人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">a0ebfa50-a91a-41c9-a233-4156c740155c</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;香奈儿·米勒&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:59:30.047879+00:00"/>
+        <meta name="calibre:title_sort" content="知晓我姓名【《华盛顿邮报》《纽约书评》《时代》年度好书，美国国家书评人协会奖自传大奖，希拉里、拜登、崔娃激赏推荐，华裔女孩冲破禁锢改变美国司法。从受害者走向胜利者，重塑女性的价值和力量】"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

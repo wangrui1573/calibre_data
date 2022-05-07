@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">84</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7a76608-c0c8-493b-84f6-ca74a33b75d4</dc:identifier>
+        <dc:title>荒诞医学史（一本彻底颠覆你对传统医学理解的书，人人都能看得懂！有点味道的书~）（凤凰联动畅销系列之一）</dc:title>
+        <dc:creator opf:file-as="莉迪亚·康 &amp; 内特·彼得森" opf:role="aut">莉迪亚·康</dc:creator>
+        <dc:creator opf:file-as="莉迪亚·康 &amp; 内特·彼得森" opf:role="aut">内特·彼得森</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-29T16:00:00+00:00</dc:date>
+        <dc:publisher>江西科学技术出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787539065038</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">82d79bd8-0aba-4148-aa4b-0d36c65d21ec</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>①医学史-西方国家</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;莉迪亚·康&quot;: &quot;&quot;, &quot;内特·彼得森&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:42:56.610218+00:00"/>
+        <meta name="calibre:title_sort" content="荒诞医学史（一本彻底颠覆你对传统医学理解的书，人人都能看得懂！有点味道的书~）（凤凰联动畅销系列之一）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

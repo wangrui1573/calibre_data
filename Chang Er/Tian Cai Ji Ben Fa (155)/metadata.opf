@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">155</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8ce4f86e-ba68-4907-b48c-a58fee425d57</dc:identifier>
+        <dc:title>天才基本法</dc:title>
+        <dc:creator opf:file-as="长洱" opf:role="aut">长洱</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-14T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">58ea6504-af34-49cd-adee-da37e0e45380</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;长洱&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:51:48.694268+00:00"/>
+        <meta name="calibre:title_sort" content="天才基本法"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">201</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6572394e-5801-4dfd-afed-3e9655bd87d3</dc:identifier>
+        <dc:title>亲爱的安吉维拉</dc:title>
+        <dc:creator opf:file-as="奇玛曼达·恩戈兹·阿迪契" opf:role="aut">奇玛曼达·恩戈兹·阿迪契</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-09T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">dff20eda-fde5-4240-b1e4-e63042195f06</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;奇玛曼达·恩戈兹·阿迪契&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:54:45.019401+00:00"/>
+        <meta name="calibre:title_sort" content="亲爱的安吉维拉"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

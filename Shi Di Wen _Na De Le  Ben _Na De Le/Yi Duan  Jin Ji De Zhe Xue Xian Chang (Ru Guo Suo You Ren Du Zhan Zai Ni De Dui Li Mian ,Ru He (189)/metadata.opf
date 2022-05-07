@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">189</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f6acd460-4b6e-457c-89e2-346b6c685039</dc:identifier>
+        <dc:title>异端 进击的哲学现场（如果所有人都站在你的对立面，如何证明你是对的！一本独特的哲学漫画，让你从此告别人云亦云。）</dc:title>
+        <dc:creator opf:file-as="本•纳德勒, 史蒂文•纳德勒" opf:role="aut">史蒂文•纳德勒 本•纳德勒</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-28T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">45ce85f5-644c-4a6e-a42c-7ed0899d6569</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;史蒂文•纳德勒 本•纳德勒&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:53:58.463120+00:00"/>
+        <meta name="calibre:title_sort" content="异端 进击的哲学现场（如果所有人都站在你的对立面，如何证明你是对的！一本独特的哲学漫画，让你从此告别人云亦云。）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

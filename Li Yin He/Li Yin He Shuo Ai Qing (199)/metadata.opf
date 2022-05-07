@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">199</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">85348f0d-56ad-466b-b1ab-578d7c464698</dc:identifier>
+        <dc:title>李银河说爱情</dc:title>
+        <dc:creator opf:file-as="李银河" opf:role="aut">李银河</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-14T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">def22cff-7ab7-497f-a6a1-6ef1d7d73abc</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;李银河&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:54:37.608384+00:00"/>
+        <meta name="calibre:title_sort" content="李银河说爱情"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

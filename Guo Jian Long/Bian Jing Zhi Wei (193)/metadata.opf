@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">193</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">461f97cc-8ae5-4973-8cbe-9fe36f85f4f1</dc:identifier>
+        <dc:title>汴京之围</dc:title>
+        <dc:creator opf:file-as="郭建龙" opf:role="aut">郭建龙</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-30T16:00:00+00:00</dc:date>
+        <dc:description>在颐和园中，有一块叫作青芝岫的巨大北派太湖石。这块石头长8米，宽2米，高4米，重量大约为30吨，如同一座巨大的屏风摆在乐寿堂前的庭院里。当年，这块石头发现于距离北京城几十公里外的良乡。如今，一个中型吊车和一辆重卡，可以轻松地将它运送到陆地上的很多地方。</dc:description>
+        <dc:publisher>天地出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">6e94adaa-a33f-4450-9d86-7d7d74ac3273</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>汴京之围:北宋末年的外交、战争和人</dc:subject>
+        <dc:subject>610014)</dc:subject>
+        <dc:subject>①中国历史-北宋-通俗读物</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;郭建龙&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:54:14.762279+00:00"/>
+        <meta name="calibre:title_sort" content="汴京之围"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

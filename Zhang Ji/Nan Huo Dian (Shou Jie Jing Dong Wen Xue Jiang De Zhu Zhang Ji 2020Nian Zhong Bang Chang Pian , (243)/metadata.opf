@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">243</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd9ef5b4-9941-4490-b3d6-97845ba18f92</dc:identifier>
+        <dc:title>南货店（首届京东文学奖得主张忌2020年重磅长篇，用一家南货店盛放整个世界与时代。张忌独特的江南美学。）</dc:title>
+        <dc:creator opf:file-as="张忌" opf:role="aut">张忌</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-26T16:00:00+00:00</dc:date>
+        <dc:publisher>中信出版集团</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787521717693</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;张忌&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:57:16.747138+00:00"/>
+        <meta name="calibre:title_sort" content="南货店（首届京东文学奖得主张忌2020年重磅长篇，用一家南货店盛放整个世界与时代。张忌独特的江南美学。）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

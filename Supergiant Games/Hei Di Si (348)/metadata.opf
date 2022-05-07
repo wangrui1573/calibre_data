@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">348</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d8c881b-9dc6-44b4-8ea9-db328e7a09f9</dc:identifier>
+        <dc:title>黑帝斯</dc:title>
+        <dc:creator opf:file-as="Games, Supergiant" opf:role="aut">Supergiant Games</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;section class="game_box_list" style="-webkit-tap-highlight-color: transparent; outline: 0px; word-break: break-all; font-family: 'PingFang SC', 'Microsoft YaHei', 微软雅黑, SimSun, 宋体, Arial, STHeiti, 华文黑体, Helvetica, Tahoma, 'Arial sans-serif'; padding: 0px; margin: 10px 0px 20px; list-style: none; border: 0px; appearance: none; overflow-wrap: break-word; box-sizing: border-box; float: left; width: 700px; font-size: 14px; background-color: #fafafa;"&gt;&#13;
+&lt;div class="vg_tit" style="-webkit-tap-highlight-color: transparent; outline: 0px; word-break: break-all; padding: 0px; margin: 7px 0px 10px; list-style: none; border: 0px; appearance: none; overflow-wrap: break-word; box-sizing: border-box; float: left; width: 700px; position: relative; z-index: 2;"&gt;&#13;
+&lt;h2 style="-webkit-tap-highlight-color: transparent; outline: 0px; word-break: break-all; font-family: 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei'; padding: 0px; margin: 0px; list-style: none; border: 0px; appearance: none; overflow-wrap: break-word; box-sizing: border-box; -webkit-font-smoothing: antialiased; float: left; height: 34px; line-height: 30px; font-size: 24px; position: relative; max-width: calc(100% - 120px); overflow: hidden;"&gt;编辑的话&lt;/h2&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;p class="game_description" style="-webkit-tap-highlight-color: transparent; outline: 0px; word-break: break-all; padding: 0px; margin: 0px; list-style: none; border: 0px; appearance: none; overflow-wrap: break-word; box-sizing: border-box; width: 700px; float: left; line-height: 24px; color: #262626;"&gt;扮演冥界之王，一路杀敌。&lt;/p&gt;&#13;
+&lt;/section&gt;&#13;
+&lt;section class="game_box_list" style="-webkit-tap-highlight-color: transparent; outline: 0px; word-break: break-all; font-family: 'PingFang SC', 'Microsoft YaHei', 微软雅黑, SimSun, 宋体, Arial, STHeiti, 华文黑体, Helvetica, Tahoma, 'Arial sans-serif'; padding: 0px; margin: 10px 0px 20px; list-style: none; border: 0px; appearance: none; overflow-wrap: break-word; box-sizing: border-box; float: left; width: 700px; font-size: 14px; background-color: #fafafa;"&gt;&#13;
+&lt;div class="vg_tit" style="-webkit-tap-highlight-color: transparent; outline: 0px; word-break: break-all; padding: 0px; margin: 7px 0px 10px; list-style: none; border: 0px; appearance: none; overflow-wrap: break-word; box-sizing: border-box; float: left; width: 700px; position: relative; z-index: 2;"&gt;&#13;
+&lt;h2 style="-webkit-tap-highlight-color: transparent; outline: 0px; word-break: break-all; font-family: 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei'; padding: 0px; margin: 0px; list-style: none; border: 0px; appearance: none; overflow-wrap: break-word; box-sizing: border-box; -webkit-font-smoothing: antialiased; float: left; height: 34px; line-height: 30px; font-size: 24px; position: relative; max-width: calc(100% - 120px); overflow: hidden;"&gt;关于游戏&lt;/h2&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;p class="game_description" style="-webkit-tap-highlight-color: transparent; outline: 0px; word-break: break-all; padding: 0px; margin: 0px; list-style: none; border: 0px; appearance: none; overflow-wrap: break-word; box-sizing: border-box; width: 700px; float: left; line-height: 24px; color: #262626;"&gt;《黑帝斯》是由开发了《堡垒》《晶体管》及《葬火》等作品的Supergiant Games制作的一款Roguelike类动作游戏。玩家将扮演希腊冥界之王哈迪斯的儿子一路杀敌，打倒奥林匹克诸神并将其力量占为己有。一旦玩家中途死亡，那么等待玩家的将会是全新的体验&amp;hellip;&amp;hellip;&lt;/p&gt;&#13;
+&lt;/section&gt;</dc:description>
+        <dc:publisher>/电影/baidusync</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>ns</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Supergiant Games&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="NS"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-12-26T13:19:21+00:00"/>
+        <meta name="calibre:title_sort" content="黑帝斯"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

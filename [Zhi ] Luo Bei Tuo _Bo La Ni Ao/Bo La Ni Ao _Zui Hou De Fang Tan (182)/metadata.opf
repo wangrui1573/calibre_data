@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">182</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3b19d566-acc8-409e-abcd-b6771dc3690a</dc:identifier>
+        <dc:title>波拉尼奥：最后的访谈</dc:title>
+        <dc:creator opf:file-as="〔智〕罗贝托·波拉尼奥" opf:role="aut">〔智〕罗贝托·波拉尼奥</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-18T22:31:57.657515+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">20ffd16d-8dd7-46cc-a342-5782e15be110</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787521706673</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;〔智〕罗贝托·波拉尼奥&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:53:31.159614+00:00"/>
+        <meta name="calibre:title_sort" content="波拉尼奥：最后的访谈"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

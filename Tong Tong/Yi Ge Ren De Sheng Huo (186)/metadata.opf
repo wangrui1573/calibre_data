@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">186</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bb6dc87d-16f5-4c1a-8539-52963ab50f55</dc:identifier>
+        <dc:title>一个人的生活</dc:title>
+        <dc:creator opf:file-as="童仝" opf:role="aut">童仝</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>一个人的生活</dc:description>
+        <dc:publisher>童仝</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">43283d8c-44d6-440c-b700-6d11c8e61f2b</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>一个人的生活</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;童仝&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:53:46.776252+00:00"/>
+        <meta name="calibre:title_sort" content="一个人的生活"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

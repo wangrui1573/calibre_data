@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">267</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5aa235ff-a0a7-42be-98c1-c9cbd33281b3</dc:identifier>
+        <dc:title>大宋之变，1063—1086（这是一个朝代的转折史，也是一群有识之士的时代悲歌，君臣遇合之际，他们积极寻求变革，却终将改革变成政治角力，将北宋推向危亡的深渊！）</dc:title>
+        <dc:creator opf:file-as="赵冬梅" opf:role="aut">赵冬梅</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-23T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="ISBN">9787559826992</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;赵冬梅&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:58:27.087456+00:00"/>
+        <meta name="calibre:title_sort" content="大宋之变，1063—1086（这是一个朝代的转折史，也是一群有识之士的时代悲歌，君臣遇合之际，他们积极寻求变革，却终将改革变成政治角力，将北宋推向危亡的深渊！）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

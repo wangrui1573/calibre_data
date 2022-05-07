@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">220</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1760a128-7bc4-40e8-9d9a-453c9b59602d</dc:identifier>
+        <dc:title>回归故里（《米歇尔·福柯传》作者迪迪埃·埃里蓬切身之作初次引进，讲述他如何成为一代著名知识分子的传奇故事！）</dc:title>
+        <dc:creator opf:file-as="迪迪埃·埃里蓬" opf:role="aut">迪迪埃·埃里蓬</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-07T16:00:00+00:00</dc:date>
+        <dc:publisher>上海：上海文化出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787553518510</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;迪迪埃·埃里蓬&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:56:07.795853+00:00"/>
+        <meta name="calibre:title_sort" content="回归故里（《米歇尔·福柯传》作者迪迪埃·埃里蓬切身之作初次引进，讲述他如何成为一代著名知识分子的传奇故事！）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

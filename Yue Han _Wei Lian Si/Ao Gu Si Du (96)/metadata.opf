@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">96</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fbf9e81a-3cf2-4721-a1e1-91b2f4607013</dc:identifier>
+        <dc:title>奥古斯都</dc:title>
+        <dc:creator opf:file-as="约翰·威廉斯" opf:role="aut">约翰·威廉斯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-31T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">b31bd9dc-b47f-4f52-8c6b-b62bb6bf49d5</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;约翰·威廉斯&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:43:46.434211+00:00"/>
+        <meta name="calibre:title_sort" content="奥古斯都"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

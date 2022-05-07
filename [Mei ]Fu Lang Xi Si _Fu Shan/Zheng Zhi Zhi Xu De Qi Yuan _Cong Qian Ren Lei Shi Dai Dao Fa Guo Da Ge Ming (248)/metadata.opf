@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">248</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d45ba4b7-d689-47bc-bad6-9a6a6c88be86</dc:identifier>
+        <dc:title>政治秩序的起源：从前人类时代到法国大革命</dc:title>
+        <dc:creator opf:file-as="[美]弗朗西斯·福山" opf:role="aut">[美]弗朗西斯·福山</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-15T02:19:17.448000+00:00</dc:date>
+        <dc:description>梁文道、刘瑜、熊培云、许知远联袂主编——“理想国译丛”（MIRROR）系列之一（005）——保持开放性的思想和非功利的眼睛，看看世界的丰富性与复杂性。本书有刘瑜专文导读“重读福山之二：重新带回国家”。 成功的现代自由民主制，将强大的国家、法治和负责制政府三种机制结合在稳定的平衡中。那么，这三种机构最初来自何方？是什么力量驱使它们诞生？又在何等条件下得到发展？建立的顺序如何？彼此间有何关系？ 当代最重要的政治思想家之一弗朗西斯•福山，为我们提供了一幅今日政治机构是如何从历史中发展出来的全面画卷。《政治秩序的起源》（第一卷），把对政治秩序的探讨向前延伸到人类的灵长目祖先，然后依次讲述人类部落社会的出现，第一个现代国家在中国的生长，法治在印度和中东的开始，一直到法国大革命前夕问责制政府在欧洲的发展。《政治秩序的起源》是一次严密的尝试，力图通过多学科的综合研究，形成对人类历史的概览，建立一个理解政治制度演化的宏大框架。 本书第二卷将延伸到当代，敬请期待。</dc:description>
+        <dc:publisher>广西师范大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787549555116</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;[美]弗朗西斯·福山&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:57:31.097216+00:00"/>
+        <meta name="calibre:title_sort" content="政治秩序的起源：从前人类时代到法国大革命"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">73</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5092244-9f50-4e9c-8a42-af3856635df0</dc:identifier>
+        <dc:title>冬泳（阿乙•蒋方舟•李诞•谈波 齐声推荐， 颇具潜力的青年作家、第四届豆瓣阅读征文大赛首奖得主班宇（@坦克手贝吉塔）短篇力作首度成集）</dc:title>
+        <dc:creator opf:file-as="班宇" opf:role="aut">班宇</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-06T16:00:00+00:00</dc:date>
+        <dc:publisher>上海三联书店</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787542664051</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">5615d17c-9386-4e5a-9fe2-32fa23f07022</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;班宇&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:42:24.580680+00:00"/>
+        <meta name="calibre:title_sort" content="冬泳（阿乙•蒋方舟•李诞•谈波 齐声推荐， 颇具潜力的青年作家、第四届豆瓣阅读征文大赛首奖得主班宇（@坦克手贝吉塔）短篇力作首度成集）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

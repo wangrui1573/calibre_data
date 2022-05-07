@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">171</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a562f5e-c4bf-4f84-a597-386298263ef3</dc:identifier>
+        <dc:title>简读中国史：世界史坐标下的中国</dc:title>
+        <dc:creator opf:file-as="张宏杰" opf:role="aut">张宏杰</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-31T16:00:00+00:00</dc:date>
+        <dc:publisher>岳麓书社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787553811550</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">350c282b-95e7-4180-aa05-7ac0e9e6f8d4</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;张宏杰&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:52:49.204884+00:00"/>
+        <meta name="calibre:title_sort" content="简读中国史：世界史坐标下的中国"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

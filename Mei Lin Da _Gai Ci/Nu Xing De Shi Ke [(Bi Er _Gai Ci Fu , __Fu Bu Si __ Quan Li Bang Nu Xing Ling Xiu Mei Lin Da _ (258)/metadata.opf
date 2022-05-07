@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">258</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce32ec81-7607-4126-b412-c0e251045330</dc:identifier>
+        <dc:title>女性的时刻【比尔·盖茨夫、《福布斯》权力榜女性领袖梅琳达·盖茨首度出书,比尔·盖茨亲自晒书推荐|入选奥巴马年度书单】</dc:title>
+        <dc:creator opf:file-as="梅琳达·盖茨" opf:role="aut">梅琳达·盖茨</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-09T16:00:00+00:00</dc:date>
+        <dc:publisher>北京联合出版公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B08CRLHN88</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;梅琳达·盖茨&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:58:00.285985+00:00"/>
+        <meta name="calibre:title_sort" content="女性的时刻【比尔·盖茨夫、《福布斯》权力榜女性领袖梅琳达·盖茨首度出书,比尔·盖茨亲自晒书推荐|入选奥巴马年度书单】"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

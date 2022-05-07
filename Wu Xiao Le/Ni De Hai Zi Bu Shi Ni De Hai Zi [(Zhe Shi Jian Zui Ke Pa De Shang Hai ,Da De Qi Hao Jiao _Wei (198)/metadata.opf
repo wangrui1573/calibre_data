@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">198</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3dafdf5c-1440-49b7-9d45-b27f23877d7b</dc:identifier>
+        <dc:title>你的孩子不是你的孩子【这世间最可怕的伤害，打的旗号叫“为你好”。心理学家武志红/小说家骆以军 诚意推荐。出版后引发巨大争议，数月雄踞博客来总榜No.1。同名网剧190国同步播出，冲上日本Netflix人气剧集第1名，获第54届金钟奖5项大奖，被称为“亚洲版黑镜”。】</dc:title>
+        <dc:creator opf:file-as="吴晓乐" opf:role="aut">吴晓乐</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-30T16:00:00+00:00</dc:date>
+        <dc:publisher>中国友谊出版公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07YZFXVN7</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;吴晓乐&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:54:33.790595+00:00"/>
+        <meta name="calibre:title_sort" content="你的孩子不是你的孩子【这世间最可怕的伤害，打的旗号叫“为你好”。心理学家武志红/小说家骆以军 诚意推荐。出版后引发巨大争议，数月雄踞博客来总榜No.1。同名网剧190国同步播出，冲上日本Netflix人气剧集第1名，获第54届金钟奖5项大奖，被称为“亚洲版黑镜”。】"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

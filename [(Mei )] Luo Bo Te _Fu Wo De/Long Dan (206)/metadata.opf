@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">206</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">925def9f-c6d2-430d-93b3-aeb4f452e9e3</dc:identifier>
+        <dc:title>龙蛋</dc:title>
+        <dc:creator opf:file-as="【美】罗伯特·福沃德" opf:role="aut">【美】罗伯特·福沃德</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-26T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">2a17b23d-600f-48b9-8388-3b19f96ea67b</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;【美】罗伯特·福沃德&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:55:04.329642+00:00"/>
+        <meta name="calibre:title_sort" content="龙蛋"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

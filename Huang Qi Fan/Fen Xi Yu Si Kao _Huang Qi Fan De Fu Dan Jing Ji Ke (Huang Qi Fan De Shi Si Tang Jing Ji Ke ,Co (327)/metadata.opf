@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">327</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18b859ed-2944-49f8-92b2-f1ba5f0f4288</dc:identifier>
+        <dc:title>分析与思考：黄奇帆的复旦经济课（黄奇帆的十四堂经济课，从资本市场、货币制度、房地产开发到对外开放，解读中国经济，厘清脉络，重大问题都可以在这里获得新知。）</dc:title>
+        <dc:creator opf:file-as="黄奇帆" opf:role="aut">黄奇帆</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-30T16:00:00+00:00</dc:date>
+        <dc:publisher>上海人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B08FD29CDF</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;黄奇帆&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T05:01:35.696896+00:00"/>
+        <meta name="calibre:title_sort" content="分析与思考：黄奇帆的复旦经济课（黄奇帆的十四堂经济课，从资本市场、货币制度、房地产开发到对外开放，解读中国经济，厘清脉络，重大问题都可以在这里获得新知。）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

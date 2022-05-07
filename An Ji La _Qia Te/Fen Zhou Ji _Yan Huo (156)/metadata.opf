@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">156</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">17189cd2-42ca-4d35-8cb9-730e0bf2bf13</dc:identifier>
+        <dc:title>焚舟纪·烟火</dc:title>
+        <dc:creator opf:file-as="安吉拉·卡特" opf:role="aut">安吉拉·卡特</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-25T16:00:00+00:00</dc:date>
+        <dc:publisher>南京大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9387305087783</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">b010b2d4-ccfd-42cb-92d0-c91f298ea0f5</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;安吉拉·卡特&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:51:52.470500+00:00"/>
+        <meta name="calibre:title_sort" content="焚舟纪·烟火"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

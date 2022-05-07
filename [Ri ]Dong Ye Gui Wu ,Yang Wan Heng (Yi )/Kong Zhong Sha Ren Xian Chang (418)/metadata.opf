@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">418</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">046ccefe-cdd0-4f03-b502-696b998eff86</dc:identifier>
+        <dc:title>空中杀人现场</dc:title>
+        <dc:creator opf:file-as="[日]东野圭吾,杨婉蘅(译)" opf:role="aut">[日]东野圭吾,杨婉蘅(译)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-15T23:47:52+00:00</dc:date>
+        <dc:description>东野圭吾解密万米高空中的密室疑云
+请系好安全带，随东野圭吾开启一段惊险刺激的空中之旅
+离地万米的完美空中密室，跌跌撞撞的玩票迷糊侦探二人组
+既是东野精巧的本格推理，又是难得一见的诙谐幽默杰作
+离地万米的云上，封闭的机舱，紧迫的时间，真相还未大白，人物已经散场。怎么办？
+无懈可击的谎言假象，离真相仅一步之遥
+《空中杀人现场》是东野圭吾笔下罕见的诙谐幽默故事，也是精巧的本格推理杰作。空姐小A和小B是一对性格迥异却非常合拍的密友，小A沉稳大方、心思缜密，小B俏皮可爱、不拘小节。离地万米的机舱，形形色色的旅客，她们总是卷入意想不到的诡异事件，身为空姐，却莫名其妙兼职做起侦探，在云端的现场揭开各式各样的诡计。
+•坐拥巨额财产的女子被缢死，可疑的丈夫却有铜墙铁壁般的不在场证明；
+•飞机上凭空多了一个婴儿，但所有乘客都声称不认识他；
+•宾馆房间里殉情自杀的一对男女，竟是两个完全陌生的人；
+•一个根本不存在的幻影乘客，为什么有人言之凿凿声称看到了她？
+•云端邂逅白马王子的童话爱情背后，竟是不可思议的残酷真相；
+•谁在飞机上丢失了遗书，谁看起来像准备赴死之人？
+•久别重逢的初恋情人，究竟是无辜蒙受不白之冤，还是居心叵测暗怀杀机？</dc:description>
+        <dc:publisher>南海出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544257213</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">540e52f4-c8ec-4754-bfab-70dc0d61a151</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;[日]东野圭吾,杨婉蘅(译)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-29T13:25:00+00:00"/>
+        <meta name="calibre:title_sort" content="空中杀人现场"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

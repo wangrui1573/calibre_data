@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">145</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fec03c36-1271-4091-9212-915328b8707f</dc:identifier>
+        <dc:title>焦渴(北欧悬疑天王尤•奈斯博全新力作！交友软件开启连环案件，宛如都市梦魇的心理疾患。活着不只是呼吸，更重要的是存在感。)</dc:title>
+        <dc:creator opf:file-as="尤·奈斯博" opf:role="aut">尤·奈斯博</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-31T16:00:00+00:00</dc:date>
+        <dc:publisher>湖南文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787540491055</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">4192a21c-2ce3-4330-b4e2-154a91fae896</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;尤·奈斯博&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-27T04:51:11.499154+00:00"/>
+        <meta name="calibre:title_sort" content="焦渴(北欧悬疑天王尤•奈斯博全新力作！交友软件开启连环案件，宛如都市梦魇的心理疾患。活着不只是呼吸，更重要的是存在感。)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">345</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f46059ab-a2c2-4e7e-a53d-09c54b7b50ed</dc:identifier>
+        <dc:title>波西亚时光</dc:title>
+        <dc:creator opf:role="aut">帕斯亚科技</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h2 style="line-height: 30px; font-family: 'PingFang SC','Hiragino Sans GB','Microsoft YaHei'"&gt;&lt;span style="color: #000000"&gt;编辑的话&lt;/span&gt;&lt;/h2&gt;
+&lt;p style="line-height: 24px; font-family: 'PingFang SC','Microsoft YaHei','微软雅黑','SimSun','宋体','Arial','STHeiti','华文黑体','Helvetica','Tahoma','Arial sans-serif'; font-size: 14px"&gt;&lt;span style="color: #262626"&gt;每个人都能在波西亚创造自己的故事，并在这个温馨的童话镇里收获满满的感动。&lt;/span&gt;&lt;/p&gt;
+&lt;h2 style="line-height: 30px; font-family: 'PingFang SC','Hiragino Sans GB','Microsoft YaHei'"&gt;&lt;span style="color: #000000"&gt;关于游戏&lt;/span&gt;&lt;/h2&gt;
+&lt;p style="line-height: 24px; font-family: 'PingFang SC','Microsoft YaHei','微软雅黑','SimSun','宋体','Arial','STHeiti','华文黑体','Helvetica','Tahoma','Arial sans-serif'; font-size: 14px"&gt;&lt;span style="color: #262626"&gt;《波西亚时光》是一款模拟经营RPG。玩家将在游戏中将继承父亲的工坊，利用父亲遗留的工具书和一座老旧的工作台努力工作。为了成为镇上最好的工坊，你需要经营农场和探索遗迹，通过采集、挖掘、砍伐、种植、养殖、钓鱼、探索、战斗等一系列手段来收集材料，再通过工坊加工制成物品，并帮助镇上的居民，得到他们的信任。&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>/RDM_3.5T/Games/NS/波西米亚的时光1.07</dc:publisher>
+        <dc:language>zh</dc:language>
+        <dc:subject>NS</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;帕斯亚科技&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="NS"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2020-12-27T05:16:17.961769+00:00"/>
+        <meta name="calibre:title_sort" content="波西亚时光"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
