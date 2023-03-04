@@ -59,3 +59,11 @@
 [2023-03-03 07:37:25,481] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d45897e0 object, fd=11, family=10, type=1, proto=0>: Invalid HTTP method: '\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00'
 [2023-03-03 07:48:43,766] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d45897e0 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
 [2023-03-03 17:18:01,748] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d45897e0 object, fd=11, family=10, type=1, proto=0>: Invalid HTTP method: '\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00'
+[2023-03-03 20:46:36,488] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d45897e0 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-04 01:06:44,432] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6c7b63940 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-04 01:25:00,708] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6c7b63940 object, fd=11, family=10, type=1, proto=0>: Invalid http version: 'PRI * HTTP/2.0\r\n'
+[2023-03-04 01:25:01,800] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6c7b63940 object, fd=11, family=10, type=1, proto=0>: Invalid http version: 'PRI * HTTP/2.0\r\n'
+[2023-03-04 02:15:40,680] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6c7b63940 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-04 02:53:20,974] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d45537c0 object, fd=11, family=10, type=1, proto=0>: Invalid HTTP method: '\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00'
+[2023-03-04 04:10:00,050]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-05 04:10:00 UTC)" (scheduled at 2023-03-04 04:10:00+00:00)
+[2023-03-04 04:10:00,056]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-05 04:10:00 UTC)" executed successfully
