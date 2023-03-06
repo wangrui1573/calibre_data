@@ -79,3 +79,10 @@
 [2023-03-05 10:17:16,005] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d4551000 object, fd=11, family=10, type=1, proto=0>: Invalid HTTP method: '\x05\x01\x00'
 [2023-03-05 14:14:16,918] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d45505e0 object, fd=12, family=10, type=1, proto=0>: Invalid http version: 'PRI * HTTP/2.0\r\n'
 [2023-03-05 14:14:17,941] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d4550ac0 object, fd=11, family=10, type=1, proto=0>: Invalid http version: 'PRI * HTTP/2.0\r\n'
+[2023-03-05 20:34:57,569] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d45502e0 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-05 21:30:10,327] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d6df8be0 object, fd=11, family=10, type=1, proto=0>: Invalid HTTP method: '\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00'
+[2023-03-06 00:00:28,538] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d45502e0 object, fd=11, family=10, type=1, proto=0>: Invalid HTTP method: '\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00'
+[2023-03-06 04:10:00,054]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-07 04:10:00 UTC)" (scheduled at 2023-03-06 04:10:00+00:00)
+[2023-03-06 04:10:00,063]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-07 04:10:00 UTC)" executed successfully
+[2023-03-06 07:37:11,760] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d47e67a0 object, fd=12, family=10, type=1, proto=0>: Invalid HTTP method: '\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00'
+[2023-03-06 17:03:27,763] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d47e67a0 object, fd=12, family=10, type=1, proto=0>: Invalid HTTP method: '\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00'
