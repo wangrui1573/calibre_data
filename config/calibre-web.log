@@ -95,3 +95,8 @@
 [2023-03-07 12:03:33,642] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d47e76a0 object, fd=12, family=10, type=1, proto=0>: Invalid http version: 'PRI * HTTP/2.0\r\n'
 [2023-03-07 12:03:34,989] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d47e76a0 object, fd=12, family=10, type=1, proto=0>: Invalid http version: 'PRI * HTTP/2.0\r\n'
 [2023-03-07 15:33:02,340] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d4980340 object, fd=12, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-08 04:10:00,049]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-09 04:10:00 UTC)" (scheduled at 2023-03-08 04:10:00+00:00)
+[2023-03-08 04:10:00,064]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-09 04:10:00 UTC)" executed successfully
+[2023-03-08 04:24:15,266] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6c7d3cd00 object, fd=12, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-08 08:58:18,877] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6c7d3cd00 object, fd=12, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-08 16:33:54,385] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6c7d3cd00 object, fd=12, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
