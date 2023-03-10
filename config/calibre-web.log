@@ -107,3 +107,6 @@
 [2023-03-09 14:38:08,716] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6c7a3fd00 object, fd=12, family=10, type=1, proto=0>: Invalid http version: 'PRI * HTTP/2.0\r\n'
 [2023-03-09 16:56:09,252] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6c7ff29e0 object, fd=12, family=10, type=1, proto=0>: Invalid HTTP method: '\x05\x01\x00'
 [2023-03-09 16:56:12,281] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6c7ff29e0 object, fd=12, family=10, type=1, proto=0>: Invalid HTTP method: '\x05\x01\x00'
+[2023-03-10 04:10:00,071]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-11 04:10:00 UTC)" (scheduled at 2023-03-10 04:10:00+00:00)
+[2023-03-10 04:10:00,077]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-11 04:10:00 UTC)" executed successfully
+[2023-03-10 05:27:58,182] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6c7ff29e0 object, fd=12, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
