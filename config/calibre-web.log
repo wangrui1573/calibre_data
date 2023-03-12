@@ -119,3 +119,7 @@
 [2023-03-11 04:10:00,079]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-12 04:10:00 UTC)" executed successfully
 [2023-03-11 05:48:04,469] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d42a6740 object, fd=12, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
 [2023-03-11 06:37:54,515] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d42a6740 object, fd=12, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-12 01:37:59,963] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d42a6740 object, fd=12, family=10, type=1, proto=0>: Invalid http version: 'PRI * HTTP/2.0\r\n'
+[2023-03-12 01:38:01,099] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d42a6740 object, fd=12, family=10, type=1, proto=0>: Invalid http version: 'PRI * HTTP/2.0\r\n'
+[2023-03-12 04:10:00,068]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-13 04:10:00 UTC)" (scheduled at 2023-03-12 04:10:00+00:00)
+[2023-03-12 04:10:00,071]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-13 04:10:00 UTC)" executed successfully
