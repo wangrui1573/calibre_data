@@ -4,15 +4,18 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">817</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">b559128b-c36e-4c73-8eb8-49ca4b783c34</dc:identifier>
         <dc:title>暗影火炬城</dc:title>
-        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:creator opf:file-as="钛核网络科技" opf:role="aut">钛核网络科技</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;一款银河恶魔城类动作游戏，玩家将扮演操控着巨大机械臂的兔子，在庞大而复杂的柴油朋克城市中与邪恶军团展开激战。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</dc:description>
+        <dc:publisher>/rdm_12t/02.Games/PS4/20220209—暗影火炬城</dc:publisher>
         <dc:language>en</dc:language>
         <dc:subject>PC</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;钛核网络科技&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="PC"/>
         <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:timestamp" content="2022-04-01T07:21:56.135633+00:00"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-04-01T07:21:56+00:00"/>
         <meta name="calibre:title_sort" content="暗影火炬城"/>
     </metadata>
     <guide>

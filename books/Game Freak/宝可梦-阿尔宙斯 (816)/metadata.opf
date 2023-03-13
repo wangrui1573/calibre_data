@@ -4,15 +4,18 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">816</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">fa6bb474-c0ca-48dd-a9cd-7b6dbaa99640</dc:identifier>
         <dc:title>宝可梦-阿尔宙斯</dc:title>
-        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:creator opf:file-as="Freak, Game" opf:role="aut">Game Freak</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;本作是系列的一个全新挑战。玩家可以灵活运用动作与对战来捕捉宝可梦。舞台设置在古代的神奥地区，当时还没有宝可梦训练家和宝可梦联盟的概念，生态环境亦有不同。主角将受博士委托，在木木枭、火球鼠、水水獭中选择一只宝可梦作为最初的伙伴去收集宝可梦图鉴。阿尔宙斯是本作的剧情关键。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</dc:description>
+        <dc:publisher>/volume4/RDM_12T/02.Games/NS/20220209—宝可梦传说：阿尔宙斯</dc:publisher>
         <dc:language>en</dc:language>
-        <dc:subject>PC</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
-        <meta name="calibre:series" content="PC"/>
+        <dc:subject>NS</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Game Freak&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="NS"/>
         <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:timestamp" content="2022-04-01T07:21:55.191510+00:00"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-04-01T07:21:55+00:00"/>
         <meta name="calibre:title_sort" content="宝可梦-阿尔宙斯"/>
     </metadata>
     <guide>

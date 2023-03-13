@@ -4,15 +4,18 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">818</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">c82069c7-cd7b-4f84-9d48-c2f7ffd67c64</dc:identifier>
         <dc:title>使命召唤16-现代战争</dc:title>
-        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:creator opf:file-as="Activision" opf:role="aut">Activision</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;编辑的话生死一线的灰色地带，就是我们战斗的舞台。 关于游戏《使命召唤 现代战争》作为重启作，将讲述玩家熟悉的普莱斯队长的故事。玩家将扮演多位顶尖的特战队员，执行生死一线的绝密任务，颠覆世界大国间的微妙平衡。玩家将与不同的国际特种部队和为自由而战的斗士合作，转战于战争的灰色地带。任务将包括潜入、近距作战（Close Quarters）及远程作战，这将考验玩家对于战术的选择。值得注意的是，《使命召唤 现代战争》将是系列首个支持主机和 PC 跨平台联机的作品。游戏不会推出季票内容，以确保玩家群体不会因为付费地图等内容被分割。本作将使用全新的引擎进行开发，而全新的引擎将为游戏的画面、运行带来新的突破。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</dc:description>
+        <dc:publisher>/rdm_12t/02.Games/PS4/20220209—使命召唤16：现代战争</dc:publisher>
         <dc:language>en</dc:language>
-        <dc:subject>PC</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
-        <meta name="calibre:series" content="PC"/>
+        <dc:subject>PS4</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Activision&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="PS4"/>
         <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:timestamp" content="2022-04-01T07:21:56.959739+00:00"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-04-01T07:21:56+00:00"/>
         <meta name="calibre:title_sort" content="使命召唤16-现代战争"/>
     </metadata>
     <guide>

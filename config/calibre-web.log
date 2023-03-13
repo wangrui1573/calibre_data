@@ -123,3 +123,82 @@
 [2023-03-12 01:38:01,099] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d42a6740 object, fd=12, family=10, type=1, proto=0>: Invalid http version: 'PRI * HTTP/2.0\r\n'
 [2023-03-12 04:10:00,068]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-13 04:10:00 UTC)" (scheduled at 2023-03-12 04:10:00+00:00)
 [2023-03-12 04:10:00,071]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-13 04:10:00 UTC)" executed successfully
+[2023-03-12 23:40:47,880] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d431f640 object, fd=12, family=10, type=1, proto=0>: Invalid HTTP method: '\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00'
+[2023-03-13 04:10:00,084]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-14 04:10:00 UTC)" (scheduled at 2023-03-13 04:10:00+00:00)
+[2023-03-13 04:10:00,114]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-14 04:10:00 UTC)" executed successfully
+[2023-03-13 05:23:16,936] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d431cee0 object, fd=12, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-13 07:19:13,305] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d431cee0 object, fd=12, family=10, type=1, proto=0>: Invalid HTTP method: '\r\n'
+[2023-03-13 07:20:12,713] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d4317d60 object, fd=12, family=10, type=1, proto=0>: Invalid HTTP method: '\x0e\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00bbbb0100000001'
+[2023-03-13 08:50:52,180]  INFO {cps.admin:1468} Update status requested
+[2023-03-13 09:25:49,767] ERROR {cps.helper:189} Cannot find book entry 839
+[2023-03-13 09:27:29,355] ERROR {cps.helper:189} Cannot find book entry 839
+[2023-03-13 09:35:31,086] ERROR {cps.helper:189} Cannot find book entry 839
+[2023-03-13 09:38:59,229] ERROR {cps.helper:189} Cannot find book entry 839
+[2023-03-13 09:44:25,543] ERROR {cps.helper:189} Cannot find book entry 839
+[2023-03-13 09:45:20,851] ERROR {cps.helper:189} Cannot find book entry 839
+[2023-03-13 09:46:02,203] ERROR {cps.helper:852} Cover-file is not a valid image file, or could not be stored
+[2023-03-13 09:46:02,790] ERROR {cps.helper:189} Cannot find book entry 839
+[2023-03-13 09:46:26,535] ERROR {cps.helper:852} Cover-file is not a valid image file, or could not be stored
+[2023-03-13 09:46:27,119] ERROR {cps.helper:189} Cannot find book entry 839
+[2023-03-13 09:47:05,268] ERROR {cps.helper:852} Cover-file is not a valid image file, or could not be stored
+[2023-03-13 09:47:05,821] ERROR {cps.helper:189} Cannot find book entry 839
+[2023-03-13 09:47:44,767] ERROR {cps.helper:852} Cover-file is not a valid image file, or could not be stored
+[2023-03-13 09:47:45,310] ERROR {cps.helper:189} Cannot find book entry 839
+[2023-03-13 09:49:22,032] ERROR {cps.helper:189} Cannot find book entry 839
+[2023-03-13 09:51:09,758] ERROR {cps:1457} Exception on /admin/viewconfig [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/werkzeug/formparser.py", line 142, in wrapper
+    return f(self, stream, *args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/werkzeug/formparser.py", line 312, in _parse_urlencoded
+    form = url_decode_stream(stream, self.charset, errors=self.errors, cls=self.cls)
+  File "/usr/local/lib/python3.10/dist-packages/werkzeug/urls.py", line 931, in url_decode_stream
+    return cls(decoder)
+  File "/usr/local/lib/python3.10/dist-packages/werkzeug/datastructures.py", line 348, in __init__
+    for key, value in mapping or ():
+  File "/usr/local/lib/python3.10/dist-packages/werkzeug/urls.py", line 937, in _url_decode_impl
+    for pair in pair_iter:
+  File "/usr/local/lib/python3.10/dist-packages/werkzeug/wsgi.py", line 784, in make_chunk_iter
+    first_item = next(_iter, b"")
+  File "/usr/local/lib/python3.10/dist-packages/werkzeug/wsgi.py", line 653, in _make_chunk_iter
+    item = _read(buffer_size)
+  File "/usr/local/lib/python3.10/dist-packages/gevent/pywsgi.py", line 320, in read
+    return self._do_read(length)
+  File "/usr/local/lib/python3.10/dist-packages/gevent/pywsgi.py", line 199, in _do_read
+    raise IOError("unexpected end of file while reading request at position %s" % (self.position,))
+OSError: unexpected end of file while reading request at position 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 1514, in full_dispatch_request
+    rv = self.preprocess_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 1857, in preprocess_request
+    rv = self.ensure_sync(before_func)()
+  File "/usr/local/lib/python3.10/dist-packages/flask_wtf/csrf.py", line 229, in csrf_protect
+    self.protect()
+  File "/usr/local/lib/python3.10/dist-packages/flask_wtf/csrf.py", line 261, in protect
+    validate_csrf(self._get_csrf_token())
+  File "/usr/local/lib/python3.10/dist-packages/flask_wtf/csrf.py", line 234, in _get_csrf_token
+    base_token = request.form.get(field_name)
+  File "/usr/local/lib/python3.10/dist-packages/werkzeug/utils.py", line 97, in __get__
+    value = self.fget(obj)  # type: ignore
+  File "/usr/local/lib/python3.10/dist-packages/werkzeug/wrappers/request.py", line 447, in form
+    self._load_form_data()
+  File "/usr/local/lib/python3.10/dist-packages/flask/wrappers.py", line 113, in _load_form_data
+    RequestBase._load_form_data(self)
+  File "/usr/local/lib/python3.10/dist-packages/werkzeug/wrappers/request.py", line 285, in _load_form_data
+    data = parser.parse(
+  File "/usr/local/lib/python3.10/dist-packages/werkzeug/formparser.py", line 265, in parse
+    return parse_func(self, stream, mimetype, content_length, options)
+  File "/usr/local/lib/python3.10/dist-packages/werkzeug/formparser.py", line 150, in wrapper
+    chunk = stream.read(1024 * 64)
+  File "/usr/local/lib/python3.10/dist-packages/gevent/pywsgi.py", line 320, in read
+    return self._do_read(length)
+  File "/usr/local/lib/python3.10/dist-packages/gevent/pywsgi.py", line 199, in _do_read
+    raise IOError("unexpected end of file while reading request at position %s" % (self.position,))
+OSError: unexpected end of file while reading request at position 0
+[2023-03-13 09:51:37,672] ERROR {cps.helper:189} Cannot find book entry 839
