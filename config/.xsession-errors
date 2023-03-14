@@ -1,0 +1,93 @@
+Xsession: X session started for abc at Tue Mar 14 05:44:20 UTC 2023
+localuser:abc being added to access control list
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting USER=abc
+dbus-update-activation-environment: setting HOME=/config
+dbus-update-activation-environment: setting XRDP_PULSE_SINK_SOCKET=xrdp_chansrv_audio_out_socket_10
+dbus-update-activation-environment: setting XRDP_PULSE_SOURCE_SOCKET=xrdp_chansrv_audio_in_socket_10
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-4Vg7D1MOMS,guid=d7b3031e226a63dd79fd9f34641009b5
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting LOGNAME=abc
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/run/xrdp/sockdir
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: setting UID=1029
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/config/.gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/config
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+Failed to import PyQt module: PyQt6.QtCore with error: libQt6Core.so.6: cannot open shared object file: No such file or directory
+Traceback (most recent call last):
+  File "runpy.py", line 196, in _run_module_as_main
+  File "runpy.py", line 86, in _run_code
+  File "site.py", line 47, in <module>
+  File "site.py", line 43, in main
+  File "calibre/gui_launch.py", line 70, in calibre
+  File "calibre/gui_launch.py", line 35, in setup_qt_logging
+ImportError: cannot import name 'QLoggingCategory' from 'qt.core' (/opt/calibre/lib/calibre-extensions/python-lib.bypy.frozen/qt/core.pyc)
+No write access to /root/.config/calibre using a temporary dir instead
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+Xsession: X session started for abc at Tue Mar 14 05:46:02 UTC 2023
+localuser:abc being added to access control list
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting USER=abc
+dbus-update-activation-environment: setting HOME=/config
+dbus-update-activation-environment: setting XRDP_PULSE_SINK_SOCKET=xrdp_chansrv_audio_out_socket_10
+dbus-update-activation-environment: setting XRDP_PULSE_SOURCE_SOCKET=xrdp_chansrv_audio_in_socket_10
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-PDdmOb671V,guid=6e495fe51b20b6ffeeff656464100a1a
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting LOGNAME=abc
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/run/xrdp/sockdir
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: setting UID=1029
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/config/.gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/config
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+Failed to import PyQt module: PyQt6.QtCore with error: libQt6Core.so.6: cannot open shared object file: No such file or directory
+Traceback (most recent call last):
+  File "runpy.py", line 196, in _run_module_as_main
+  File "runpy.py", line 86, in _run_code
+  File "site.py", line 47, in <module>
+  File "site.py", line 43, in main
+  File "calibre/gui_launch.py", line 70, in calibre
+  File "calibre/gui_launch.py", line 35, in setup_qt_logging
+ImportError: cannot import name 'QLoggingCategory' from 'qt.core' (/opt/calibre/lib/calibre-extensions/python-lib.bypy.frozen/qt/core.pyc)
+No write access to /root/.config/calibre using a temporary dir instead
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+Xsession: X session started for abc at Tue Mar 14 05:48:54 UTC 2023
+localuser:abc being added to access control list
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting USER=abc
+dbus-update-activation-environment: setting HOME=/config
+dbus-update-activation-environment: setting XRDP_PULSE_SINK_SOCKET=xrdp_chansrv_audio_out_socket_10
+dbus-update-activation-environment: setting XRDP_PULSE_SOURCE_SOCKET=xrdp_chansrv_audio_in_socket_10
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-nb7hErmbfc,guid=a574af4e83c0cca24b212fd964100ac6
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting LOGNAME=abc
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/run/xrdp/sockdir
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: setting UID=1029
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/config/.gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/config
+Openbox-Message: Unable to find a valid menu file "/var/lib/openbox/debian-menu.xml"
+Failed to import PyQt module: PyQt6.QtCore with error: libQt6Core.so.6: cannot open shared object file: No such file or directory
+Traceback (most recent call last):
+  File "runpy.py", line 196, in _run_module_as_main
+  File "runpy.py", line 86, in _run_code
+  File "site.py", line 47, in <module>
+  File "site.py", line 43, in main
+  File "calibre/gui_launch.py", line 70, in calibre
+  File "calibre/gui_launch.py", line 35, in setup_qt_logging
+ImportError: cannot import name 'QLoggingCategory' from 'qt.core' (/opt/calibre/lib/calibre-extensions/python-lib.bypy.frozen/qt/core.pyc)
+No write access to /root/.config/calibre using a temporary dir instead
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused

@@ -7,12 +7,14 @@
         <dc:creator opf:file-as="KOEI" opf:role="aut">KOEI</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;《卧龙 苍天陨落》是由Team Ninja开发的“暗黑三国诛死游戏”。本作讲述了一个无名的民兵在黑暗幻想版的后汉王朝中为生存而战，活跃在恶魔肆虐着的三国的故事。游戏的怪物取材自《山海经》，玩家将通过使用中华武术动作进行战斗，唤醒潜藏体内的力量。&lt;/p&gt;</dc:description>
+        <dc:publisher>/volume4/RDM_12T/02.Games/PC/20220303-卧龙：苍天陨落</dc:publisher>
         <dc:language>en</dc:language>
         <dc:subject>PC</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;KOEI&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="PC"/>
         <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:timestamp" content="2023-03-13T09:22:45.971404+00:00"/>
+        <meta name="calibre:timestamp" content="2023-03-13T09:22:45+00:00"/>
         <meta name="calibre:title_sort" content="卧龙苍天陨落"/>
     </metadata>
     <guide>

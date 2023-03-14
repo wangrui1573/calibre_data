@@ -261,3 +261,29 @@ OSError: unexpected end of file while reading request at position 0
 [2023-03-13 13:06:40,797] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d4a505e0 object, fd=13, family=10, type=1, proto=0>: Invalid http version: 'PRI * HTTP/2.0\r\n'
 [2023-03-13 13:06:42,122] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6d4a505e0 object, fd=12, family=10, type=1, proto=0>: Invalid http version: 'PRI * HTTP/2.0\r\n'
 [2023-03-13 17:09:06,811] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6c64e1a80 object, fd=12, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-13 19:36:50,881] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fd6c64e26e0 object, fd=12, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-14 04:10:00,068]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-15 04:10:00 UTC)" (scheduled at 2023-03-14 04:10:00+00:00)
+[2023-03-14 04:10:00,073]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-15 04:10:00 UTC)" executed successfully
+[2023-03-14 05:43:58,396]  INFO {cps.server:275} webserver stop (restart=False)
+[2023-03-14 05:43:59,443]  INFO {cps.server:260} Performing shutdown of Calibre-Web
+[2023-03-14 05:43:59,444]  INFO {apscheduler.scheduler:202} Scheduler has been shut down
+[2023-03-14 05:51:16,863]  INFO {cps:143} *** "APScheduler" version does not fit the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-03-14 05:51:16,864]  INFO {cps:143} *** "greenlet" version does not fit the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-03-14 05:51:16,864]  INFO {cps:152} Starting Calibre Web...
+[2023-03-14 05:51:18,168]  INFO {apscheduler.scheduler:171} Scheduler started
+[2023-03-14 05:51:18,200]  WARN {py.warnings:109} /usr/local/lib/python3.10/dist-packages/apscheduler/util.py:436: PytzUsageWarning: The localize method is no longer necessary, as this time zone supports the fold attribute (PEP 495). For more details on migrating to a PEP 495-compliant implementation, see https://pytz-deprecation-shim.readthedocs.io/en/latest/migration.html
+  return tzinfo.localize(dt)
+
+[2023-03-14 05:51:18,200]  INFO {apscheduler.scheduler:885} Added job "end scheduled task" to job store "default"
+[2023-03-14 05:51:20,056]  INFO {cps.server:205} Starting Gevent server on [::]:8083
+[2023-03-14 09:15:49,470] ERROR {cps.helper:189} Cannot find book entry 847
+[2023-03-14 09:15:55,035] ERROR {cps.helper:189} Cannot find book entry 842
+[2023-03-14 09:16:02,007] ERROR {cps.helper:189} Cannot find book entry 843
+[2023-03-14 09:17:02,524] ERROR {cps.helper:189} Cannot find book entry 848
+[2023-03-14 09:20:58,816] ERROR {cps.helper:189} Cannot find book entry 857
+[2023-03-14 09:21:01,406] ERROR {cps.helper:189} Cannot find book entry 856
+[2023-03-14 09:21:03,446] ERROR {cps.helper:189} Cannot find book entry 855
+[2023-03-14 10:07:15,909] ERROR {cps.helper:189} Cannot find book entry 874
+[2023-03-14 10:07:19,662] ERROR {cps.helper:189} Cannot find book entry 868
+[2023-03-14 10:07:27,383] ERROR {cps.helper:189} Cannot find book entry 870
+[2023-03-14 15:41:12,598] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fbe94000220 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
