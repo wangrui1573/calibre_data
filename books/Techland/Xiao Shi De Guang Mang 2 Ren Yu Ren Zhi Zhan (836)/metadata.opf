@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">836</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">60eb1382-9a0f-4d81-bfc1-29ef9f982cd0</dc:identifier>
+        <dc:title>消逝的光芒2 人与仁之战</dc:title>
+        <dc:creator opf:file-as="Techland" opf:role="aut">Techland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;section class="game_box_list"&gt;&#13;
+&lt;div class="vg_tit"&gt;&#13;
+&lt;h2&gt;编辑的话&lt;/h2&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;p class="game_description"&gt;再次跑酷打僵尸，在黑暗时代坚守自己的人性。&lt;/p&gt;&#13;
+&lt;/section&gt;&#13;
+&lt;section class="game_box_list"&gt;&#13;
+&lt;div class="vg_tit"&gt;&#13;
+&lt;h2&gt;关于游戏&lt;/h2&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;p class="game_description"&gt;本作是恐怖射击游戏《消逝的光芒》的续作，这次主角面对的困难更严峻，首先，他被病毒感染了……玩法方面，本作延续了前作跑酷与战斗的内容，同时还加入了海量的选择要素，玩家的每个选择都将会影响整座城市的发展，并最后决定城市最后的命运。&lt;/p&gt;&#13;
+&lt;/section&gt;&lt;/div&gt;&lt;/html&gt;</dc:description>
+        <dc:publisher>/volume4/RDM_12T/02.Games/PC/20220809-消逝的光芒2</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>PC</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Techland&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="射击"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2022-08-15T08:11:07+00:00"/>
+        <meta name="calibre:title_sort" content="消逝的光芒2 人与仁之战"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

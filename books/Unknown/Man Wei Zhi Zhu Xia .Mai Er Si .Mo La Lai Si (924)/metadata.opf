@@ -1,20 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-        <dc:identifier opf:scheme="calibre" id="calibre_id">650</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">84fa7276-cdb0-4d1f-91fa-a1491b080dbb</dc:identifier>
-        <dc:title>消逝的光芒：白金版 13.0</dc:title>
+        <dc:identifier opf:scheme="calibre" id="calibre_id">924</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01e28968-6430-4ad9-a0a2-0323fcf68d4e</dc:identifier>
+        <dc:title>漫威蜘蛛侠.迈尔斯.墨拉莱斯</dc:title>
         <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
-        <dc:publisher>/volume4/RDM_12T/02.Games/NS/【上游世界 vgter.com】消逝的光芒：白金版 13.0</dc:publisher>
+        <dc:publisher>/volume4/RDM_12T/02.Games/PC/20230224-漫威蜘蛛侠.迈尔斯.墨拉莱斯/</dc:publisher>
         <dc:language>en</dc:language>
-        <dc:subject>NS</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
-        <meta name="calibre:series" content="SWITCH"/>
-        <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:timestamp" content="2021-11-16T01:25:45+00:00"/>
-        <meta name="calibre:title_sort" content="消逝的光芒：白金版 13.0"/>
+        <meta name="calibre:timestamp" content="2023-03-15T05:39:13+00:00"/>
+        <meta name="calibre:title_sort" content="漫威蜘蛛侠.迈尔斯.墨拉莱斯"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

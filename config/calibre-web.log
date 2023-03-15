@@ -287,3 +287,108 @@ OSError: unexpected end of file while reading request at position 0
 [2023-03-14 10:07:19,662] ERROR {cps.helper:189} Cannot find book entry 868
 [2023-03-14 10:07:27,383] ERROR {cps.helper:189} Cannot find book entry 870
 [2023-03-14 15:41:12,598] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fbe94000220 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-15 04:10:00,018]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-15 04:10:00 UTC)" (scheduled at 2023-03-15 04:10:00+00:00)
+[2023-03-15 04:10:00,019]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-16 04:10:00 UTC)" executed successfully
+[2023-03-15 05:12:14,661] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7fbe94000220 object, fd=11, family=10, type=1, proto=0>: Invalid HTTP method: '\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00'
+[2023-03-15 05:25:44,976] ERROR {cps.helper:189} Cannot find book entry 909
+[2023-03-15 05:25:59,195] ERROR {cps.helper:189} Cannot find book entry 889
+[2023-03-15 05:26:07,535] ERROR {cps.helper:189} Cannot find book entry 907
+[2023-03-15 05:26:18,390] ERROR {cps.helper:189} Cannot find book entry 905
+[2023-03-15 05:26:22,916] ERROR {cps.helper:189} Cannot find book entry 903
+[2023-03-15 05:41:48,878] ERROR {cps.helper:189} Cannot find book entry 939
+[2023-03-15 05:41:59,127] ERROR {cps.helper:189} Cannot find book entry 910
+[2023-03-15 05:42:02,834] ERROR {cps.helper:189} Cannot find book entry 910
+[2023-03-15 05:42:24,287] ERROR {cps.helper:189} Cannot find book entry 919
+[2023-03-15 05:42:26,329] ERROR {cps.helper:189} Cannot find book entry 916
+[2023-03-15 05:42:28,380] ERROR {cps.helper:189} Cannot find book entry 917
+[2023-03-15 05:42:30,518] ERROR {cps.helper:189} Cannot find book entry 915
+[2023-03-15 05:42:32,837] ERROR {cps.helper:189} Cannot find book entry 914
+[2023-03-15 05:42:34,503] ERROR {cps.helper:189} Cannot find book entry 913
+[2023-03-15 05:42:36,939] ERROR {cps.helper:189} Cannot find book entry 912
+[2023-03-15 05:42:46,746] ERROR {cps.helper:189} Cannot find book entry 914
+[2023-03-15 05:42:48,641] ERROR {cps.helper:189} Cannot find book entry 910
+[2023-03-15 05:42:51,923] ERROR {cps.helper:189} Cannot find book entry 913
+[2023-03-15 05:42:54,280] ERROR {cps.helper:189} Cannot find book entry 914
+[2023-03-15 05:42:56,731] ERROR {cps.helper:189} Cannot find book entry 910
+[2023-03-15 05:43:06,342] ERROR {cps.helper:189} Cannot find book entry 914
+[2023-03-15 05:43:53,174] ERROR {cps.helper:189} Cannot find book entry 913
+[2023-03-15 05:47:42,309] ERROR {cps.helper:189} Cannot find book entry 914
+[2023-03-15 05:47:51,699] ERROR {cps.helper:189} Cannot find book entry 839
+[2023-03-15 05:48:28,857] ERROR {cps.helper:189} Cannot find book entry 914
+[2023-03-15 05:48:37,675] ERROR {cps.helper:372} Deleting book 914 failed: [Errno 13] Permission denied: '/books/Unknown/Wo Long _Cang Tian Yun Luo (914)/metadata.opf'
+[2023-03-15 05:49:03,021] ERROR {cps.helper:189} Cannot find book entry 914
+[2023-03-15 05:49:10,596] ERROR {cps.helper:372} Deleting book 914 failed: [Errno 13] Permission denied: '/books/Unknown/Wo Long _Cang Tian Yun Luo (914)/metadata.opf'
+[2023-03-15 05:57:02,432]  INFO {cps.server:275} webserver stop (restart=False)
+[2023-03-15 05:57:03,457]  INFO {cps.server:260} Performing shutdown of Calibre-Web
+[2023-03-15 05:57:03,457]  INFO {apscheduler.scheduler:202} Scheduler has been shut down
+[2023-03-15 05:57:16,155]  INFO {cps:143} *** "APScheduler" version does not fit the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-03-15 05:57:16,155]  INFO {cps:143} *** "greenlet" version does not fit the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-03-15 05:57:16,155]  INFO {cps:152} Starting Calibre Web...
+[2023-03-15 05:57:17,230]  INFO {apscheduler.scheduler:171} Scheduler started
+[2023-03-15 05:57:17,263]  WARN {py.warnings:109} /usr/local/lib/python3.10/dist-packages/apscheduler/util.py:436: PytzUsageWarning: The localize method is no longer necessary, as this time zone supports the fold attribute (PEP 495). For more details on migrating to a PEP 495-compliant implementation, see https://pytz-deprecation-shim.readthedocs.io/en/latest/migration.html
+  return tzinfo.localize(dt)
+
+[2023-03-15 05:57:17,263]  INFO {apscheduler.scheduler:885} Added job "end scheduled task" to job store "default"
+[2023-03-15 05:57:18,541]  INFO {cps.server:205} Starting Gevent server on [::]:8083
+[2023-03-15 05:57:57,822] ERROR {cps.helper:189} Cannot find book entry 926
+[2023-03-15 05:58:12,310] ERROR {cps.helper:189} Cannot find book entry 926
+[2023-03-15 05:58:49,492] ERROR {cps.helper:852} Cover-file is not a valid image file, or could not be stored
+[2023-03-15 05:58:49,542] ERROR {cps.helper:189} Cannot find book entry 926
+[2023-03-15 05:59:36,948] ERROR {cps.helper:852} Cover-file is not a valid image file, or could not be stored
+[2023-03-15 05:59:36,991] ERROR {cps.helper:189} Cannot find book entry 926
+[2023-03-15 06:00:00,236]  INFO {cps.server:275} webserver stop (restart=False)
+[2023-03-15 06:00:01,244]  INFO {cps.server:260} Performing shutdown of Calibre-Web
+[2023-03-15 06:00:01,244]  INFO {apscheduler.scheduler:202} Scheduler has been shut down
+[2023-03-15 06:00:12,725]  INFO {cps:143} *** "APScheduler" version does not fit the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-03-15 06:00:12,725]  INFO {cps:143} *** "greenlet" version does not fit the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-03-15 06:00:12,725]  INFO {cps:152} Starting Calibre Web...
+[2023-03-15 06:00:13,217]  INFO {apscheduler.scheduler:171} Scheduler started
+[2023-03-15 06:00:13,240]  WARN {py.warnings:109} /usr/local/lib/python3.10/dist-packages/apscheduler/util.py:436: PytzUsageWarning: The localize method is no longer necessary, as this time zone supports the fold attribute (PEP 495). For more details on migrating to a PEP 495-compliant implementation, see https://pytz-deprecation-shim.readthedocs.io/en/latest/migration.html
+  return tzinfo.localize(dt)
+
+[2023-03-15 06:00:13,240]  INFO {apscheduler.scheduler:885} Added job "end scheduled task" to job store "default"
+[2023-03-15 06:00:14,225]  INFO {cps.server:205} Starting Gevent server on [::]:8083
+[2023-03-15 06:00:28,873] ERROR {cps.helper:189} Cannot find book entry 926
+[2023-03-15 06:14:27,675] ERROR {cps.helper:189} Cannot find book entry 939
+[2023-03-15 06:14:31,642] ERROR {cps.helper:189} Cannot find book entry 913
+[2023-03-15 06:15:49,452] ERROR {cps.helper:189} Cannot find book entry 913
+[2023-03-15 06:16:15,491] ERROR {cps.helper:189} Cannot find book entry 915
+[2023-03-15 06:16:44,831] ERROR {cps.helper:189} Cannot find book entry 915
+[2023-03-15 06:17:04,509] ERROR {cps.helper:189} Cannot find book entry 917
+[2023-03-15 06:17:25,378] ERROR {cps.helper:189} Cannot find book entry 917
+[2023-03-15 06:17:31,121] ERROR {cps.helper:189} Cannot find book entry 918
+[2023-03-15 06:17:49,546] ERROR {cps.helper:189} Cannot find book entry 918
+[2023-03-15 06:17:57,547] ERROR {cps.helper:189} Cannot find book entry 919
+[2023-03-15 06:19:17,957] ERROR {cps.helper:189} Cannot find book entry 920
+[2023-03-15 06:19:21,876] ERROR {cps.helper:189} Cannot find book entry 921
+[2023-03-15 06:24:59,399] ERROR {cps.helper:189} Cannot find book entry 922
+[2023-03-15 06:25:21,439] ERROR {cps.helper:189} Cannot find book entry 922
+[2023-03-15 06:28:16,988] ERROR {cps.helper:189} Cannot find book entry 941
+[2023-03-15 06:46:59,654] ERROR {cps.helper:189} Cannot find book entry 944
+[2023-03-15 06:53:45,411] ERROR {cps.helper:189} Cannot find book entry 927
+[2023-03-15 08:04:30,095] ERROR {cps.helper:189} Cannot find book entry 938
+[2023-03-15 08:04:57,152] ERROR {cps.helper:189} Cannot find book entry 938
+[2023-03-15 08:06:12,099] ERROR {cps.helper:189} Cannot find book entry 938
+[2023-03-15 09:54:40,607] ERROR {cps.helper:189} Cannot find book entry 945
+[2023-03-15 10:15:44,416] ERROR {cps.helper:189} Cannot find book entry 946
+[2023-03-15 10:15:52,309] ERROR {cps.helper:189} Cannot find book entry 945
+[2023-03-15 10:29:44,330] ERROR {cps.helper:189} Cannot find book entry 939
+[2023-03-15 10:30:14,649] ERROR {cps.helper:189} Cannot find book entry 939
+[2023-03-15 10:30:20,832] ERROR {cps.helper:189} Cannot find book entry 939
+[2023-03-15 10:30:52,367] ERROR {cps.helper:189} Cannot find book entry 940
+[2023-03-15 10:31:24,888] ERROR {cps.helper:189} Cannot find book entry 937
+[2023-03-15 10:31:46,006] ERROR {cps.helper:189} Cannot find book entry 937
+[2023-03-15 10:31:59,702] ERROR {cps.helper:189} Cannot find book entry 936
+[2023-03-15 10:32:22,772] ERROR {cps.helper:189} Cannot find book entry 936
+[2023-03-15 10:32:42,756] ERROR {cps.helper:189} Cannot find book entry 929
+[2023-03-15 10:32:59,829] ERROR {cps.helper:189} Cannot find book entry 929
+[2023-03-15 10:33:34,068] ERROR {cps.helper:189} Cannot find book entry 928
+[2023-03-15 10:34:32,708] ERROR {cps.helper:189} Cannot find book entry 928
+[2023-03-15 10:35:00,136] ERROR {cps.helper:189} Cannot find book entry 920
+[2023-03-15 10:35:23,740] ERROR {cps.helper:189} Cannot find book entry 920
+[2023-03-15 10:36:52,153] ERROR {cps.helper:189} Cannot find book entry 940
+[2023-03-15 10:37:07,192] ERROR {cps.helper:189} Cannot find book entry 930
+[2023-03-15 10:43:38,852] ERROR {cps.helper:189} Cannot find book entry 948
+[2023-03-15 10:43:47,116] ERROR {cps.helper:189} Cannot find book entry 948
+[2023-03-15 10:44:19,901] ERROR {cps.helper:189} Cannot find book entry 947
+[2023-03-15 10:44:33,476] ERROR {cps.helper:189} Cannot find book entry 947

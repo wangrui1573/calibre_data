@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">455</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c59818d6-439b-4d8e-83f2-49ca4279454a</dc:identifier>
+        <dc:title>女神异闻录5R</dc:title>
+        <dc:creator opf:file-as="Atlus" opf:role="aut">Atlus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;编辑的话&amp;ldquo;拥有大量新内容的皇家版&amp;hellip;&amp;hellip;&amp;rdquo;关于游戏《女神异闻录5》的全新续作，游戏讲述主角们在第三个学期发生的故事，加入了大量新剧情，新角色，新故事，新敌人，新的音乐。此外，游戏还支持 PS4 Pro 机能强化，画面表现力提升，支持更高分辨率。&lt;/p&gt;</dc:description>
+        <dc:publisher>/volume4/RDM_12T/02.Games/PS4/Persona 5 The Royal -GAMEKEGS</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>PS4</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Atlus&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-01-09T05:16:35+00:00"/>
+        <meta name="calibre:title_sort" content="女神异闻录5R"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
