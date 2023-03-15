@@ -1,4 +1,5 @@
-
+*.sh
+*.py
 *.mobi
 *.mobi
 *.mobi

@@ -392,3 +392,5 @@ OSError: unexpected end of file while reading request at position 0
 [2023-03-15 10:43:47,116] ERROR {cps.helper:189} Cannot find book entry 948
 [2023-03-15 10:44:19,901] ERROR {cps.helper:189} Cannot find book entry 947
 [2023-03-15 10:44:33,476] ERROR {cps.helper:189} Cannot find book entry 947
+[2023-03-15 13:50:44,425] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48feb83e20 object, fd=11, family=10, type=1, proto=0>: Invalid HTTP method: '\r\n'
+[2023-03-15 13:51:37,676] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48feb83e20 object, fd=11, family=10, type=1, proto=0>: Invalid HTTP method: '\x0e\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00bbbb0100000001'

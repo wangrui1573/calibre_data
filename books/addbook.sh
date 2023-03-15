@@ -23,7 +23,7 @@ fi
 curl -L \
   -X PATCH \
   -H "Accept: application/vnd.github+json" \
-  -H "Authorization: Bearer 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"\
+  -H "Authorization: Bearer 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"\
   -H "X-GitHub-Api-Version: 2022-11-28" \
   https://api.github.com/gists/e9a3f2e83125a90297d42be7bea5cd6c \
   -d '{"files":{"lastaddgames.csv":{"content":"'$(sed -z 's/\n/\\n/g' lastaddgames.csv)'","filename":"lastaddgames.csv"}}}'
