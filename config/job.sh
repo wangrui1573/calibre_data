@@ -1,0 +1,5 @@
+sh /docker/calibre/books/addbook.sh
+sleep 3
+/usr/bin/python3 /docker/calibre/books/pic.py
+sleep 3 
+/usr/bin/python3 /docker/calibre/books/set_pic.py 
