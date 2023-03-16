@@ -1,0 +1,88 @@
+import csv
+import os
+import subprocess
+from fuzzywuzzy import fuzz
+
+
+# 读取lastaddgames.csv文件中的书籍名称
+with open('lastaddgames.csv', 'r') as f:
+    # 使用csv模块读取CSV文件
+    reader = csv.reader(f)
+    # 跳过标题行
+    next(reader)
+    for row in reader:
+        # 忽略空白行或行中的列数不足的行
+        if not row or len(row) < 1:
+            continue
+        book_name = row[0].lower()
+
+        # 列出所有图片文件
+        files = os.listdir('/docker/calibre/books/temp')
+        max_similarity = 0
+        best_file = None
+
+        # 找到最相似的图片文件
+        for file in files:
+            similarity = fuzz.partial_ratio(book_name, file.split('.')[0].lower())
+            if similarity > max_similarity:
+                max_similarity = similarity
+                best_file = file
+        print(best_file)
+        # 使用calibredb搜索书籍ID并设置封面
+        if book_name is not None:
+            command_search = ['docker', 'exec', 'calibredb', 'calibredb', 'search', '--limit', ' 1', 'title:{}'.format(book_name), '--with-library=/books']
+            result_search = subprocess.check_output(command_search).decode().strip()
+            #print(command_search)
+            print(result_search)
+            book_id = result_search.split('\t')[0]
+            # 如果没有找到匹配的书籍，跳过
+            if not book_id:
+                continue
+
+            command_set_cover = ['docker', 'exec', 'calibredb', 'calibredb', 'set_metadata', '-f', 'cover:/books/temp/{}'.format(best_file), book_id, '--with-library=/books']
+            subprocess.call(command_set_cover)
+        # 删除CSV文件中的当前行
+        with open('lastaddgames.csv', 'r') as f:
+            lines = f.readlines()
+        with open('lastaddgames.csv', 'w') as f:
+            for line in lines:
+                if line.strip().split(',')[0] != book_name:
+                    f.write(line)
+
+# 读取gameintro.csv文件中的游戏名称和简介
+with open('gameintro.csv', 'r') as f:
+    # 使用csv模块读取CSV文件
+    reader = csv.reader(f)
+    # 跳过标题行
+    next(reader)
+    game_intros = {}
+    book_name2 = None
+    for row in reader:
+        # 忽略空白行或行中的列数不足的行
+        if not row or len(row) < 2:
+            continue
+        game_name = row[0]
+        game_intro = row[1]
+        game_intros[game_name] = game_intro
+
+        command_search2 = ['docker', 'exec', 'calibredb', 'calibredb', 'search', '--limit', ' 1', 'title:{}'.format(game_name), '--with-library=/books']
+        result_search2 = subprocess.check_output(command_search2).decode().strip()
+        #print(command_search2)
+        #print(result_search2)
+        # 如果没有找到匹配的书籍，跳过
+        if not result_search2:
+            continue
+        book_id2 = result_search2.split('\t')[0]
+        command_set_intro = ['docker', 'exec', 'calibredb', 'calibredb', 'set_metadata', '-f', 'comments:{}'.format(game_intros[game_name]), book_id2, '--with-library=/books']
+        subprocess.call(command_set_intro)
+
+        # 删除CSV文件中的当前行
+        with open('lastaddgames.csv', 'r') as f:
+            lines = f.readlines()
+        with open('lastaddgames.csv', 'w') as f:
+            for line in lines:
+                if line.strip().split(',')[0] != book_name:
+                    f.write(line)
+
+
+

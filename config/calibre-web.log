@@ -400,3 +400,79 @@ OSError: unexpected end of file while reading request at position 0
 [2023-03-15 15:23:33,575] ERROR {cps.helper:189} Cannot find book entry 951
 [2023-03-15 15:23:39,445] ERROR {cps.helper:189} Cannot find book entry 951
 [2023-03-15 15:41:17,308] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48fd2f7ac0 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-15 19:20:53,511] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48fd2f7ac0 object, fd=11, family=10, type=1, proto=0>: Invalid http version: 'PRI * HTTP/2.0\r\n'
+[2023-03-15 19:20:54,510] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48fd2f7ac0 object, fd=11, family=10, type=1, proto=0>: Invalid http version: 'PRI * HTTP/2.0\r\n'
+[2023-03-16 01:12:23,026] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48fcaa3b20 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-16 02:01:50,103] ERROR {cps.helper:189} Cannot find book entry 952
+[2023-03-16 02:01:54,520] ERROR {cps.helper:189} Cannot find book entry 952
+[2023-03-16 02:02:11,225] ERROR {cps.helper:189} Cannot find book entry 953
+[2023-03-16 02:02:45,033] ERROR {cps.helper:189} Cannot find book entry 954
+[2023-03-16 04:10:00,009]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-16 04:10:00 UTC)" (scheduled at 2023-03-16 04:10:00+00:00)
+[2023-03-16 04:10:00,009]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-16 04:10:00 UTC)" executed successfully
+[2023-03-16 05:12:23,986] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48fca3f100 object, fd=11, family=10, type=1, proto=0>: Invalid HTTP method: '\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00'
+[2023-03-16 06:06:05,341] ERROR {cps.helper:189} Cannot find book entry 935
+[2023-03-16 06:06:07,939] ERROR {cps.helper:189} Cannot find book entry 938
+[2023-03-16 06:06:12,604] ERROR {cps.helper:189} Cannot find book entry 938
+[2023-03-16 06:06:14,737] ERROR {cps.helper:189} Cannot find book entry 935
+[2023-03-16 06:30:59,923] ERROR {cps.helper:189} Cannot find book entry 938
+[2023-03-16 06:31:03,213] ERROR {cps.helper:189} Cannot find book entry 935
+[2023-03-16 06:31:26,725] ERROR {cps.helper:189} Cannot find book entry 938
+[2023-03-16 06:48:46,415] ERROR {cps.helper:189} Cannot find book entry 938
+[2023-03-16 06:48:50,893] ERROR {cps.helper:189} Cannot find book entry 935
+[2023-03-16 06:55:47,600] ERROR {cps.helper:189} Cannot find book entry 927
+[2023-03-16 06:55:49,547] ERROR {cps.helper:189} Cannot find book entry 926
+[2023-03-16 06:55:52,686] ERROR {cps.helper:189} Cannot find book entry 922
+[2023-03-16 06:55:56,067] ERROR {cps.helper:189} Cannot find book entry 923
+[2023-03-16 06:56:00,971] ERROR {cps.helper:189} Cannot find book entry 916
+[2023-03-16 06:56:03,628] ERROR {cps.helper:189} Cannot find book entry 918
+[2023-03-16 06:56:55,328] ERROR {cps.helper:189} Cannot find book entry 920
+[2023-03-16 06:57:03,278] ERROR {cps.helper:189} Cannot find book entry 920
+[2023-03-16 06:57:34,755] ERROR {cps.helper:189} Cannot find book entry 920
+[2023-03-16 06:57:39,706] ERROR {cps.helper:189} Cannot find book entry 920
+[2023-03-16 06:58:32,827] ERROR {cps.helper:189} Cannot find book entry 599
+[2023-03-16 06:58:41,213] ERROR {cps.helper:189} Cannot find book entry 599
+[2023-03-16 07:00:41,358] ERROR {cps.helper:189} Cannot find book entry 956
+[2023-03-16 07:00:45,728] ERROR {cps.helper:189} Cannot find book entry 955
+[2023-03-16 07:01:02,370] ERROR {cps.helper:189} Cannot find book entry 939
+[2023-03-16 07:01:04,961] ERROR {cps.helper:189} Cannot find book entry 956
+[2023-03-16 07:01:07,886] ERROR {cps.helper:189} Cannot find book entry 955
+[2023-03-16 07:01:10,073] ERROR {cps.helper:189} Cannot find book entry 948
+[2023-03-16 07:01:12,037] ERROR {cps.helper:189} Cannot find book entry 947
+[2023-03-16 07:01:14,604] ERROR {cps.helper:189} Cannot find book entry 939
+[2023-03-16 07:01:16,167] ERROR {cps.helper:189} Cannot find book entry 938
+[2023-03-16 07:01:18,357] ERROR {cps.helper:189} Cannot find book entry 937
+[2023-03-16 07:01:21,298] ERROR {cps.helper:189} Cannot find book entry 936
+[2023-03-16 07:01:24,411] ERROR {cps.helper:189} Cannot find book entry 935
+[2023-03-16 07:01:26,143] ERROR {cps.helper:189} Cannot find book entry 934
+[2023-03-16 07:01:28,908] ERROR {cps.helper:189} Cannot find book entry 933
+[2023-03-16 07:01:31,804] ERROR {cps.helper:189} Cannot find book entry 932
+[2023-03-16 07:01:37,513] ERROR {cps.helper:189} Cannot find book entry 931
+[2023-03-16 07:01:39,713] ERROR {cps.helper:189} Cannot find book entry 929
+[2023-03-16 07:01:42,124] ERROR {cps.helper:189} Cannot find book entry 928
+[2023-03-16 07:01:44,689] ERROR {cps.helper:189} Cannot find book entry 927
+[2023-03-16 07:01:47,138] ERROR {cps.helper:189} Cannot find book entry 926
+[2023-03-16 07:01:49,512] ERROR {cps.helper:189} Cannot find book entry 925
+[2023-03-16 07:01:52,686] ERROR {cps.helper:189} Cannot find book entry 923
+[2023-03-16 07:01:56,013] ERROR {cps.helper:189} Cannot find book entry 924
+[2023-03-16 07:02:02,366] ERROR {cps.helper:189} Cannot find book entry 916
+[2023-03-16 07:02:06,418] ERROR {cps.helper:189} Cannot find book entry 913
+[2023-03-16 07:02:08,632] ERROR {cps.helper:189} Cannot find book entry 915
+[2023-03-16 07:02:10,910] ERROR {cps.helper:189} Cannot find book entry 916
+[2023-03-16 07:03:44,033] ERROR {cps.helper:189} Cannot find book entry 955
+[2023-03-16 07:03:55,377] ERROR {cps.helper:189} Cannot find book entry 956
+[2023-03-16 07:04:50,867] ERROR {cps.helper:189} Cannot find book entry 956
+[2023-03-16 07:04:53,017] ERROR {cps.helper:189} Cannot find book entry 955
+[2023-03-16 07:13:46,046] ERROR {cps.helper:189} Cannot find book entry 955
+[2023-03-16 07:13:48,108] ERROR {cps.helper:189} Cannot find book entry 933
+[2023-03-16 07:13:58,562] ERROR {cps.helper:189} Cannot find book entry 920
+[2023-03-16 07:14:02,326] ERROR {cps.helper:189} Cannot find book entry 839
+[2023-03-16 07:32:20,924] ERROR {cps.helper:189} Cannot find book entry 917
+[2023-03-16 07:32:24,484] ERROR {cps.helper:189} Cannot find book entry 915
+[2023-03-16 07:32:31,187] ERROR {cps.helper:189} Cannot find book entry 915
+[2023-03-16 07:33:45,627] ERROR {cps.helper:189} Cannot find book entry 915
+[2023-03-16 07:33:49,501] ERROR {cps.helper:189} Cannot find book entry 913
+[2023-03-16 07:34:19,840] ERROR {cps.helper:189} Cannot find book entry 915
+[2023-03-16 07:34:33,154] ERROR {cps.helper:189} Cannot find book entry 915
+[2023-03-16 07:36:26,325] ERROR {cps.helper:189} Cannot find book entry 932
+[2023-03-16 08:14:50,758] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48fccb8ee0 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-16 16:45:05,050] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48efda5f00 object, fd=11, family=10, type=1, proto=0>: Invalid http version: "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03I\x06²ù¼\x99iÀYûøºe-\x83Ud]\x0e\x8d·b8´gÆÝ9dZ8f gÁ\x81i³öòË°©\x19NÖ½\x95g|püé<Z¡\x90T·é¥8'O;\x00&À+À/À,À0Ì©Ì¨À\tÀ\x13À\n"
