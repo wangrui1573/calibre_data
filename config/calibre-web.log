@@ -501,3 +501,5 @@ OSError: unexpected end of file while reading request at position 0
 [2023-03-20 04:10:00,025]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-21 04:10:00 UTC)" (scheduled at 2023-03-20 04:10:00+00:00)
 [2023-03-20 04:10:00,025]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-21 04:10:00 UTC)" executed successfully
 [2023-03-20 06:15:44,771] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48fdda0100 object, fd=11, family=10, type=1, proto=0>: Invalid HTTP method: '\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00'
+[2023-03-20 10:54:27,579] ERROR {cps.helper:189} Cannot find book entry 957
+[2023-03-20 13:57:04,177] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48fca3c7c0 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
