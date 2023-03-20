@@ -492,3 +492,12 @@ OSError: unexpected end of file while reading request at position 0
 [2023-03-19 06:58:09,812] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48ef869240 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
 [2023-03-19 08:19:55,258] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48ef835c00 object, fd=11, family=10, type=1, proto=0>: Invalid HTTP method: '\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00'
 [2023-03-19 17:34:12,288] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f490e235420 object, fd=11, family=10, type=1, proto=0>: Invalid http version: "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03I\x06²ù¼\x99iÀYûøºe-\x83Ud]\x0e\x8d·b8´gÆÝ9dZ8f gÁ\x81i³öòË°©\x19NÖ½\x95g|püé<Z¡\x90T·é¥8'O;\x00&À+À/À,À0Ì©Ì¨À\tÀ\x13À\n"
+[2023-03-20 00:58:52,154] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48fd2f6500 object, fd=11, family=10, type=1, proto=0>: Invalid http version: 'PRI * HTTP/2.0\r\n'
+[2023-03-20 00:58:53,097] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48fd2f6500 object, fd=11, family=10, type=1, proto=0>: Invalid http version: 'PRI * HTTP/2.0\r\n'
+[2023-03-20 03:15:21,722] ERROR {cps.helper:189} Cannot find book entry 958
+[2023-03-20 03:15:24,750] ERROR {cps.helper:189} Cannot find book entry 957
+[2023-03-20 03:37:37,226] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48fd2f6500 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-20 03:39:08,738] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48fd2f6500 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-20 04:10:00,025]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-21 04:10:00 UTC)" (scheduled at 2023-03-20 04:10:00+00:00)
+[2023-03-20 04:10:00,025]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-21 04:10:00 UTC)" executed successfully
+[2023-03-20 06:15:44,771] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48fdda0100 object, fd=11, family=10, type=1, proto=0>: Invalid HTTP method: '\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00'
