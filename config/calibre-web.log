@@ -517,3 +517,9 @@ OSError: unexpected end of file while reading request at position 0
 [2023-03-22 04:50:59,661] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48fca4ebc0 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
 [2023-03-22 05:04:04,988] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48fd2a4880 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
 [2023-03-22 06:53:17,487] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48fca4ebc0 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-22 23:20:22,639] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48ef979b40 object, fd=11, family=10, type=1, proto=0>: Invalid http version: 'PRI * HTTP/2.0\r\n'
+[2023-03-22 23:20:23,571] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48ef979b40 object, fd=11, family=10, type=1, proto=0>: Invalid http version: 'PRI * HTTP/2.0\r\n'
+[2023-03-23 00:26:28,913] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48efa97820 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-23 04:10:00,022]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-24 04:10:00 UTC)" (scheduled at 2023-03-23 04:10:00+00:00)
+[2023-03-23 04:10:00,028]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-24 04:10:00 UTC)" executed successfully
+[2023-03-23 17:27:39,764] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48efa94f40 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
