@@ -1,20 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-        <dc:identifier opf:scheme="calibre" id="calibre_id">958</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">3d85f875-c4be-4116-a2e7-d238a8f6f212</dc:identifier>
-        <dc:title>原子之心</dc:title>
+        <dc:identifier opf:scheme="calibre" id="calibre_id">962</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a560cc50-d475-48f4-9e9f-ccf0263f173b</dc:identifier>
+        <dc:title>八方旅人2</dc:title>
         <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
-        <dc:description>莫斯科游戏开发商[Mundfish]释出
-第一人称惊悚诡异 动作冒险游戏《原子之心》（Atomic Heart）
-本作将于2018年内推出，对应PS4/PC/XboxOne平台</dc:description>
-        <dc:publisher>/volume4/RDM_12T/02.Games/PS4/20230320-原子之心/</dc:publisher>
+        <dc:publisher>/volume4/RDM_12T/02.Games/PS4/20230324-八方旅人2/</dc:publisher>
         <dc:language>en</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-03-20T03:14:44+00:00"/>
-        <meta name="calibre:title_sort" content="原子之心"/>
+        <meta name="calibre:timestamp" content="2023-03-24T06:18:16+00:00"/>
+        <meta name="calibre:title_sort" content="八方旅人2"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

@@ -523,3 +523,15 @@ OSError: unexpected end of file while reading request at position 0
 [2023-03-23 04:10:00,022]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-24 04:10:00 UTC)" (scheduled at 2023-03-23 04:10:00+00:00)
 [2023-03-23 04:10:00,028]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-24 04:10:00 UTC)" executed successfully
 [2023-03-23 17:27:39,764] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48efa94f40 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-24 01:08:01,037] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48efa94f40 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-24 02:36:37,691] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48efa97820 object, fd=11, family=10, type=1, proto=0>: Invalid HTTP method: '\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00'
+[2023-03-24 04:10:00,029]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-25 04:10:00 UTC)" (scheduled at 2023-03-24 04:10:00+00:00)
+[2023-03-24 04:10:00,033]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-25 04:10:00 UTC)" executed successfully
+[2023-03-24 04:49:05,318] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48efa94f40 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-24 05:50:14,830] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48efa94f40 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-24 06:19:06,876] ERROR {cps.helper:189} Cannot find book entry 959
+[2023-03-24 06:19:21,152] ERROR {cps.helper:189} Cannot find book entry 960
+[2023-03-24 06:20:14,770] ERROR {cps.helper:189} Cannot find book entry 963
+[2023-03-24 06:21:41,404] ERROR {cps.helper:189} Cannot find book entry 961
+[2023-03-24 06:21:45,364] ERROR {cps.helper:189} Cannot find book entry 962
+[2023-03-24 07:21:16,438] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48ef888dc0 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
