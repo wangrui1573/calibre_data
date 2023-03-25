@@ -543,3 +543,6 @@ OSError: unexpected end of file while reading request at position 0
 [2023-03-25 05:19:32,796] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48efbbc040 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
 [2023-03-25 05:56:28,161] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48efe7c460 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
 [2023-03-25 08:59:33,504] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48efe38940 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-25 16:38:07,943] ERROR {cps.helper:189} Cannot find book entry 965
+[2023-03-25 16:38:47,212] ERROR {cps.helper:189} Cannot find book entry 964
+[2023-03-25 16:41:54,440] ERROR {cps.helper:189} Cannot find book entry 965
