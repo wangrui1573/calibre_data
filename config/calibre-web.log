@@ -535,3 +535,11 @@ OSError: unexpected end of file while reading request at position 0
 [2023-03-24 06:21:41,404] ERROR {cps.helper:189} Cannot find book entry 961
 [2023-03-24 06:21:45,364] ERROR {cps.helper:189} Cannot find book entry 962
 [2023-03-24 07:21:16,438] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48ef888dc0 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-25 01:19:48,590] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48efa94f40 object, fd=11, family=10, type=1, proto=0>: Invalid http version: 'PRI * HTTP/2.0\r\n'
+[2023-03-25 01:19:49,555] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48efa94f40 object, fd=11, family=10, type=1, proto=0>: Invalid http version: 'PRI * HTTP/2.0\r\n'
+[2023-03-25 04:10:00,032]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-26 04:10:00 UTC)" (scheduled at 2023-03-25 04:10:00+00:00)
+[2023-03-25 04:10:00,037]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-03-26 04:10:00 UTC)" executed successfully
+[2023-03-25 05:15:55,635] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48efbbc040 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-25 05:19:32,796] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48efbbc040 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-25 05:56:28,161] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48efe7c460 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+[2023-03-25 08:59:33,504] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48efe38940 object, fd=11, family=10, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
