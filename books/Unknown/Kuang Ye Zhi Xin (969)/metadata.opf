@@ -1,18 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-        <dc:identifier opf:scheme="calibre" id="calibre_id">966</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">76c3c3b0-982c-4a2d-926a-b5b732402365</dc:identifier>
-        <dc:title>枯瑟信仰：放逐者</dc:title>
+        <dc:identifier opf:scheme="calibre" id="calibre_id">969</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b92c376-f7f0-4242-a046-c3fd2dc1cd38</dc:identifier>
+        <dc:title>狂野之心</dc:title>
         <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
-        <dc:description>在 kickstarter  上众筹成功的第三人称恐怖生存类游戏《Bleak Faith: Forsaken》在近日确认，游戏将在今年年内登陆 PC 平台，未来也将登陆主机平台。</dc:description>
-        <dc:publisher>/volume4/RDM_12T/02.Games/PC/20230324-枯瑟信仰：放逐者/</dc:publisher>
         <dc:language>en</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-03-25T16:34:28+00:00"/>
-        <meta name="calibre:title_sort" content="枯瑟信仰：放逐者"/>
+        <meta name="calibre:timestamp" content="2023-03-31T07:08:58.099140+00:00"/>
+        <meta name="calibre:title_sort" content="狂野之心"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

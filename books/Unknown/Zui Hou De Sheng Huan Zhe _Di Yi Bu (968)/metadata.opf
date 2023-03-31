@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">968</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce5e6d25-318d-4ba3-8f64-05e2363ff45c</dc:identifier>
+        <dc:title>最后的生还者：第一部</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>包括Tom Henderson的多个消息源称，《The Last of Us Remake》的制作已经接近完工，可能会在2022下半年稍晚时候公布。
+ Game Reactor发表的一篇文章称本作不单单会提高游戏性能和分辨率，还将提升游戏玩法，利用PS5的硬件性能和《最后生还者2》中更强大的引擎，添加新的游戏要素。
+ 外媒记者Jason Schreier表示顽皮狗正在运作该项目。
+ 创立了Visual Arts Service Group的Michael Mumbauer曾主导成立了一个大约30名开发人员的未命名的新团队为本作的开发做了前期工作。</dc:description>
+        <dc:publisher>/volume4/RDM_12T/02.Games/PC/20230331-最后的生还者：第一部/</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-31T07:06:04+00:00"/>
+        <meta name="calibre:title_sort" content="最后的生还者：第一部"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
