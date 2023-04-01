@@ -591,3 +591,9 @@ OSError: unexpected end of file while reading request at position 0
 [2023-03-31 07:09:30,178] ERROR {cps.helper:189} Cannot find book entry 968
 [2023-03-31 07:10:48,833] ERROR {cps.helper:189} Cannot find book entry 969
 [2023-03-31 07:10:54,371] ERROR {cps.helper:189} Cannot find book entry 968
+[2023-04-01 04:10:00,059]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-04-02 04:10:00 UTC)" (scheduled at 2023-04-01 04:10:00+00:00)
+[2023-04-01 04:10:00,063]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-04-02 04:10:00 UTC)" executed successfully
+[2023-04-01 06:33:14,860] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48ef9ccd00 object, fd=11, family=10, type=1, proto=0>: Invalid HTTP method: '\r\n'
+[2023-04-01 06:34:11,265] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48fd22bf40 object, fd=12, family=10, type=1, proto=0>: Invalid HTTP method: '\x0e\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00bbbb0100000001'
+[2023-04-01 12:38:55,502] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48efc245e0 object, fd=11, family=10, type=1, proto=0>: Invalid http version: 'PRI * HTTP/2.0\r\n'
+[2023-04-01 12:38:56,537] ERROR {cps.server:1226} <gevent._socket3.socket at 0x7f48efc245e0 object, fd=11, family=10, type=1, proto=0>: Invalid http version: 'PRI * HTTP/2.0\r\n'
