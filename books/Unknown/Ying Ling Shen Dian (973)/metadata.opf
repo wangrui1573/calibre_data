@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">973</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1b2e82b4-c9f9-4840-8e7d-697870a9e999</dc:identifier>
+        <dc:title>英灵神殿</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>PC GAMING SHOW公布了动作冒险游戏《Valheim》，本作是一款设置在幻想世界里的生存&amp;探索游戏。游戏的灵感来源于北欧神话和古老的维京文化。</dc:description>
+        <dc:publisher>/volume4/RDM_12T/02.Games/PC/20230414-英灵神殿/</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-21T05:05:50+00:00"/>
+        <meta name="calibre:title_sort" content="英灵神殿"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

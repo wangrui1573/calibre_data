@@ -7,9 +7,18 @@
         <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>《建筑模拟2015》是由Astragon Software公司制作的一款模拟经营游戏，游戏从多面精心制作表现一个建筑施工队的所有建设任务，总共有15种高精细的建筑机械以及各种载具，模仿了多个国际知名的机械制造商的机械；玩家在游戏中可以自由探索，拥有多样化的建筑任务等待着玩家，在最初阶段，玩家作为一名工地的小工头，刚继承了一些建设队资源，通过完成各种建筑任务和合同，慢慢成长，最终成为这个城市最大的建筑大亨。
+ 模拟特色
+ －15种国际知名机械商制作的机械，支持玩家对车辆配件进行改装。
+ －完全真实的车辆操作，支持自由控制或者专业控制。
+ －超过100个建筑任务，并且建造多种独特的城市建筑物。
+ －非线性的动态系统，支持游戏自由探索，更多的游戏乐趣。
+ －独特的积分系统，解锁各种特殊有趣的任务。
+ －支持多人在线游戏，可以和朋友进行合作建设。</dc:description>
+        <dc:publisher>/volume4/RDM_12T/02.Games/PS4/20230407-模拟建筑/</dc:publisher>
         <dc:language>en</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-04-07T09:13:13.698347+00:00"/>
+        <meta name="calibre:timestamp" content="2023-04-07T09:13:13+00:00"/>
         <meta name="calibre:title_sort" content="模拟建筑"/>
     </metadata>
     <guide>

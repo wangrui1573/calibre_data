@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">350</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">14d46305-37e1-427f-9f93-ccdb35b18577</dc:identifier>
+        <dc:title>赛博朋克2077</dc:title>
+        <dc:creator opf:file-as="RED, CD PROJEKT" opf:role="aut">CD PROJEKT RED</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;《赛博朋克2077》（英语：Cyberpunk 2077，香港常用英文，台湾译作“电驭叛客2077”）是一款由CD Projekt开发并发行的第一人称视角角色扮演游戏。本作改编自桌面游戏《赛博朋克2020》，设定在2077年美国加利福尼亚州的反乌托邦式城市夜城，玩家在这一开放世界中扮演称为“V”的角色。&#13;
+游戏设定在加利福尼亚州的开放世界大都会夜城（Night City）。本作具有非英语角色，不说该语言的玩家可以购买翻译植入物以加深对他们的理解。不同植入物的翻译质量会有所不同，更昂贵的植入物可以提供更准确的翻译。“脑舞”（Braindance）是一种直接流入大脑的数字记录设备，可让玩家体验其他人的情绪、大脑活动和肌肉动作，如同自身。游戏根据玩家的选择会有不同的结局。CD Projekt最初宣布推出多人模式，但后来决定将重点放在单人模式。&#13;
+（摘自维基百科中文版）&lt;/p&gt;</dc:description>
+        <dc:publisher>/volume4/RDM_12T/02.Games/PC/20230414-赛博朋克2077/</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>PC</dc:subject>
+        <dc:subject>待添加路径</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;CD PROJEKT RED&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-12-28T06:34:42+00:00"/>
+        <meta name="calibre:title_sort" content="赛博朋克2077"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

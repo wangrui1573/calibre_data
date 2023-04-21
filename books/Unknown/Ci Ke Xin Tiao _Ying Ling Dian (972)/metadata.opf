@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">972</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">99d0cf90-3cb0-4cb3-9a8f-5cef4409f64b</dc:identifier>
+        <dc:title>刺客信条：英灵殿</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>扮演追求荣耀的的传奇维京战士艾沃尔，探索英格兰的黑暗时代，劫掠敌人，发展居民地并培育政治力量。
+ • 对撒克逊部队和城堡发动史诗级别的维京突袭。
+• 双持强大武器将您完全带入维京勇士凶猛的战斗风格。
+• 遭遇《刺客信条》游戏中最多样的凶残敌人，为自己寻找更高挑战。
+• 随着每一个选择随心所欲地塑造角色的成长路线，铺就一条只属于自己的荣耀之路。
+• 从挪威海岸起航，到英格兰王国，探索黑暗时代的庞大开放世界。
+• 定制自己的居民地以打造专属的维京体验。</dc:description>
+        <dc:publisher>/volume4/RDM_12T/02.Games/PC/20230414-刺客信条：英灵殿/</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-21T05:05:49+00:00"/>
+        <meta name="calibre:title_sort" content="刺客信条：英灵殿"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
