@@ -1,18 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-        <dc:identifier opf:scheme="calibre" id="calibre_id">976</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">af2ef79f-c3ec-45b6-bf80-e029f95ad9ac</dc:identifier>
-        <dc:title>塞尔达传说：王国之泪</dc:title>
+        <dc:identifier opf:scheme="calibre" id="calibre_id">978</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">086e05cf-239d-4684-8bcf-30c93ffdc86a</dc:identifier>
+        <dc:title>Humanity</dc:title>
         <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
-        <dc:description>塞尔达传说旷野之息续作正式发布！</dc:description>
-        <dc:publisher>/volume4/RDM_12T/02.Games/NS/20230505-塞尔达传说：王国之泪/</dc:publisher>
+        <dc:publisher>/volume4/RDM_12T/02.Games/PC/20230509-Humanity/</dc:publisher>
         <dc:language>en</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-05-12T06:24:26+00:00"/>
-        <meta name="calibre:title_sort" content="塞尔达传说：王国之泪"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:35:58+00:00"/>
+        <meta name="calibre:title_sort" content="Humanity"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>
