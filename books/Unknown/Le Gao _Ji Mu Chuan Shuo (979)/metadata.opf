@@ -7,9 +7,11 @@
         <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>“乐高积木砖块”是一款以乐高积木为道具的打砖块游戏，游戏的风格轻松，画面形象拟真。超过160个积木搭建的游戏关卡中你将会得到新奇的乐趣。捕捉塑胶积木来扩充挡板，释放积木来获得特别的保护能力。在游戏的过程中会出现20种独特的宝物，每种宝物都会帮助你更容易都通过关卡。</dc:description>
+        <dc:publisher>/volume4/RDM_12T/02.Games/PC/20230519-乐高：积木传说/</dc:publisher>
         <dc:language>en</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-05-19T07:35:58.918820+00:00"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:35:58+00:00"/>
         <meta name="calibre:title_sort" content="乐高：积木传说"/>
     </metadata>
     <guide>

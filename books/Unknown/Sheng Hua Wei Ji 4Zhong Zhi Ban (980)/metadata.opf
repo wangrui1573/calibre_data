@@ -1,18 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-        <dc:identifier opf:scheme="calibre" id="calibre_id">978</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">086e05cf-239d-4684-8bcf-30c93ffdc86a</dc:identifier>
-        <dc:title>Humanity</dc:title>
+        <dc:identifier opf:scheme="calibre" id="calibre_id">980</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f6aacc9-0d1a-460b-945e-3c5865899765</dc:identifier>
+        <dc:title>生化危机4重制版</dc:title>
         <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
-        <dc:description>由《Rez无限》、《音乐方块》和《俄罗斯方块效应》的创作者Enhance联手Tha Ltd.打造的全新作品《HUMANITY》将于2021年上市PS4平台，并支持PlayStation VR。官网：humanity.game。</dc:description>
-        <dc:publisher>/volume4/RDM_12T/02.Games/PC/20230509-Humanity/</dc:publisher>
         <dc:language>en</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-05-19T07:35:58+00:00"/>
-        <meta name="calibre:title_sort" content="Humanity"/>
+        <meta name="calibre:timestamp" content="2023-05-26T09:16:41.087494+00:00"/>
+        <meta name="calibre:title_sort" content="生化危机4重制版"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>
