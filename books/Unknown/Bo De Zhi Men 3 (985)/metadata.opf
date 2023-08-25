@@ -7,9 +7,12 @@
         <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>拉瑞安工作室自豪地宣布，正基于PC和Google Stadia平台进行《博德之门3》的开发和发行工作，并与威世智的龙与地下城团队进行紧密合作。源起于目前D&amp;D独有的机制规则与法术体系，《博德之门3》将成为这个传奇系列的正式全新篇章。
+ 《博德之门3》将撼动RPG的上限，玩家在其中可以体验无与伦比的自由度，经历由该游戏带来的丰富故事线，同时作出高风险的决策，与独特的伙伴同游，并进行无数次难忘的战斗。这是拉瑞安工作室有史以来最大规模的作品，玩家可以和朋友们一同游玩，也能够以单人模式开始冒险。</dc:description>
+        <dc:publisher>/volume4/RDM_12T/02.Games/PC/20230804-博德之门3/</dc:publisher>
         <dc:language>en</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-08-04T07:58:38.635318+00:00"/>
+        <meta name="calibre:timestamp" content="2023-08-04T07:58:38+00:00"/>
         <meta name="calibre:title_sort" content="博德之门3"/>
     </metadata>
     <guide>

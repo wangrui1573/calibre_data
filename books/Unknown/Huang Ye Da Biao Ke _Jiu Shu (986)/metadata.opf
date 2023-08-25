@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">986</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e742000d-8042-4549-bf45-5d3b97009adb</dc:identifier>
+        <dc:title>荒野大镖客：救赎</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;《荒野大镖客：救赎》是一款开放世界动作冒险西部视频游戏，由 Rockstar San Diego 开发并由 Rockstar Games 发行。 它于 2010 年 5 月 18 日在 PlayStation 3 和 Xbox 360 上发布。它是 2004 年《Red Dead Revolver》的精神继承者。 [8] 游戏的大部分故事发生在 1911 年，当时美国老西部正在衰落。 游戏讲述了前亡命之徒约翰·马斯顿 (John Marston) 开始追捕他的前帮派成员的故事。 马斯顿的妻子和儿子因其作为赏金猎人的服务而被政府扣为人质以获取赎金。 别无选择，他开始将三名前帮派成员绳之以法&lt;/p&gt;</dc:description>
+        <dc:publisher>/volume4/RDM_12T/02.Games/NS/202030825-荒野大镖客：救赎/</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-08-25T09:16:04+00:00"/>
+        <meta name="calibre:title_sort" content="荒野大镖客：救赎"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
